@@ -5,6 +5,7 @@
             "cities": [
                 {
                     "name": "Tirana",
+                    "country": "Albania",
                     "population": 421286,
                     "average_age": 32.5,
                     "area": 41.8,
@@ -51,6 +52,7 @@
                 },
                 {
                     "name": "Durrës",
+                    "country": "Albania",
                     "population": 175110,
                     "average_age": 29.8,
                     "area": 338.3,
@@ -97,6 +99,7 @@
                 },
                 {
                     "name": "Vlora",
+                    "country": "Albania",
                     "population": 79513,
                     "average_age": 31.2,
                     "area": 647.5,
@@ -143,6 +146,7 @@
                 },
                 {
                     "name": "Elbasan",
+                    "country": "Albania",
                     "population": 78703,
                     "average_age": 30.5,
                     "area": 1248,
@@ -189,6 +193,7 @@
                 },
                 {
                     "name": "Shkodra",
+                    "country": "Albania",
                     "population": 77075,
                     "average_age": 29.9,
                     "area": 872,
@@ -235,6 +240,7 @@
                 },
                 {
                     "name": "Fier",
+                    "country": "Albania",
                     "population": 59547,
                     "average_age": 31.6,
                     "area": 59.5,
@@ -281,6 +287,7 @@
                 },
                 {
                     "name": "Kamza",
+                    "country": "Albania",
                     "population": 51293,
                     "average_age": 30.2,
                     "area": 10.5,
@@ -327,6 +334,7 @@
                 },
                 {
                     "name": "Korça",
+                    "country": "Albania",
                     "population": 51152,
                     "average_age": 32.1,
                     "area": 805.99,
@@ -373,6 +381,7 @@
                 },
                 {
                     "name": "Berat",
+                    "country": "Albania",
                     "population": 46066,
                     "average_age": 31.7,
                     "area": 379.98,
@@ -419,6 +428,7 @@
                 },
                 {
                     "name": "Lushnja",
+                    "country": "Albania",
                     "population": 37922,
                     "average_age": 32.8,
                     "area": 312,
@@ -475,6 +485,7 @@
             "cities": [
                 {
                     "name": "Andorra la Vella",
+                    "country": "Andorra",
                     "population": 22256,
                     "average_age": 40.2,
                     "area": 12.1,
@@ -531,6 +542,7 @@
             "cities": [
                 {
                     "name": "Brussels",
+                    "country": "Belgium",
                     "population": 1208542,
                     "average_age": 36.9,
                     "area": 32.61,
@@ -577,6 +589,7 @@
                 },
                 {
                     "name": "Antwerp",
+                    "country": "Belgium",
                     "population": 525935,
                     "average_age": 41.2,
                     "area": 204.51,
@@ -623,6 +636,7 @@
                 },
                 {
                     "name": "Ghent",
+                    "country": "Belgium",
                     "population": 262219,
                     "average_age": 38.7,
                     "area": 156.18,
@@ -669,6 +683,7 @@
                 },
                 {
                     "name": "Charleroi",
+                    "country": "Belgium",
                     "population": 202267,
                     "average_age": 40.9,
                     "area": 102.08,
@@ -715,6 +730,7 @@
                 },
                 {
                     "name": "Liege",
+                    "country": "Belgium",
                     "population": 197355,
                     "average_age": 39.1,
                     "area": 69.39,
@@ -761,6 +777,7 @@
                 },
                 {
                     "name": "Bruges",
+                    "country": "Belgium",
                     "population": 118325,
                     "average_age": 43.5,
                     "area": 138.40,
@@ -807,6 +824,7 @@
                 },
                 {
                     "name": "Namur",
+                    "country": "Belgium",
                     "population": 110096,
                     "average_age": 40.2,
                     "area": 175.69,
@@ -853,6 +871,7 @@
                 },
                 {
                     "name": "Leuven",
+                    "country": "Belgium",
                     "population": 101032,
                     "average_age": 39.8,
                     "area": 57.50,
@@ -899,6 +918,7 @@
                 },
                 {
                     "name": "Mons",
+                    "country": "Belgium",
                     "population": 95662,
                     "average_age": 39.2,
                     "area": 146.53,
@@ -945,6 +965,7 @@
                 },
                 {
                     "name": "Anderlecht",
+                    "country": "Belgium",
                     "population": 119714,
                     "average_age": 38.6,
                     "area": 17.74,
@@ -1001,6 +1022,7 @@
             "cities": [
                 {
                     "name": "Sarajevo",
+                    "country": "Bosnia and Herzegovina",
                     "population": 275524,
                     "average_age": 35.7,
                     "area": 142.79,
@@ -1047,6 +1069,7 @@
                 },
                 {
                     "name": "Banja Luka",
+                    "country": "Bosnia and Herzegovina",
                     "population": 199191,
                     "average_age": 38.2,
                     "area": 123.5,
@@ -1093,6 +1116,7 @@
                 },
                 {
                     "name": "Tuzla",
+                    "country": "Bosnia and Herzegovina",
                     "population": 144478,
                     "average_age": 37.5,
                     "area": 72.99,
@@ -1139,6 +1163,7 @@
                 },
                 {
                     "name": "Zenica",
+                    "country": "Bosnia and Herzegovina",
                     "population": 110663,
                     "average_age": 36.8,
                     "area": 49.2,
@@ -1185,6 +1210,7 @@
                 },
                 {
                     "name": "Mostar",
+                    "country": "Bosnia and Herzegovina",
                     "population": 105797,
                     "average_age": 37.1,
                     "area": 129.5,
@@ -1231,6 +1257,7 @@
                 },
                 {
                     "name": "Bijeljina",
+                    "country": "Bosnia and Herzegovina",
                     "population": 107715,
                     "average_age": 37.9,
                     "area": 734.2,
@@ -1277,6 +1304,7 @@
                 },
                 {
                     "name": "Prijedor",
+                    "country": "Bosnia and Herzegovina",
                     "population": 88740,
                     "average_age": 38.6,
                     "area": 834.3,
@@ -1323,6 +1351,7 @@
                 },
                 {
                     "name": "Brčko",
+                    "country": "Bosnia and Herzegovina",
                     "population": 83949,
                     "average_age": 39.2,
                     "area": 513,
@@ -1379,6 +1408,7 @@
             "cities": [
                 {
                     "name": "Sofia",
+                    "country": "Bulgaria",
                     "population": 1300000,
                     "average_age": 38.5,
                     "area": 492.86,
@@ -1425,6 +1455,7 @@
                 },
                 {
                     "name": "Plovdiv",
+                    "country": "Bulgaria",
                     "population": 346000,
                     "average_age": 39.2,
                     "area": 101.98,
@@ -1471,6 +1502,7 @@
                 },
                 {
                     "name": "Varna",
+                    "country": "Bulgaria",
                     "population": 334466,
                     "average_age": 38.9,
                     "area": 238.22,
@@ -1517,6 +1549,7 @@
                 },
                 {
                     "name": "Burgas",
+                    "country": "Bulgaria",
                     "population": 211033,
                     "average_age": 39.6,
                     "area": 202.98,
@@ -1563,6 +1596,7 @@
                 },
                 {
                     "name": "Ruse",
+                    "country": "Bulgaria",
                     "population": 150498,
                     "average_age": 39.3,
                     "area": 162.25,
@@ -1609,6 +1643,7 @@
                 },
                 {
                     "name": "Stara Sagora",
+                    "country": "Bulgaria",
                     "population": 138272,
                     "average_age": 39.8,
                     "area": 108.43,
@@ -1655,6 +1690,7 @@
                 },
                 {
                     "name": "Plowdiw",
+                    "country": "Bulgaria",
                     "population": 347979,
                     "average_age": 38.7,
                     "area": 101.98,
@@ -1701,6 +1737,7 @@
                 },
                 {
                     "name": "Sliven",
+                    "country": "Bulgaria",
                     "population": 88301,
                     "average_age": 39.4,
                     "area": 193.81,
@@ -1747,6 +1784,7 @@
                 },
                 {
                     "name": "Blagoevgrad",
+                    "country": "Bulgaria",
                     "population": 77000,
                     "average_age": 39.1,
                     "area": 28.9,
@@ -1803,6 +1841,7 @@
             "cities": [
                 {
                     "name": "Kopenhagen",
+                    "country": "Denmark",
                     "population": 623404,
                     "average_age": 39.2,
                     "area": 86.20,
@@ -1849,6 +1888,7 @@
                 },
                 {
                     "name": "Aarhus",
+                    "country": "Denmark",
                     "population": 349983,
                     "average_age": 39.8,
                     "area": 91.87,
@@ -1895,6 +1935,7 @@
                 },
                 {
                     "name": "Odense",
+                    "country": "Denmark",
                     "population": 204718,
                     "average_age": 40.2,
                     "area": 304.34,
@@ -1941,9 +1982,10 @@
                 },
                 {
                     "name": "Aalborg",
+                    "country": "Denmark",
                     "population": 217075,
                     "average_age": 40.1,
-                    "area": 1...
+                    "area": 1,
                     "elevation_meters": 7,
                     "max_daily_temperature_celsius": 20.1,
                     "min_daily_temperature_celsius": 1.7,
@@ -1953,6 +1995,7 @@
                 },
                 {
                     "name": "Esbjerg",
+                    "country": "Denmark",
                     "population": 71618,
                     "average_age": 39.5,
                     "area": 21.92,
@@ -1999,6 +2042,7 @@
                 },
                 {
                     "name": "Randers",
+                    "country": "Denmark",
                     "population": 62364,
                     "average_age": 40.6,
                     "area": 60.71,
@@ -2045,6 +2089,7 @@
                 },
                 {
                     "name": "Kolding",
+                    "country": "Denmark",
                     "population": 60665,
                     "average_age": 40.0,
                     "area": 224.94,
@@ -2091,6 +2136,7 @@
                 },
                 {
                     "name": "Horsens",
+                    "country": "Denmark",
                     "population": 59095,
                     "average_age": 40.3,
                     "area": 51.90,
@@ -2147,6 +2193,7 @@
             "cities": [
                 {
                     "name": "Berlin",
+                    "country": "Germany",
                     "population": 3748148,
                     "average_age": 42.3,
                     "area": 891.85,
@@ -2193,6 +2240,7 @@
                 },
                 {
                     "name": "Hamburg",
+                    "country": "Germany",
                     "population": 1899160,
                     "average_age": 43.8,
                     "area": 755.30,
@@ -2239,6 +2287,7 @@
                 },
                 {
                     "name": "München",
+                    "country": "Germany",
                     "population": 1471508,
                     "average_age": 42.7,
                     "area": 310.70,
@@ -2285,6 +2334,7 @@
                 },
                 {
                     "name": "Köln",
+                    "country": "Germany",
                     "population": 1080394,
                     "average_age": 42.1,
                     "area": 405.02,
@@ -2331,6 +2381,7 @@
                 },
                 {
                     "name": "Frankfurt am Main",
+                    "country": "Germany",
                     "population": 763380,
                     "average_age": 41.5,
                     "area": 248.31,
@@ -2377,6 +2428,7 @@
                 },
                 {
                     "name": "Stuttgart",
+                    "country": "Germany",
                     "population": 623738,
                     "average_age": 42.0,
                     "area": 207.35,
@@ -2423,6 +2475,7 @@
                 },
                 {
                     "name": "Düsseldorf",
+                    "country": "Germany",
                     "population": 619294,
                     "average_age": 43.2,
                     "area": 217.41,
@@ -2469,6 +2522,7 @@
                 },
                 {
                     "name": "Dortmund",
+                    "country": "Germany",
                     "population": 587010,
                     "average_age": 42.4,
                     "area": 280.71,
@@ -2515,6 +2569,7 @@
                 },
                 {
                     "name": "Essen",
+                    "country": "Germany",
                     "population": 582624,
                     "average_age": 42.3,
                     "area": 210.38,
@@ -2561,6 +2616,7 @@
                 },
                 {
                     "name": "Leipzig",
+                    "country": "Germany",
                     "population": 593145,
                     "average_age": 41.7,
                     "area": 297.63,
@@ -2607,6 +2663,7 @@
                 },
                 {
                     "name": "Bremen",
+                    "country": "Germany",
                     "population": 569352,
                     "average_age": 42.9,
                     "area": 325.42,
@@ -2653,6 +2710,7 @@
                 },
                 {
                     "name": "Dresden",
+                    "country": "Germany",
                     "population": 554649,
                     "average_age": 41.5,
                     "area": 328.48,
@@ -2709,6 +2767,7 @@
             "cities": [
                 {
                     "name": "Tallinn",
+                    "country": "Estland",
                     "population": 440778,
                     "average_age": 41.5,
                     "area": 159.2,
@@ -2755,6 +2814,7 @@
                 },
                 {
                     "name": "Tartu",
+                    "country": "Estland",
                     "population": 93903,
                     "average_age": 37.9,
                     "area": 38.8,
@@ -2801,6 +2861,7 @@
                 },
                 {
                     "name": "Narva",
+                    "country": "Estland",
                     "population": 55440,
                     "average_age": 43.1,
                     "area": 60.0,
@@ -2847,6 +2908,7 @@
                 },
                 {
                     "name": "Kohtla-Järve",
+                    "country": "Estland",
                     "population": 34058,
                     "average_age": 42.7,
                     "area": 46.1,
@@ -2893,6 +2955,7 @@
                 },
                 {
                     "name": "Pärnu",
+                    "country": "Estland",
                     "population": 50142,
                     "average_age": 43.5,
                     "area": 32.9,
@@ -2939,6 +3002,7 @@
                 },
                 {
                     "name": "Viljandi",
+                    "country": "Estland",
                     "population": 17892,
                     "average_age": 42.9,
                     "area": 15.9,
@@ -2985,6 +3049,7 @@
                 },
                 {
                     "name": "Rakvere",
+                    "country": "Estland",
                     "population": 14765,
                     "average_age": 43.2,
                     "area": 10.1,
@@ -3041,6 +3106,7 @@
             "cities": [
                 {
                     "name": "Helsinki",
+                    "country": "Finnland",
                     "population": 654045,
                     "average_age": 42.3,
                     "area": 214.25,
@@ -3087,6 +3153,7 @@
                 },
                 {
                     "name": "Espoo",
+                    "country": "Finnland",
                     "population": 297804,
                     "average_age": 39.8,
                     "area": 528.03,
@@ -3133,6 +3200,7 @@
                 },
                 {
                     "name": "Tampere",
+                    "country": "Finnland",
                     "population": 238140,
                     "average_age": 39.2,
                     "area": 689.59,
@@ -3179,6 +3247,7 @@
                 },
                 {
                     "name": "Vantaa",
+                    "country": "Finnland",
                     "population": 228166,
                     "average_age": 38.7,
                     "area": 240.35,
@@ -3225,6 +3294,7 @@
                 },
                 {
                     "name": "Oulu",
+                    "country": "Finnland",
                     "population": 203750,
                     "average_age": 36.5,
                     "area": 3587.87,
@@ -3271,6 +3341,7 @@
                 },
                 {
                     "name": "Turku",
+                    "country": "Finnland",
                     "population": 192164,
                     "average_age": 42.9,
                     "area": 245.67,
@@ -3317,6 +3388,7 @@
                 },
                 {
                     "name": "Jyväskylä",
+                    "country": "Finnland",
                     "population": 142477,
                     "average_age": 37.8,
                     "area": 1368.51,
@@ -3363,6 +3435,7 @@
                 },
                 {
                     "name": "Lahti",
+                    "country": "Finnland",
                     "population": 120747,
                     "average_age": 40.1,
                     "area": 517.39,
@@ -3419,6 +3492,7 @@
             "cities": [
                 {
                     "name": "Paris",
+                    "country": "Frankreich",
                     "population": 2140526,
                     "average_age": 38.9,
                     "area": 105.4,
@@ -3465,6 +3539,7 @@
                 },
                 {
                     "name": "Marseille",
+                    "country": "Frankreich",
                     "population": 861635,
                     "average_age": 40.5,
                     "area": 240.62,
@@ -3511,6 +3586,7 @@
                 },
                 {
                     "name": "Lyon",
+                    "country": "Frankreich",
                     "population": 515695,
                     "average_age": 40.8,
                     "area": 47.87,
@@ -3557,6 +3633,7 @@
                 },
                 {
                     "name": "Toulouse",
+                    "country": "Frankreich",
                     "population": 479553,
                     "average_age": 38.2,
                     "area": 118.3,
@@ -3603,6 +3680,7 @@
                 },
                 {
                     "name": "Nizza",
+                    "country": "Frankreich",
                     "population": 343629,
                     "average_age": 43.1,
                     "area": 71.92,
@@ -3649,6 +3727,7 @@
                 },
                 {
                     "name": "Nantes",
+                    "country": "Frankreich",
                     "population": 309346,
                     "average_age": 38.7,
                     "area": 65.19,
@@ -3695,6 +3774,7 @@
                 },
                 {
                     "name": "Straßburg",
+                    "country": "Frankreich",
                     "population": 280966,
                     "average_age": 39.2,
                     "area": 78.26,
@@ -3741,6 +3821,7 @@
                 },
                 {
                     "name": "Montpellier",
+                    "country": "Frankreich",
                     "population": 285121,
                     "average_age": 35.9,
                     "area": 56.88,
@@ -3797,6 +3878,7 @@
             "cities": [
                 {
                     "name": "Athen",
+                    "country": "Griechenland",
                     "population": 664046,
                     "average_age": 38.4,
                     "area": 412.0,
@@ -3843,6 +3925,7 @@
                 },
                 {
                     "name": "Thessaloniki",
+                    "country": "Griechenland",
                     "population": 322240,
                     "average_age": 36.8,
                     "area": 231.8,
@@ -3889,6 +3972,7 @@
                 },
                 {
                     "name": "Patras",
+                    "country": "Griechenland",
                     "population": 170889,
                     "average_age": 39.2,
                     "area": 334.9,
@@ -3935,6 +4019,7 @@
                 },
                 {
                     "name": "Piräus",
+                    "country": "Griechenland",
                     "population": 163688,
                     "average_age": 40.1,
                     "area": 10.865,
@@ -3981,6 +4066,7 @@
                 },
                 {
                     "name": "Larisa",
+                    "country": "Griechenland",
                     "population": 144651,
                     "average_age": 37.5,
                     "area": 335.6,
@@ -4027,6 +4113,7 @@
                 },
                 {
                     "name": "Iraklio",
+                    "country": "Griechenland",
                     "population": 141307,
                     "average_age": 39.7,
                     "area": 82.12,
@@ -4073,6 +4160,7 @@
                 },
                 {
                     "name": "Kozani",
+                    "country": "Griechenland",
                     "population": 70548,
                     "average_age": 42.1,
                     "area": 426.2,
@@ -4129,6 +4217,7 @@
             "cities": [
                 {
                     "name": "Dublin",
+                    "country": "Irland",
                     "population": 554554,
                     "average_age": 34.9,
                     "area": 115.0,
@@ -4175,6 +4264,7 @@
                 },
                 {
                     "name": "Cork",
+                    "country": "Irland",
                     "population": 208669,
                     "average_age": 36.2,
                     "area": 37.3,
@@ -4221,6 +4311,7 @@
                 },
                 {
                     "name": "Limerick",
+                    "country": "Irland",
                     "population": 194899,
                     "average_age": 35.7,
                     "area": 54.3,
@@ -4267,6 +4358,7 @@
                 },
                 {
                     "name": "Galway",
+                    "country": "Irland",
                     "population": 79058,
                     "average_age": 30.4,
                     "area": 54.9,
@@ -4313,6 +4405,7 @@
                 },
                 {
                     "name": "Waterford",
+                    "country": "Irland",
                     "population": 53553,
                     "average_age": 39.8,
                     "area": 44.5,
@@ -4369,6 +4462,7 @@
             "cities": [
                 {
                     "name": "Reykjavik",
+                    "country": "Island",
                     "population": 128793,
                     "average_age": 36.9,
                     "area": 273.0,
@@ -4415,6 +4509,7 @@
                 },
                 {
                     "name": "Kopavogur",
+                    "country": "Island",
                     "population": 36923,
                     "average_age": 37.2,
                     "area": 80.3,
@@ -4461,6 +4556,7 @@
                 },
                 {
                     "name": "Hafnarfjörður",
+                    "country": "Island",
                     "population": 30160,
                     "average_age": 38.4,
                     "area": 143.0,
@@ -4507,6 +4603,7 @@
                 },
                 {
                     "name": "Akureyri",
+                    "country": "Island",
                     "population": 18689,
                     "average_age": 39.1,
                     "area": 149.7,
@@ -4553,6 +4650,7 @@
                 },
                 {
                     "name": "Keflavik",
+                    "country": "Island",
                     "population": 15500,
                     "average_age": 37.6,
                     "area": 9.1,
@@ -4609,6 +4707,7 @@
             "cities": [
                 {
                     "name": "Rom",
+                    "country": "Italien",
                     "population": 2872800,
                     "average_age": 43.7,
                     "area": 1285.3,
@@ -4655,6 +4754,7 @@
                 },
                 {
                     "name": "Mailand",
+                    "country": "Italien",
                     "population": 1399860,
                     "average_age": 44.2,
                     "area": 181.8,
@@ -4701,6 +4801,7 @@
                 },
                 {
                     "name": "Neapel",
+                    "country": "Italien",
                     "population": 959574,
                     "average_age": 42.3,
                     "area": 117.3,
@@ -4747,6 +4848,7 @@
                 },
                 {
                     "name": "Turin",
+                    "country": "Italien",
                     "population": 878074,
                     "average_age": 46.8,
                     "area": 130.2,
@@ -4793,6 +4895,7 @@
                 },
                 {
                     "name": "Palermo",
+                    "country": "Italien",
                     "population": 673735,
                     "average_age": 43.5,
                     "area": 158.9,
@@ -4839,6 +4942,7 @@
                 },
                 {
                     "name": "Genua",
+                    "country": "Italien",
                     "population": 583601,
                     "average_age": 48.2,
                     "area": 240.3,
@@ -4885,6 +4989,7 @@
                 },
                 {
                     "name": "Bologna",
+                    "country": "Italien",
                     "population": 389261,
                     "average_age": 44.9,
                     "area": 140.7,
@@ -4931,6 +5036,7 @@
                 },
                 {
                     "name": "Florenz",
+                    "country": "Italien",
                     "population": 382258,
                     "average_age": 47.3,
                     "area": 102.4,
@@ -4987,7 +5093,8 @@
             "cities": [
                 {
                     "name": "Zagreb",
-                    "population": 803,902,
+                    "country": "Kroatien",
+                    "population": 803902,
                     "average_age": 42.5,
                     "area": 641.4,
                     "founding_year": "Gradually established in medieval times",
@@ -5033,7 +5140,8 @@
                 },
                 {
                     "name": "Split",
-                    "population": 178,192,
+                    "country": "Kroatien",
+                    "population": 178192,
                     "average_age": 42.9,
                     "area": 79.38,
                     "founding_year": "4th century AD",
@@ -5079,7 +5187,8 @@
                 },
                 {
                     "name": "Rijeka",
-                    "population": 128,735,
+                    "country": "Kroatien",
+                    "population": 128735,
                     "average_age": 43.2,
                     "area": 44.5,
                     "founding_year": "3rd century BC",
@@ -5125,7 +5234,8 @@
                 },
                 {
                     "name": "Osijek",
-                    "population": 108,048,
+                    "country": "Kroatien",
+                    "population": 108048,
                     "average_age": 40.8,
                     "area": 169.5,
                     "founding_year": "7th century",
@@ -5171,7 +5281,8 @@
                 },
                 {
                     "name": "Zadar",
-                    "population": 75,082,
+                    "country": "Kroatien",
+                    "population": 75082,
                     "average_age": 43.7,
                     "area": 25.59,
                     "founding_year": "9th century BC",
@@ -5217,7 +5328,8 @@
                 },
                 {
                     "name": "Pula",
-                    "population": 57,460,
+                    "country": "Kroatien",
+                    "population": 57460,
                     "average_age": 41.5,
                     "area": 51.65,
                     "founding_year": "10th century BC",
@@ -5273,7 +5385,8 @@
             "cities": [
                 {
                     "name": "Riga",
-                    "population": 632,614,
+                    "country": "Lettland",
+                    "population": 632614,
                     "average_age": 43.1,
                     "area": 307.17,
                     "founding_year": "1201",
@@ -5319,7 +5432,8 @@
                 },
                 {
                     "name": "Daugavpils",
-                    "population": 84,362,
+                    "country": "Lettland",
+                    "population": 84362,
                     "average_age": 42.9,
                     "area": 72.47,
                     "founding_year": "1275",
@@ -5365,7 +5479,8 @@
                 },
                 {
                     "name": "Liepāja",
-                    "population": 71,578,
+                    "country": "Lettland",
+                    "population": 71578,
                     "average_age": 41.2,
                     "area": 60.39,
                     "founding_year": "1253",
@@ -5411,7 +5526,8 @@
                 },
                 {
                     "name": "Jelgava",
-                    "population": 56,706,
+                    "country": "Lettland",
+                    "population": 56706,
                     "average_age": 40.5,
                     "area": 60.44,
                     "founding_year": "1265",
@@ -5457,7 +5573,8 @@
                 },
                 {
                     "name": "Jūrmala",
-                    "population": 55,200,
+                    "country": "Lettland",
+                    "population": 55200,
                     "average_age": 43.8,
                     "area": 100.44,
                     "founding_year": "1838",
@@ -5513,6 +5630,7 @@
             "cities": [
                 {
                     "name": "Vaduz",
+                    "country": "Liechtenstein",
                     "population": 5480,
                     "average_age": 43.6,
                     "area": 17.4,
@@ -5559,6 +5677,7 @@
                 },
                 {
                     "name": "Schaan",
+                    "country": "Liechtenstein",
                     "population": 5315,
                     "average_age": 41.9,
                     "area": 26.8,
@@ -5605,6 +5724,7 @@
                 },
                 {
                     "name": "Triesen",
+                    "country": "Liechtenstein",
                     "population": 4139,
                     "average_age": 39.5,
                     "area": 26.3,
@@ -5651,6 +5771,7 @@
                 },
                 {
                     "name": "Balzers",
+                    "country": "Liechtenstein",
                     "population": 4423,
                     "average_age": 42.2,
                     "area": 19.6,
@@ -5707,6 +5828,7 @@
             "cities": [
                 {
                     "name": "Vilnius",
+                    "country": "Litauen",
                     "population": 580020,
                     "average_age": 38.7,
                     "area": 401.0,
@@ -5753,6 +5875,7 @@
                 },
                 {
                     "name": "Kaunas",
+                    "country": "Litauen",
                     "population": 289305,
                     "average_age": 39.8,
                     "area": 157.0,
@@ -5799,6 +5922,7 @@
                 },
                 {
                     "name": "Klaipėda",
+                    "country": "Litauen",
                     "population": 147046,
                     "average_age": 41.2,
                     "area": 98.0,
@@ -5845,6 +5969,7 @@
                 },
                 {
                     "name": "Šiauliai",
+                    "country": "Litauen",
                     "population": 102000,
                     "average_age": 40.9,
                     "area": 81.0,
@@ -5891,6 +6016,7 @@
                 },
                 {
                     "name": "Panevėžys",
+                    "country": "Litauen",
                     "population": 91218,
                     "average_age": 39.2,
                     "area": 45.0,
@@ -5937,6 +6063,7 @@
                 },
                 {
                     "name": "Alytus",
+                    "country": "Litauen",
                     "population": 51980,
                     "average_age": 40.5,
                     "area": 40.0,
@@ -5993,6 +6120,7 @@
             "cities": [
                 {
                     "name": "Luxemburg-Stadt",
+                    "country": "Luxemburg",
                     "population": 124000,
                     "average_age": 39.2,
                     "area": 51.46,
@@ -6039,6 +6167,7 @@
                 },
                 {
                     "name": "Esch-sur-Alzette",
+                    "country": "Luxemburg",
                     "population": 35559,
                     "average_age": 41.8,
                     "area": 14.35,
@@ -6085,6 +6214,7 @@
                 },
                 {
                     "name": "Differdange",
+                    "country": "Luxemburg",
                     "population": 26822,
                     "average_age": 40.5,
                     "area": 22.18,
@@ -6141,6 +6271,7 @@
             "cities": [
                 {
                     "name": "Valletta",
+                    "country": "Malta",
                     "population": 6444,
                     "average_age": 41.5,
                     "area": 0.8,
@@ -6187,6 +6318,7 @@
                 },
                 {
                     "name": "Birkirkara",
+                    "country": "Malta",
                     "population": 23454,
                     "average_age": 38.9,
                     "area": 2.7,
@@ -6233,6 +6365,7 @@
                 },
                 {
                     "name": "Mosta",
+                    "country": "Malta",
                     "population": 20878,
                     "average_age": 39.1,
                     "area": 6.8,
@@ -6279,6 +6412,7 @@
                 },
                 {
                     "name": "St. Paul's Bay",
+                    "country": "Malta",
                     "population": 23456,
                     "average_age": 41.2,
                     "area": 14.5,
@@ -6325,6 +6459,7 @@
                 },
                 {
                     "name": "Sliema",
+                    "country": "Malta",
                     "population": 18958,
                     "average_age": 38.4,
                     "area": 1.3,
@@ -6381,6 +6516,7 @@
             "cities": [
                 {
                     "name": "Chișinău",
+                    "country": "Moldawien",
                     "population": 635994,
                     "average_age": 38.2,
                     "area": 120,
@@ -6427,6 +6563,7 @@
                 },
                 {
                     "name": "Bălți",
+                    "country": "Moldawien",
                     "population": 144322,
                     "average_age": 37.8,
                     "area": 78,
@@ -6473,6 +6610,7 @@
                 },
                 {
                     "name": "Tiraspol",
+                    "country": "Moldawien",
                     "population": 134508,
                     "average_age": 39.5,
                     "area": 168,
@@ -6519,6 +6657,7 @@
                 },
                 {
                     "name": "Bender (Tighina)",
+                    "country": "Moldawien",
                     "population": 110175,
                     "average_age": 38.9,
                     "area": 90,
@@ -6575,6 +6714,7 @@
             "cities": [
                 {
                     "name": "Monaco-Ville (Monaco-Stadt)",
+                    "country": "Monaco",
                     "population": 408,
                     "average_age": 48.2,
                     "area": 0.2,
@@ -6621,6 +6761,7 @@
                 },
                 {
                     "name": "Monte Carlo",
+                    "country": "Monaco",
                     "population": 15625,
                     "average_age": 42.8,
                     "area": 0.61,
@@ -6667,6 +6808,7 @@
                 },
                 {
                     "name": "La Condamine",
+                    "country": "Monaco",
                     "population": 5806,
                     "average_age": 41.5,
                     "area": 0.3,
@@ -6713,6 +6855,7 @@
                 },
                 {
                     "name": "Fontvieille",
+                    "country": "Monaco",
                     "population": 3729,
                     "average_age": 44.9,
                     "area": 0.32,
@@ -6769,6 +6912,7 @@
             "cities": [
                 {
                     "name": "Podgorica",
+                    "country": "Montenegro",
                     "population": 187085,
                     "average_age": 39.5,
                     "area": 108,
@@ -6861,6 +7005,7 @@
                 },
                 {
                     "name": "Herceg Novi",
+                    "country": "Montenegro",
                     "population": 11437,
                     "average_age": 46.2,
                     "area": 235,
@@ -6907,6 +7052,7 @@
                 },
                 {
                     "name": "Budva",
+                    "country": "Montenegro",
                     "population": 19423,
                     "average_age": 38.7,
                     "area": 122,
@@ -6953,6 +7099,7 @@
                 },
                 {
                     "name": "Bar",
+                    "country": "Montenegro",
                     "population": 17783,
                     "average_age": 39.8,
                     "area": 598,
@@ -7009,6 +7156,7 @@
             "cities": [
                 {
                     "name": "Amsterdam",
+                    "country": "Niederlande",
                     "population": 873555,
                     "average_age": 37.2,
                     "area": 219.3,
@@ -7055,6 +7203,7 @@
                 },
                 {
                     "name": "Rotterdam",
+                    "country": "Niederlande",
                     "population": 651446,
                     "average_age": 38.8,
                     "area": 319.4,
@@ -7101,6 +7250,7 @@
                 },
                 {
                     "name": "Den Haag",
+                    "country": "Niederlande",
                     "population": 545863,
                     "average_age": 39.6,
                     "area": 98.06,
@@ -7147,6 +7297,7 @@
                 },
                 {
                     "name": "Utrecht",
+                    "country": "Niederlande",
                     "population": 357178,
                     "average_age": 37.9,
                     "area": 99.21,
@@ -7193,6 +7344,7 @@
                 },
                 {
                     "name": "Eindhoven",
+                    "country": "Niederlande",
                     "population": 231642,
                     "average_age": 36.5,
                     "area": 88.87,
@@ -7239,6 +7391,7 @@
                 },
                 {
                     "name": "Tilburg",
+                    "country": "Niederlande",
                     "population": 217259,
                     "average_age": 38.2,
                     "area": 119.15,
@@ -7285,6 +7438,7 @@
                 },
                 {
                     "name": "Groningen",
+                    "country": "Niederlande",
                     "population": 231038,
                     "average_age": 30.9,
                     "area": 180.21,
@@ -7341,6 +7495,7 @@
             "cities": [
                 {
                     "name": "Skopje",
+                    "country": "Nordmazedonien",
                     "population": 507000,
                     "average_age": 36.7,
                     "area": 571.46,
@@ -7387,6 +7542,7 @@
                 },
                 {
                     "name": "Bitola",
+                    "country": "Nordmazedonien",
                     "population": 74000,
                     "average_age": 38.2,
                     "area": 1176,
@@ -7433,6 +7589,7 @@
                 },
                 {
                     "name": "Kumanovo",
+                    "country": "Nordmazedonien",
                     "population": 105000,
                     "average_age": 34.9,
                     "area": 509.25,
@@ -7479,6 +7636,7 @@
                 },
                 {
                     "name": "Prilep",
+                    "country": "Nordmazedonien",
                     "population": 66000,
                     "average_age": 36.5,
                     "area": 1587.64,
@@ -7525,6 +7683,7 @@
                 },
                 {
                     "name": "Tetovo",
+                    "country": "Nordmazedonien",
                     "population": 52000,
                     "average_age": 33.8,
                     "area": 261.77,
@@ -7581,6 +7740,7 @@
             "cities": [
                 {
                     "name": "Oslo",
+                    "country": "Norwegen",
                     "population": 697549,
                     "average_age": 38.6,
                     "area": 454,
@@ -7627,6 +7787,7 @@
                 },
                 {
                     "name": "Bergen",
+                    "country": "Norwegen",
                     "population": 283929,
                     "average_age": 39.8,
                     "area": 465,
@@ -7673,6 +7834,7 @@
                 },
                 {
                     "name": "Trondheim",
+                    "country": "Norwegen",
                     "population": 205163,
                     "average_age": 40.2,
                     "area": 342.27,
@@ -7719,6 +7881,7 @@
                 },
                 {
                     "name": "Stavanger",
+                    "country": "Norwegen",
                     "population": 142945,
                     "average_age": 39.1,
                     "area": 71.35,
@@ -7765,6 +7928,7 @@
                 },
                 {
                     "name": "Drammen",
+                    "country": "Norwegen",
                     "population": 120750,
                     "average_age": 38.5,
                     "area": 137.98,
@@ -7811,6 +7975,7 @@
                 },
                 {
                     "name": "Fredrikstad",
+                    "country": "Norwegen",
                     "population": 81371,
                     "average_age": 40.7,
                     "area": 286.24,
@@ -7867,6 +8032,7 @@
             "cities": [
                 {
                     "name": "Wien",
+                    "country": "Österreich",
                     "population": 1897491,
                     "average_age": 43.2,
                     "area": 414.9,
@@ -7913,6 +8079,7 @@
                 },
                 {
                     "name": "Graz",
+                    "country": "Österreich",
                     "population": 291265,
                     "average_age": 39.8,
                     "area": 127.56,
@@ -7959,6 +8126,7 @@
                 },
                 {
                     "name": "Linz",
+                    "country": "Österreich",
                     "population": 206249,
                     "average_age": 41.5,
                     "area": 96.04,
@@ -8005,6 +8173,7 @@
                 },
                 {
                     "name": "Salzburg",
+                    "country": "Österreich",
                     "population": 156872,
                     "average_age": 41.1,
                     "area": 65.61,
@@ -8051,6 +8220,7 @@
                 },
                 {
                     "name": "Innsbruck",
+                    "country": "Österreich",
                     "population": 132493,
                     "average_age": 39.6,
                     "area": 104.91,
@@ -8097,6 +8267,7 @@
                 },
                 {
                     "name": "Klagenfurt",
+                    "country": "Österreich",
                     "population": 100316,
                     "average_age": 42.0,
                     "area": 120.12,
@@ -8153,6 +8324,7 @@
             "cities": [
                 {
                     "name": "Warschau",
+                    "country": "Polen",
                     "population": 1790658,
                     "average_age": 39.7,
                     "area": 517.24,
@@ -8199,6 +8371,7 @@
                 },
                 {
                     "name": "Krakau",
+                    "country": "Polen",
                     "population": 779115,
                     "average_age": 38.9,
                     "area": 326.85,
@@ -8245,6 +8418,7 @@
                 },
                 {
                     "name": "Łódź",
+                    "country": "Polen",
                     "population": 682679,
                     "average_age": 38.2,
                     "area": 293.25,
@@ -8291,6 +8465,7 @@
                 },
                 {
                     "name": "Wrocław",
+                    "country": "Polen",
                     "population": 641607,
                     "average_age": 37.6,
                     "area": 292.82,
@@ -8337,6 +8512,7 @@
                 },
                 {
                     "name": "Poznań",
+                    "country": "Polen",
                     "population": 535764,
                     "average_age": 39.8,
                     "area": 261.85,
@@ -8383,6 +8559,7 @@
                 },
                 {
                     "name": "Gdańsk",
+                    "country": "Polen",
                     "population": 470907,
                     "average_age": 39.1,
                     "area": 262.23,
@@ -8439,6 +8616,7 @@
             "cities": [
                 {
                     "name": "Lissabon (Lisboa)",
+                    "country": "Portugal",
                     "population": 547733,
                     "average_age": 42.5,
                     "area": 100.05,
@@ -8485,6 +8663,7 @@
                 },
                 {
                     "name": "Porto",
+                    "country": "Portugal",
                     "population": 214349,
                     "average_age": 41.2,
                     "area": 41.42,
@@ -8531,6 +8710,7 @@
                 },
                 {
                     "name": "Vila Nova de Gaia",
+                    "country": "Portugal",
                     "population": 300178,
                     "average_age": 39.8,
                     "area": 168.46,
@@ -8577,6 +8757,7 @@
                 },
                 {
                     "name": "Amadora",
+                    "country": "Portugal",
                     "population": 175136,
                     "average_age": 38.7,
                     "area": 23.77,
@@ -8623,6 +8804,7 @@
                 },
                 {
                     "name": "Braga",
+                    "country": "Portugal",
                     "population": 181494,
                     "average_age": 39.9,
                     "area": 183.41,
@@ -8669,6 +8851,7 @@
                 },
                 {
                     "name": "Funchal",
+                    "country": "Portugal",
                     "population": 112015,
                     "average_age": 43.2,
                     "area": 76.15,
@@ -8725,6 +8908,7 @@
             "cities": [
                 {
                     "name": "Bukarest (București)",
+                    "country": "Rumänien",
                     "population": 1883425,
                     "average_age": 38.2,
                     "area": 228,
@@ -8771,6 +8955,7 @@
                 },
                 {
                     "name": "Cluj-Napoca",
+                    "country": "Rumänien",
                     "population": 318027,
                     "average_age": 32.7,
                     "area": 179.5,
@@ -8817,6 +9002,7 @@
                 },
                 {
                     "name": "Timișoara",
+                    "country": "Rumänien",
                     "population": 319279,
                     "average_age": 35.1,
                     "area": 130.5,
@@ -8863,6 +9049,7 @@
                 },
                 {
                     "name": "Iași",
+                    "country": "Rumänien",
                     "population": 290422,
                     "average_age": 32.8,
                     "area": 93.9,
@@ -8909,6 +9096,7 @@
                 },
                 {
                     "name": "Constanța",
+                    "country": "Rumänien",
                     "population": 283872,
                     "average_age": 37.6,
                     "area": 124.9,
@@ -8955,6 +9143,7 @@
                 },
                 {
                     "name": "Craiova",
+                    "country": "Rumänien",
                     "population": 269506,
                     "average_age": 38.9,
                     "area": 48.4,
@@ -9011,6 +9200,7 @@
             "cities": [
                 {
                     "name": "Moskau (Moskva)",
+                    "country": "Russland",
                     "population": 12678079,
                     "average_age": 35.6,
                     "area": 2561,
@@ -9057,6 +9247,7 @@
                 },
                 {
                     "name": "Sankt Petersburg",
+                    "country": "Russland",
                     "population": 5398064,
                     "average_age": 40.2,
                     "area": 1439,
@@ -9103,6 +9294,7 @@
                 },
                 {
                     "name": "Nowosibirsk",
+                    "country": "Russland",
                     "population": 1612833,
                     "average_age": 34.8,
                     "area": 502,
@@ -9149,6 +9341,7 @@
                 },
                 {
                     "name": "Jekaterinburg",
+                    "country": "Russland",
                     "population": 1493749,
                     "average_age": 36.1,
                     "area": 468,
@@ -9195,6 +9388,7 @@
                 },
                 {
                     "name": "Kasan",
+                    "country": "Russland",
                     "population": 1251967,
                     "average_age": 31.5,
                     "area": 425.3,
@@ -9241,6 +9435,7 @@
                 },
                 {
                     "name": "Nischni Nowgorod",
+                    "country": "Russland",
                     "population": 1243160,
                     "average_age": 37.8,
                     "area": 411.9,
@@ -9297,6 +9492,7 @@
             "cities": [
                 {
                     "name": "San Marino",
+                    "country": "San Marino",
                     "population": 4493,
                     "average_age": 45.2,
                     "area": 7.09,
@@ -9353,6 +9549,7 @@
             "cities": [
                 {
                     "name": "Stockholm",
+                    "country": "Schweden",
                     "population": 974073,
                     "average_age": 39.5,
                     "area": 188,
@@ -9399,6 +9596,7 @@
                 },
                 {
                     "name": "Göteborg (Gothenburg)",
+                    "country": "Schweden",
                     "population": 572779,
                     "average_age": 38.2,
                     "area": 215,
@@ -9445,6 +9643,7 @@
                 },
                 {
                     "name": "Malmö",
+                    "country": "Schweden",
                     "population": 347949,
                     "average_age": 37.8,
                     "area": 77,
@@ -9491,6 +9690,7 @@
                 },
                 {
                     "name": "Uppsala",
+                    "country": "Schweden",
                     "population": 233839,
                     "average_age": 39.1,
                     "area": 48.9,
@@ -9547,6 +9747,7 @@
             "cities": [
                 {
                     "name": "Zürich",
+                    "country": "Schweiz",
                     "population": 434008,
                     "average_age": 39.7,
                     "area": 87.88,
@@ -9593,6 +9794,7 @@
                 },
                 {
                     "name": "Genf (Genève)",
+                    "country": "Schweiz",
                     "population": 200548,
                     "average_age": 39.1,
                     "area": 15.93,
@@ -9639,6 +9841,7 @@
                 },
                 {
                     "name": "Basel",
+                    "country": "Schweiz",
                     "population": 200430,
                     "average_age": 42.6,
                     "area": 23.91,
@@ -9685,6 +9888,7 @@
                 },
                 {
                     "name": "Bern",
+                    "country": "Schweiz",
                     "population": 133115,
                     "average_age": 40.8,
                     "area": 51.62,
@@ -9741,6 +9945,7 @@
             "cities": [
                 {
                     "name": "Belgrad (Beograd)",
+                    "country": "Serbien",
                     "population": 1233792,
                     "average_age": 39.2,
                     "area": 360.0,
@@ -9787,6 +9992,7 @@
                 },
                 {
                     "name": "Novi Sad",
+                    "country": "Serbien",
                     "population": 277522,
                     "average_age": 38.9,
                     "area": 699.0,
@@ -9833,6 +10039,7 @@
                 },
                 {
                     "name": "Niš",
+                    "country": "Serbien",
                     "population": 183164,
                     "average_age": 38.5,
                     "area": 596.7,
@@ -9879,6 +10086,7 @@
                 },
                 {
                     "name": "Kragujevac",
+                    "country": "Serbien",
                     "population": 147473,
                     "average_age": 39.7,
                     "area": 835.0,
@@ -9925,6 +10133,7 @@
                 },
                 {
                     "name": "Subotica",
+                    "country": "Serbien",
                     "population": 104402,
                     "average_age": 40.1,
                     "area": 1003.0,
@@ -9981,6 +10190,7 @@
             "cities": [
                 {
                     "name": "Bratislava",
+                    "country": "Slowakei",
                     "population": 432864,
                     "average_age": 38.2,
                     "area": 367.6,
@@ -10027,6 +10237,7 @@
                 },
                 {
                     "name": "Košice",
+                    "country": "Slowakei",
                     "population": 236093,
                     "average_age": 39.5,
                     "area": 242.8,
@@ -10073,6 +10284,7 @@
                 },
                 {
                     "name": "Prešov",
+                    "country": "Slowakei",
                     "population": 90281,
                     "average_age": 38.8,
                     "area": 70.0,
@@ -10119,6 +10331,7 @@
                 },
                 {
                     "name": "Žilina",
+                    "country": "Slowakei",
                     "population": 80335,
                     "average_age": 39.2,
                     "area": 80.0,
@@ -10175,6 +10388,7 @@
             "cities": [
                 {
                     "name": "Ljubljana",
+                    "country": "Slowenien",
                     "population": 293705,
                     "average_age": 40.1,
                     "area": 163.8,
@@ -10221,6 +10435,7 @@
                 },
                 {
                     "name": "Maribor",
+                    "country": "Slowenien",
                     "population": 111110,
                     "average_age": 41.5,
                     "area": 148.5,
@@ -10267,6 +10482,7 @@
                 },
                 {
                     "name": "Celje",
+                    "country": "Slowenien",
                     "population": 48556,
                     "average_age": 42.3,
                     "area": 94.9,
@@ -10323,6 +10539,7 @@
             "cities": [
                 {
                     "name": "Madrid",
+                    "country": "Spanien",
                     "population": 3266126,
                     "average_age": 40.5,
                     "area": 604.3,
@@ -10369,6 +10586,7 @@
                 },
                 {
                     "name": "Barcelona",
+                    "country": "Spanien",
                     "population": 1620343,
                     "average_age": 41.8,
                     "area": 101.9,
@@ -10415,6 +10633,7 @@
                 },
                 {
                     "name": "Valencia",
+                    "country": "Spanien",
                     "population": 800215,
                     "average_age": 41.1,
                     "area": 134.6,
@@ -10471,6 +10690,7 @@
             "cities": [
                 {
                     "name": "Prag",
+                    "country": "Tschechien",
                     "population": 1324277,
                     "average_age": 41.2,
                     "area": 496.0,
@@ -10517,6 +10737,7 @@
                 },
                 {
                     "name": "Brünn",
+                    "country": "Tschechien",
                     "population": 379527,
                     "average_age": 40.6,
                     "area": 230.18,
@@ -10573,6 +10794,7 @@
             "cities": [
                 {
                     "name": "Istanbul",
+                    "country": "Türkei",
                     "population": 15029231,
                     "average_age": 32.5,
                     "area": 5461,
@@ -10619,6 +10841,7 @@
                 },
                 {
                     "name": "Ankara",
+                    "country": "Türkei",
                     "population": 5670579,
                     "average_age": 31.8,
                     "area": 2510,
@@ -10675,6 +10898,7 @@
             "cities": [
                 {
                     "name": "Kiew",
+                    "country": "Ukraine",
                     "population": 2884000,
                     "average_age": 35.2,
                     "area": 839.0,
@@ -10721,6 +10945,7 @@
                 },
                 {
                     "name": "Charkiw",
+                    "country": "Ukraine",
                     "population": 1443000,
                     "average_age": 32.7,
                     "area": 350.0,
@@ -10777,6 +11002,7 @@
             "cities": [
                 {
                     "name": "Budapest",
+                    "country": "Ungarn",
                     "population": 1768000,
                     "average_age": 40.2,
                     "area": 525.2,
@@ -10823,6 +11049,7 @@
                 },
                 {
                     "name": "Debrecen",
+                    "country": "Ungarn",
                     "population": 203600,
                     "average_age": 36.9,
                     "area": 461.3,
@@ -10869,6 +11096,7 @@
                 },
                 {
                     "name": "Miskolc",
+                    "country": "Ungarn",
                     "population": 158700,
                     "average_age": 39.1,
                     "area": 236.7,
@@ -10925,6 +11153,7 @@
             "cities": [
                 {
                     "name": "Vatikanstadt",
+                    "country": "Vatikanstadt",
                     "population": 800,
                     "average_age": 55.3,
                     "area": 0.44,
@@ -10981,6 +11210,7 @@
             "cities": [
                 {
                     "name": "London",
+                    "country": "Vereinigtes Königreich",
                     "population": 8982000,
                     "average_age": 36.9,
                     "area": 1572.0,
@@ -11027,6 +11257,7 @@
                 },
                 {
                     "name": "Birmingham",
+                    "country": "Vereinigtes Königreich",
                     "population": 1141000,
                     "average_age": 32.5,
                     "area": 267.8,
@@ -11073,6 +11304,7 @@
                 },
                 {
                     "name": "Manchester",
+                    "country": "Vereinigtes Königreich",
                     "population": 547600,
                     "average_age": 33.7,
                     "area": 115.6,
@@ -11129,6 +11361,7 @@
             "cities": [
                 {
                     "name": "Minsk",
+                    "country": "Weißrussland (Belarus)",
                     "population": 1975170,
                     "average_age": 37.1,
                     "area": 348.8,
@@ -11175,6 +11408,7 @@
                 },
                 {
                     "name": "Homyel (Gomel)",
+                    "country": "Weißrussland (Belarus)",
                     "population": 507355,
                     "average_age": 40.2,
                     "area": 139.8,
@@ -11221,6 +11455,7 @@
                 },
                 {
                     "name": "Mahilyow (Mogilev)",
+                    "country": "Weißrussland (Belarus)",
                     "population": 380920,
                     "average_age": 39.5,
                     "area": 118.5,
@@ -11277,6 +11512,7 @@
             "cities": [
                 {
                     "name": "Nikosia (Lefkosia)",
+                    "country": "Zypern",
                     "population": 330000,
                     "average_age": 34.5,
                     "area": 46.9,
