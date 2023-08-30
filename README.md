@@ -1,4 +1,2 @@
-# The "European_Backpackers"-Project...
-## ...It is a simple Terraform-demo.
-### Feel free to take a look around
-wwref
+# The Backpackers Project
+### This Readme.md file is intended to ensure that you get all the necessary information about this project, and the implementation of this architecture. If you notice an error during your visit, feel free to let us know in an issue.
