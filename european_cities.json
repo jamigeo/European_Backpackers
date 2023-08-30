@@ -49,7 +49,7 @@
                 "rainy_days": 120,
                 "monthly_sunshine_hours": 200
             },
-            "coat_of_arms_image_path": "albania/tirana_coat_of_arms.jpg"
+            "coat_of_arms_image_path": "images/albania/tirana_coat_of_arms.jpg"
         },
         {
             "name": "Durrës",
@@ -2410,7 +2410,7 @@
                 "rainy_days": 120,
                 "monthly_sunshine_hours": 180
             },
-            "coat_of_arms_image_path": "germany/muenchen_coat_of_arms.jpg"
+            "coat_of_arms_image_path": "images/germany/muenchen_coat_of_arms.jpg"
         },
         {
             "name": "Köln",
