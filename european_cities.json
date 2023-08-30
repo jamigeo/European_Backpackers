@@ -100,7 +100,7 @@
                 "rainy_days": 90,
                 "monthly_sunshine_hours": 220
             },
-            "coat_of_arms_image_path": "albania/durres_coat_of_arms.jpg"
+            "coat_of_arms_image_path": "images/albania/durres_coat_of_arms.png"
         },
         {
             "name": "Vlora",
@@ -151,7 +151,7 @@
                 "rainy_days": 100,
                 "monthly_sunshine_hours": 210
             },
-            "coat_of_arms_image_path": "albania/vlora_coat_of_arms.jpg"
+            "coat_of_arms_image_path": "images/albania/vlora_coat_of_arms.jpg"
         },
         {
             "name": "Elbasan",
@@ -200,7 +200,7 @@
                 "rainy_days": 150,
                 "monthly_sunshine_hours": 190
             },
-            "coat_of_arms_image_path": "albania/elbasan_coat_of_arms.jpg"
+            "coat_of_arms_image_path": "images/albania/elbasan_coat_of_arms.jpg"
         },
         {
             "name": "Shkodra",
@@ -249,7 +249,7 @@
                 "rainy_days": 110,
                 "monthly_sunshine_hours": 215
             },
-            "coat_of_arms_image_path": "albania/shkodra_coat_of_arms.jpg"
+            "coat_of_arms_image_path": "images/albania/shkodra_coat_of_arms.png"
         },
         {
             "name": "Fier",
@@ -298,7 +298,7 @@
                 "rainy_days": 80,
                 "monthly_sunshine_hours": 230
             },
-            "coat_of_arms_image_path": "albania/fier_coat_of_arms.jpg"
+            "coat_of_arms_image_path": "images/albania/fier_coat_of_arms.jpg"
         },
         {
             "name": "Kamza",
@@ -347,7 +347,7 @@
                 "rainy_days": 110,
                 "monthly_sunshine_hours": 205
             },
-            "coat_of_arms_image_path": "albania/kamza_coat_of_arms.jpg"
+            "coat_of_arms_image_path": ""
         },
         {
             "name": "Korça",
@@ -396,7 +396,7 @@
                 "rainy_days": 160,
                 "monthly_sunshine_hours": 180
             },
-            "coat_of_arms_image_path": "albania/korca_coat_of_arms.jpg"
+            "coat_of_arms_image_path": "images/albania/korca_coat_of_arms.png"
         },
         {
             "name": "Berat",
@@ -445,7 +445,7 @@
                 "rainy_days": 110,
                 "monthly_sunshine_hours": 220
             },
-            "coat_of_arms_image_path": "albania/berat_coat_of_arms.jpg"
+            "coat_of_arms_image_path": "images/albania/berat_coat_of_arms.png"
         },
         {
             "name": "Lushnja",
@@ -494,7 +494,7 @@
                 "rainy_days": 90,
                 "monthly_sunshine_hours": 230
             },
-            "coat_of_arms_image_path": "albania/lushnja_coat_of_arms.jpg"
+            "coat_of_arms_image_path": []
         },
         {
             "name": "Andorra la Vella",
@@ -545,7 +545,7 @@
                 "rainy_days": 80,
                 "monthly_sunshine_hours": 180
             },
-            "coat_of_arms_image_path": "andorra/andorra_la_vella_coat_of_arms.jpg"
+            "coat_of_arms_image_path": "images/andorra/andorra_la_vella_coat_of_arms.png"
         },
         {
             "name": "Brussels",
