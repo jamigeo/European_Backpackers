@@ -13,9 +13,16 @@ This Readme.md file is intended to ensure that you get all the necessary informa
 
 ### 2. Place your credentials in the following file:
 
+- consider storing your AWS Credentials in ~/.aws/config using aws_access_key_id, aws_secret_access_key, and aws_session_token
+
 - [ The [Terraform](https://github.com/jamigeo/European_Backpackers/tree/main/Terraform%20templates/credentials.txt) access data is usually stored in a separate file that ends with the file extension: .tfvars ] Please keep them safe, because big solutions are also big responsibilities[.](images/stand_alone.jpg)
 
 ### 3. The knowlegde of the data structure underlying the project:
 
 - The [JSON](data_structure.json) data structure on which this project is based, must have a [marshalled](https://en.wikipedia.org/wiki/Marshalling_(computer_science)) JSON format for import into the [DynamoDB](https://github.com/jamigeo/European_Backpackers/tree/main/Terraform%20templates/dynamodb.tf) database. Otherwise the import from the [s3](https://github.com/jamigeo/European_Backpackers/tree/main/Terraform%20templates/s3.tf) bucket is not possible. Please take care of it.
+
+### 4. File Structure
+
+- Working Directory: Terraform-EB
+- edit variables.tf
 
