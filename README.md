@@ -3,7 +3,7 @@ This Readme.md file is intended to ensure that you get all the necessary informa
 
 ## Please make sure you have met the following requirements:
 
-### 1. Need to be installed:
+### 1. What need to be installed?:
 
 - [Python](https://www.python.org/downloads/) required is [ version >=3 ] and pip package manager for Python [ >=20 ]
 
