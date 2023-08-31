@@ -13,9 +13,9 @@
 
 ### 2. Place your credentials in the following files:
 
-- [AWS](aws_credentials_sample.txt) [Please keep them secure on your own!]
+- [AWS](aws_credentials_sample.txt) [ Please keep them secure on your own! ]
 
-- [Terraform](credentials_file.tfvars) [Usually, the credentials files end in "example.tfvar" by terraforming.]
+- [Terraform](../credentials_file.tfvars) [ Usually, the credentials file extension end in "example.tfvar" by terraforming. ]
 
 ### 3. The knowlegde of the data structure underlying the project:
 
