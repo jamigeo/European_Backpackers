@@ -15,9 +15,7 @@ resource "aws_s3_bucket_object" "json-upload-for-dynamodb" {
   bucket = aws_s3_bucket.json-upload-for-dynamodb-bucket.id
 
   key    = "european_backpackers"
-
   acl    = "public-read"
-
   source = "european_cities.json"
 
   etag = filemd5("myfiles/yourfile.txt")
