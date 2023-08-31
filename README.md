@@ -13,9 +13,9 @@ This Readme.md file is intended to ensure that you get all the necessary informa
 
 ### 2. Place your credentials in the following file:
 
-- [Terraform](https://github.com/jamigeo/European_Backpackers/tree/main/Terraform%20templates/credentials.txt) [ The access data is usually stored in a separate file that ends with the file extension .tfvars ]
+- [Terraform](https://github.com/jamigeo/European_Backpackers/tree/main/Terraform%20templates/credentials.txt) [ The access data is usually stored in a separate file that ends with the file extension: .tfvars ]
 
 ### 3. The knowlegde of the data structure underlying the project:
 
-- The [JSON](data_structure.json) data structure on which this project is based, must have a marshalled JSON format for import into the [DynamoDB](https://github.com/jamigeo/European_Backpackers/tree/main/Terraform%20templates/dynamodb.tf) database. Otherwise the import from the [s3](https://github.com/jamigeo/European_Backpackers/tree/main/Terraform%20templates/s3.tf) bucket is not possible. Please take care of it.
+- The [JSON](data_structure.json) data structure on which this project is based, must have a [marshalled](https://en.wikipedia.org/wiki/Marshalling_(computer_science)) JSON format for import into the [DynamoDB](https://github.com/jamigeo/European_Backpackers/tree/main/Terraform%20templates/dynamodb.tf) database. Otherwise the import from the [s3](https://github.com/jamigeo/European_Backpackers/tree/main/Terraform%20templates/s3.tf) bucket is not possible. Please take care of it.
 
