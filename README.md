@@ -15,7 +15,7 @@
 
 - [AWS](aws_credentials_sample.txt) [ Please keep them secure on your own! ]
 
-- [Terraform](Terraform templates/credentials_file.tfvars) [ Usually, the credentials file extension end in "example.tfvar" by terraforming. ]
+- [Terraform](../credentials.txt) [ Usually, the credentials file extension end in "example.tfvar" by terraforming. ]
 
 ### 3. The knowlegde of the data structure underlying the project:
 
