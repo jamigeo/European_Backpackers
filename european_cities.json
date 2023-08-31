@@ -1,7 +1,9 @@
 {
     "cities": [
         {
-            "name": "Tirana",
+            "name": {
+                "S": "Tirana"
+            },
             "country": "Albania",
             "population": 421286,
             "average_age": 32.5,
@@ -347,7 +349,7 @@
                 "rainy_days": 110,
                 "monthly_sunshine_hours": 205
             },
-            "coat_of_arms_image_path": ""
+            "coat_of_arms_image_path": []
         },
         {
             "name": "Korça",

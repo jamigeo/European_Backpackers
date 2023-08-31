@@ -1,0 +1,64 @@
+{
+    "cities": [
+        {
+            "name": { "S": "string" },
+            "country": { "S": "string" },
+            "population": { "N": "integer" },
+            "average_age": { "N": "float" },
+            "area": { "N": "float" },
+            "founding_year": { "S": "date" },
+            "population_density": { "N": "integer" },
+            "districts": { "N": "integer" },
+            "transportation": {
+                "M": {
+                    "subway_connections": {
+                        "M": {
+                            "north": { "N": "integer" },
+                            "south": { "N": "integer" },
+                            "east": { "N": "integer" },
+                            "west": { "N": "integer" }
+                        }
+                    },
+                    "train_connections": {
+                        "M": {
+                            "north": { "N": "integer" },
+                            "south": { "N": "integer" },
+                            "east": { "N": "integer" },
+                            "west": { "N": "integer" }
+                        }
+                    },
+                    "highway_connections": {
+                        "M": {
+                            "north": { "N": "integer" },
+                            "south": { "N": "integer" },
+                            "east": { "N": "integer" },
+                            "west": { "N": "integer" }
+                        }
+                    },
+                    "airports": { "L": [{ "S": "string" }] }
+                }
+            },
+            "geography": {
+                "M": {
+                    "latitude": { "N": "float" },
+                    "longitude": { "N": "float" },
+                    "nearest_city_distance_km": {
+                        "M": {
+                            "value": { "N": "float" },
+                            "unit": { "S": "kilometers" }
+                        }
+                    },
+                    "rivers": { "L": [{ "S": "string" }] },
+                    "elevation_meters": { "N": "integer" },
+                    "max_daily_temperature_celsius": { "N": "double" },
+                    "min_daily_temperature_celsius": { "N": "double" },
+                    "precipitation": { "S": "string" },
+                    "rainy_days": { "N": "integer" },
+                    "monthly_sunshine_hours": { "N": "integer" }
+                }
+            },
+            "coat_of_arms_image_path": { "S": "example/image/path.jpg" }
+        }
+    ]
+}
+
