@@ -9,5 +9,5 @@ terraform {
 
 provider "aws" {
   region = "eu-central-1"
-  shared_credentials_files = ["C:\\Path\\to\\file.tfvars"]
+  shared_credentials_files = ["C:\\Path\\to\\credentials_file.tfvars"]
 }
