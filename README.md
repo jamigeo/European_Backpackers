@@ -13,7 +13,7 @@ This Readme.md file is intended to ensure that you get all the necessary informa
 
 ### 2. Place your credentials in the following file:
 
-- [ The [Terraform](https://github.com/jamigeo/European_Backpackers/tree/main/Terraform%20templates/credentials.txt) access data is usually stored in a separate file that ends with the file extension: .tfvars ] Please keep them safe, because big [solutions](images/stand_alone.jpg) are also big [responsibilities](images/Pinky.png)...
+- [ The [Terraform](https://github.com/jamigeo/European_Backpackers/tree/main/Terraform%20templates/credentials.txt) access data is usually stored in a separate file that ends with the file extension: .tfvars ] Please keep them safe, because big [solutions](images/stand_alone.jpg) are also big responsibilities...
 
 ### 3. The knowlegde of the data structure underlying the project:
 
