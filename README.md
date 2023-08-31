@@ -11,9 +11,7 @@
 
 - [Terraform](https://developer.hashicorp.com/terraform/downloads) [ version >= 5 ]
 
-### 2. Place your credentials in the following files:
-
-- [AWS](aws_credentials_sample.txt) [ Please keep them secure on your own! ]
+### 2. Place your credentials in the following file:
 
 - [Terraform](https://github.com/jamigeo/European_Backpackers/tree/main/Terraform%20templates/credentials.txt) [ Usually, the credentials file extension end in "example.tfvar" by Terraform. ]
 
