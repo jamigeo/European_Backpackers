@@ -17,5 +17,5 @@ This Readme.md file is intended to ensure that you get all the necessary informa
 
 ### 3. The knowlegde of the data structure underlying the project:
 
-- [json](data_structure.json) The data structure on which this project is based must have a marshalled JSON format for import into the [DynamoDB](https://github.com/jamigeo/European_Backpackers/tree/main/Terraform%20templates/dynamodb.tf) database. otherwise the import from the [s3](https://github.com/jamigeo/European_Backpackers/tree/main/Terraform%20templates/s3.tf) bucket is not possible. Please take care of it.
+- The [JSON](data_structure.json) data structure on which this project is based must have a marshalled JSON format for import into the [DynamoDB](https://github.com/jamigeo/European_Backpackers/tree/main/Terraform%20templates/dynamodb.tf) database. otherwise the import from the [s3](https://github.com/jamigeo/European_Backpackers/tree/main/Terraform%20templates/s3.tf) bucket is not possible. Please take care of it.
 
