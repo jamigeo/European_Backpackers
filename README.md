@@ -9,11 +9,11 @@ This Readme.md file is intended to ensure that you get all the necessary informa
 
 - [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) [ version >= 2 ] You need an AWS account, or at least have access to one.
 
-- [Terraform](https://developer.hashicorp.com/terraform/downloads) [ version >= 5 ] The common notation for "greater than or equal to" in terraform is: "~> 5.0" [ check the [access.tf](https://github.com/jamigeo/European_Backpackers/tree/main/Terraform%20templates) file ]
+- [Terraform](https://developer.hashicorp.com/terraform/downloads) [ version >= 5 ] The common notation for "greater than or equal to" in terraform is: "~> 5.0" [ check the [access.tf](https://github.com/jamigeo/European_Backpackers/tree/main/Terraform%20templates/access.tf) file ]
 
 ### 2. Place your credentials in the following file:
 
-- [Terraform](https://github.com/jamigeo/European_Backpackers/tree/main/Terraform%20templates/credentials.txt) [ The access data is usually stored in a separate file that ends with the file extension: .tfvars ]
+- [ The [Terraform](https://github.com/jamigeo/European_Backpackers/tree/main/Terraform%20templates/credentials.txt) access data is usually stored in a separate file that ends with the file extension: .tfvars ] Please keep them safe, because big solutions are also big responsibilities...
 
 ### 3. The knowlegde of the data structure underlying the project:
 
