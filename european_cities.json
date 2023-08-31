@@ -1,9 +1,7 @@
 {
     "cities": [
         {
-            "name": {
-                "S": "Tirana"
-            },
+            "name": "Tirana",
             "country": "Albania",
             "population": 421286,
             "average_age": 32.5,
