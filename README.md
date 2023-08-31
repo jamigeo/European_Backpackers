@@ -5,17 +5,17 @@
 
 ### 1. Need to be installed:
 
-- [Python](https://www.python.org/downloads/) (version >=3) and pip package manager for Python (>=20)
+- [Python](https://www.python.org/downloads/) [ version >=3 ] and pip package manager for Python  [ >=20 ]
 
-- [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) (version >= 2)
+- [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) [ version >= 2 ]
 
-- [Terraform](https://developer.hashicorp.com/terraform/downloads) (version >= 5)
+- [Terraform](https://developer.hashicorp.com/terraform/downloads) [ version >= 5 ]
 
 ### 2. Place your credentials in the following files:
 
 - [AWS](aws_credentials_sample.txt) [ Please keep them secure on your own! ]
 
-- [Terraform](European_Backpackers\Terraform templates\credentials.txt) [ Usually, the credentials file extension end in "example.tfvar" by Terraform. ]
+- [Terraform](credentials.txt) [ Usually, the credentials file extension end in "example.tfvar" by Terraform. ]
 
 ### 3. The knowlegde of the data structure underlying the project:
 
