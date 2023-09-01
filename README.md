@@ -35,10 +35,10 @@ This Readme.md file is intended to ensure that you get all the necessary informa
 
 [^1]: Das iste eine Fußnote...
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| DynamoDB Table        | cities        | country        |
+| ----------------------|:-------------:| --------------:|
+| col 3 is              | Berlin        | Deutschland    |
+| col 2 is              | Amsterdam     |   $12          |
+| zebra stripes         | are neat      |                |
 
 
