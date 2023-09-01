@@ -79,6 +79,15 @@ This Readme.md file is intended to ensure that you get all the necessary informa
 |         | coat of arms image path | string  |        |         |
 
 
+#### 3.1 AWS Infrastructure we are creating
+
+* API Gateway (not yet)
+
+* 2 Lambda functions (GET and POST City)
+
+* DynamoDB Table
+    > Name : 'european-cities'
+    > Key : 'Name'
 
 
 ### 4. File Structure
