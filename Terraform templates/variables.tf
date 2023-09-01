@@ -1,4 +1,16 @@
 
+variable "aws_account_id" {
+  description = "AWS Account ID"
+  type        = string
+  default     = "093823058718"
+}
+
+variable "aws_region" {
+  description = "AWS Region"
+  type        = string
+  default     = "eu-central-1"
+}
+
 variable "statement" {
   description = "Defines the Sid statement, used in the assume role policy."
   default     = "assumedPolicy_advancedAWSidRole-2024"
@@ -76,14 +88,3 @@ variable "abc" {
   type    = string
 }
 
-variable "aws_account_id" {
-  description = "AWS Account ID"
-  type        = string
-  default     = "093823058718"
-}
-
-variable "aws_region" {
-  description = "AWS Region"
-  type        = string
-  default     = "eu-central-1"
-}
