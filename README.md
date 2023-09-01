@@ -9,7 +9,7 @@ This Readme.md file is intended to ensure that you get all the necessary informa
 
 - [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) [ version >= 2 ] You need an AWS account, or at least have access to one.
 
-- [Terraform](https://developer.hashicorp.com/terraform/downloads) [ version >= 5 ] The common notation for "greater than or equal to" in terraform is: "~> 5.0" [ check the [access.tf](https://github.com/jamigeo/European_Backpackers/tree/main/Terraform%20templates/access.tf) file ]
+- [Terraform](https://developer.hashicorp.com/terraform/downloads) [ version >= 5 ] The common notation for "greater than or equal to" in terraform is: "~> 5.0"
 
 ### 2. Place your credentials in the following file:
 
