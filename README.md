@@ -28,11 +28,50 @@ This Readme.md file is intended to ensure that you get all the necessary informa
 
 - The [JSON](data_structure.json) data structure on which this project is based, must have a [marshalled](https://en.wikipedia.org/wiki/Marshalling_(computer_science)) JSON format for import into the [DynamoDB](https://github.com/jamigeo/European_Backpackers/tree/main/Terraform%20templates/dynamodb.tf) database. Otherwise the import from the [s3](https://github.com/jamigeo/European_Backpackers/tree/main/Terraform%20templates/s3.tf) bucket is not possible. Please take care of it.
 
-| DynamoDB Table        | cities        | country        |
-| ----------------------|:-------------:| --------------:|
-| col 3 is              | Berlin        | Deutschland    |
-| col 2 is              | Amsterdam     |   $12          |
-| zebra stripes         | are neat      |                |
+| DynamoDB Table               | cities                  |
+| ---------------------------- | ----------------------- |
+| name                         | string                  |
+| country                      | string                  |
+| population                   | integer                 |
+| average_age                  | float                   |
+| area                         | float                   |
+| founding_year                | date                    |
+| population_density           | integer                 |
+| districts                    | integer                 |
+| transportation               | Map (M)                 |
+| transportation.subway_connections  | Map (M)            |
+| transportation.subway_connections.north | integer        |
+| transportation.subway_connections.south | integer        |
+| transportation.subway_connections.east  | integer        |
+| transportation.subway_connections.west  | integer        |
+| transportation.train_connections     | Map (M)            |
+| transportation.train_connections.north | integer         |
+| transportation.train_connections.south | integer         |
+| transportation.train_connections.east  | integer         |
+| transportation.train_connections.west  | integer         |
+| transportation.highway_connections    | Map (M)            |
+| transportation.highway_connections.north | integer       |
+| transportation.highway_connections.south | integer       |
+| transportation.highway_connections.east  | integer       |
+| transportation.highway_connections.west  | integer       |
+| transportation.airports                | List (L)            |
+| transportation.airports[0]             | string              |
+| geography                      | Map (M)              |
+| geography.latitude             | float                |
+| geography.longitude            | float                |
+| geography.nearest_city_distance_km | Map (M)           |
+| geography.nearest_city_distance_km.value | float          |
+| geography.nearest_city_distance_km.unit  | string         |
+| geography.rivers               | List (L)             |
+| geography.rivers[0]            | string               |
+| geography.elevation_meters     | integer              |
+| geography.max_daily_temperature_celsius | double        |
+| geography.min_daily_temperature_celsius | double        |
+| geography.precipitation        | string               |
+| geography.rainy_days           | integer              |
+| geography.monthly_sunshine_hours | integer           |
+| coat_of_arms_image_path        | string               |
+
 
 
 ### 4. File Structure
