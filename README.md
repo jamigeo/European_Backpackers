@@ -28,55 +28,56 @@ This Readme.md file is intended to ensure that you get all the necessary informa
 
 - The [JSON](data_structure.json) data structure on which this project is based, must have a [marshalled](https://en.wikipedia.org/wiki/Marshalling_(computer_science)) JSON format for import into the [DynamoDB](https://github.com/jamigeo/European_Backpackers/tree/main/Terraform%20templates/dynamodb.tf) database. Otherwise the import from the [s3](https://github.com/jamigeo/European_Backpackers/tree/main/Terraform%20templates/s3.tf) bucket is not possible. Please take care of it.
 
-| Table   | Field                                 | Type    |
-| ------- | ------------------------------------- | ------- |
-| cities  |                                      |         |
-|         | name                                 | string  |
-|         | country                              | string  |
-|         | population                           | integer |
-|         | average_age                          | float   |
-|         | area                                 | float   |
-|         | founding_year                        | date    |
-|         | population_density                   | integer |
-|         | districts                            | integer |
-|         | transportation                       | Map (M) |
-|         |                                      |         |
-|         | subway_connections                   | Map (M) |
-|         |                                      |         |
-|         |                                      | north   | integer |
-|         |                                      | south   | integer |
-|         |                                      | east    | integer |
-|         |                                      | west    | integer |
-|         | train_connections                    | Map (M) |
-|         |                                      |         |
-|         |                                      | north   | integer |
-|         |                                      | south   | integer |
-|         |                                      | east    | integer |
-|         |                                      | west    | integer |
-|         | highway_connections                  | Map (M) |
-|         |                                      |         |
-|         |                                      | north   | integer |
-|         |                                      | south   | integer |
-|         |                                      | east    | integer |
-|         |                                      | west    | integer |
-|         | airports                             | List (L) |
-|         |                                      | [0]     | string  |
-|         | geography                            | Map (M) |
-|         |                                      |         |
-|         |                                      | latitude                | float   |
-|         |                                      | longitude               | float   |
-|         |                                      | nearest_city_distance_km | Map (M) |
+| Table   | Field                                 | Type    | Maps   | Types   |
+| ------- | ------------------------------------- | ------- | ------ | ------- |
+| cities  |                                      |         |        |         |
+|         | name                                 | string  |        |         |
+|         | country                              | string  |        |         |
+|         | population                           | integer |        |         |
+|         | average_age                          | float   |        |         |
+|         | area                                 | float   |        |         |
+|         | founding_year                        | date    |        |         |
+|         | population_density                   | integer |        |         |
+|         | districts                            | integer |        |         |
+|         | transportation                       | Map (M) |        |         |
+|         |                                      |         |        |         |
+|         | subway_connections                   | Map (M) |        |         |
+|         |                                      |         |        |         |
+|         |                                      | north   | integer |         |
+|         |                                      | south   | integer |         |
+|         |                                      | east    | integer |         |
+|         |                                      | west    | integer |         |
+|         | train_connections                    | Map (M) |        |         |
+|         |                                      |         |        |         |
+|         |                                      | north   | integer |         |
+|         |                                      | south   | integer |         |
+|         |                                      | east    | integer |         |
+|         |                                      | west    | integer |         |
+|         | highway_connections                  | Map (M) |        |         |
+|         |                                      |         |        |         |
+|         |                                      | north   | integer |         |
+|         |                                      | south   | integer |         |
+|         |                                      | east    | integer |         |
+|         |                                      | west    | integer |         |
+|         | airports                             | List (L) |       |         |
+|         |                                      | [0]     | string  |         |
+|         | geography                            | Map (M) |        |         |
+|         |                                      |         |        |         |
+|         |                                      | latitude                | float   |         |
+|         |                                      | longitude               | float   |         |
+|         |                                      | nearest_city_distance_km | Map (M) |         |
 |         |                                      |                          | value   | float  |
 |         |                                      |                          | unit    | string  |
-|         |                                      | rivers                  | List (L) |
+|         |                                      | rivers                  | List (L) |        |
 |         |                                      |                          | [0]     | string  |
-|         |                                      | elevation_meters        | integer |
-|         |                                      | max_daily_temperature_celsius | double |
-|         |                                      | min_daily_temperature_celsius | double |
-|         |                                      | precipitation           | string  |
-|         |                                      | rainy_days              | integer |
-|         |                                      | monthly_sunshine_hours  | integer |
-|         | coat_of_arms_image_path               | string  |
+|         |                                      | elevation_meters        | integer |        |
+|         |                                      | max_daily_temperature_celsius | double | |
+|         |                                      | min_daily_temperature_celsius | double | |
+|         |                                      | precipitation           | string  |        |
+|         |                                      | rainy_days              | integer |        |
+|         |                                      | monthly_sunshine_hours  | integer |     |
+|         | coat_of_arms_image_path               | string  |        |         |
+
 
 
 ### 4. File Structure
