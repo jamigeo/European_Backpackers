@@ -7,7 +7,7 @@ This Readme.md file is intended to ensure that you get all the necessary informa
 
 - [Python](https://www.python.org/downloads/) required is [ version >=3 ] and pip package manager for Python [ >=20 ]
 
-    - run: `python --version` ...on your comandline to see if the version meets the requirement.
+    - run: ```python python --version``` ...on your comandline to see if the version meets the requirement.
 
 - [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) [ version >= 2 ] You need an AWS account, or at least have access to one.
 
