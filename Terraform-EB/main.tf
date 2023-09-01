@@ -41,6 +41,18 @@ resource "aws_lambda_function" "POST-city" {
   runtime = "python3.10"
 }
 
+
+#####################################################################
+resource "aws_lambda_function" "GET-cities" {
+  filename      = "lambda-zip/get-cities.zip"
+  function_name = "GET-cities"
+  role          = "arn:aws:iam::${var.aws_account_id}:role/DynamoDB-Interaction"
+  handler = "lambda_function.lambda_handler"
+  runtime = "python3.10"
+}
+#####################################################################
+
+
 # resource "aws_iam_policy" "DB-Interaction" {
 #   name = "DB-Interaction"
 #   path = "/"
