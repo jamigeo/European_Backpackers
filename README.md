@@ -28,6 +28,13 @@ This Readme.md file is intended to ensure that you get all the necessary informa
 
 - The [JSON](data_structure.json) data structure on which this project is based, must have a [marshalled](https://en.wikipedia.org/wiki/Marshalling_(computer_science)) JSON format for import into the [DynamoDB](https://github.com/jamigeo/European_Backpackers/tree/main/Terraform%20templates/dynamodb.tf) database. Otherwise the import from the [s3](https://github.com/jamigeo/European_Backpackers/tree/main/Terraform%20templates/s3.tf) bucket is not possible. Please take care of it.
 
+| DynamoDB Table        | cities        | country        |
+| ----------------------|:-------------:| --------------:|
+| col 3 is              | Berlin        | Deutschland    |
+| col 2 is              | Amsterdam     |   $12          |
+| zebra stripes         | are neat      |                |
+
+
 ### 4. File Structure
 
 - Working Directory: Terraform-EB
@@ -35,10 +42,5 @@ This Readme.md file is intended to ensure that you get all the necessary informa
 
 [^1]: Wichtig ist es zu beachten, dass diese Fußnote auch irgendwann einen Sinn bekommt...
 
-| DynamoDB Table        | cities        | country        |
-| ----------------------|:-------------:| --------------:|
-| col 3 is              | Berlin        | Deutschland    |
-| col 2 is              | Amsterdam     |   $12          |
-| zebra stripes         | are neat      |                |
 
 
