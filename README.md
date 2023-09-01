@@ -7,7 +7,7 @@ This Readme.md file is intended to ensure that you get all the necessary informa
 
 - [Python](https://www.python.org/downloads/) required is [ version >=3 ] and pip package manager for Python [ >=20 ]
 
-    - run: ```python python --version``` ...on your comandline to see if the version meets the requirement.
+    - run: ```python --version``` ...on your comandline to see if the version meets the requirement.
 
 - [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) [ version >= 2 ] You need an AWS account, or at least have access to one.
 
@@ -30,7 +30,15 @@ This Readme.md file is intended to ensure that you get all the necessary informa
 
 ### 4. File Structure
 
-- ([]) Working Directory: Terraform-EB
-- ([x]) edit variables.tf
+- Working Directory: Terraform-EB[^1]
+- edit variables.tf
+
+[^1]: Das iste eine Fußnote...
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 
