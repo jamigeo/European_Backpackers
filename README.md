@@ -40,30 +40,23 @@ This Readme.md file is intended to ensure that you get all the necessary informa
 |                               | population_density                        | integer    |
 |                               | districts                                 | integer    |
 |                               | transportation                            | Map (M)    |
-|                               |                                           |            |
 |                               | transportation.subway_connections         | Map (M)    |
-|                               |                                           |            |
 |                               |                                           | north      | integer    |
 |                               |                                           | south      | integer    |
 |                               |                                           | east       | integer    |
 |                               |                                           | west       | integer    |
-|                               |                                           |            |
 |                               | transportation.train_connections          | Map (M)    |
-|                               |                                           |            |
 |                               |                                           | north      | integer    |
 |                               |                                           | south      | integer    |
 |                               |                                           | east       | integer    |
 |                               |                                           | west       | integer    |
-|                               |                                           |            |
 |                               | transportation.highway_connections        | Map (M)    |
-|                               |                                           |            |
 |                               |                                           | north      | integer    |
 |                               |                                           | south      | integer    |
 |                               |                                           | east       | integer    |
 |                               |                                           | west       | integer    |
 |                               |                                           |            |
 |                               | transportation.airports                    | List (L)   |
-|                               |                                           |            |
 |                               |                                           | [0]        | string     |
 |                               |                                           |            |
 |                               | geography                                 | Map (M)    |
@@ -82,9 +75,6 @@ This Readme.md file is intended to ensure that you get all the necessary informa
 |                               |                                           | rainy_days | integer    |
 |                               |                                           | monthly_sunshine_hours | integer |
 |                               | coat_of_arms_image_path                   | string     |
-
-
-
 
 
 ### 4. File Structure
