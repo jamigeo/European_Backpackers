@@ -20,7 +20,7 @@ This Readme.md file is intended to ensure that you get all the necessary informa
 
 ### 2. Place your credentials in the following file:
 
-- consider storing your AWS Credentials in `~/.aws/config` using `aws_access_key_id`, `aws_secret_access_key`, and `aws_session_token`
+- consider storing your AWS Credentials in `~/.aws/config`[^1] using `aws_access_key_id`, `aws_secret_access_key`, and `aws_session_token`
 
 - [ The [Terraform](https://github.com/jamigeo/European_Backpackers/tree/main/Terraform%20templates/credentials.txt) access data is usually stored in a separate file that ends with the file extension: `.tfvars` ] Please keep them safe, because big solutions are also big responsibilities[.](images/stand_alone.jpg)
 
@@ -30,10 +30,10 @@ This Readme.md file is intended to ensure that you get all the necessary informa
 
 ### 4. File Structure
 
-- Working Directory: Terraform-EB[^1]
+- Working Directory: Terraform-EB
 - edit variables.tf
 
-[^1]: Das iste eine Fußnote...
+[^1]: Wichtig ist es zu beachten, dass diese Fußnote auch irgendwann einen Sinn bekommt...
 
 | DynamoDB Table        | cities        | country        |
 | ----------------------|:-------------:| --------------:|
