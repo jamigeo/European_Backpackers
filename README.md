@@ -86,7 +86,6 @@ This Readme.md file is intended to ensure that you get all the necessary informa
 
 
 
-
 ### 4. File Structure
 
 - Working Directory: Terraform-EB
