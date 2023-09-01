@@ -9,3 +9,6 @@ variable "aws_region" {
   type        = string
   default     = "eu-central-1"
 }
+
+# Database Table Name
+# european-cities
