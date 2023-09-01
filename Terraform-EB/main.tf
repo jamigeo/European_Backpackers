@@ -49,7 +49,7 @@ resource "aws_lambda_function" "GET-cities" {
   function_name = "GET-cities"
   role          = "arn:aws:iam::${var.aws_account_id}:role/DynamoDB-Interaction"
   # handler = "lambda_function.lambda_handler"
-  handler = "get_city.lambda_handler"
+  handler = "get_cities.lambda_handler"
   runtime = "python3.10"
 }
 #####################################################################
