@@ -6,7 +6,7 @@ def lambda_handler(event, context):
     client = boto3.client('dynamodb')
     
     data = client.scan(
-        TableName='http-crud-cities'
+        TableName='european-cities'
         )
 
     response = {

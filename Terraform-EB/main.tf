@@ -32,22 +32,24 @@ resource "aws_iam_role" "DynamoDB-Interaction" {
 }
 
 resource "aws_lambda_function" "POST-city" {
-  filename      = "lambda-zip/post-city.zip"
+  filename      = "lambda-zip/post_city.zip"
   function_name = "POST-city"
   role          = "arn:aws:iam::${var.aws_account_id}:role/DynamoDB-Interaction"
   # role          = "arn:aws:iam::${var.aws_account_id}:role/service-role/0706-DB-Interaction"
   # role    = "arn:aws:iam::aws:policy/service-role/AWSLambdaDynamoDBExecutionRole"   # cannot assign generic role
-  handler = "lambda_function.lambda_handler"
+  # handler = "lambda_function.lambda_handler"
+  handler = "post_city.lambda_handler"
   runtime = "python3.10"
 }
 
 
 #####################################################################
 resource "aws_lambda_function" "GET-cities" {
-  filename      = "lambda-zip/get-cities.zip"
+  filename      = "lambda-zip/get_cities.zip"
   function_name = "GET-cities"
   role          = "arn:aws:iam::${var.aws_account_id}:role/DynamoDB-Interaction"
-  handler = "lambda_function.lambda_handler"
+  # handler = "lambda_function.lambda_handler"
+  handler = "get_city.lambda_handler"
   runtime = "python3.10"
 }
 #####################################################################

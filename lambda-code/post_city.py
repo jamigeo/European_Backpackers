@@ -5,7 +5,7 @@ from decimal import Decimal
 dynamodb = boto3.resource('dynamodb')
 
 def lambda_handler(event, context):
-    table = dynamodb.Table('http-crud-cities')
+    table = dynamodb.Table('european-cities')
 
     data = event.get("body")    
 
