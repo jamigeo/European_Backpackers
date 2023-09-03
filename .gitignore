@@ -18,6 +18,7 @@ crash.*.log
 
 # also exclude the standard variables.tf
 Terraform-EB/variables.tf
+variables.tf
 
 # Ignore override files as they are usually used to override resources locally and so
 # are not checked in
