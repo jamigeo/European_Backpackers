@@ -597,7 +597,7 @@
                 "rainy_days": 200,
                 "monthly_sunshine_hours": 160
             },
-            "coat_of_arms_image_path": "belgium/brussels_coat_of_arms.jpg"
+            "coat_of_arms_image_path": "images/belgium/brussels_coat_of_arms.jpg"
         },
         {
             "name": "Antwerp",
@@ -648,7 +648,7 @@
                 "rainy_days": 180,
                 "monthly_sunshine_hours": 170
             },
-            "coat_of_arms_image_path": "belgium/antwerp_coat_of_arms.jpg"
+            "coat_of_arms_image_path": "images/belgium/antwerp_coat_of_arms.jpg"
         },
         {
             "name": "Ghent",
