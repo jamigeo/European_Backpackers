@@ -17,3 +17,10 @@ resource "aws_apigatewayv2_api" "API-cities" {
   name = "api-cities"
   protocol_type = "HTTP"
 }
+
+resource "aws_apigatewayv2_stage" "example" {
+  # api_id = "aws_apigatewayv2_api.API-cities"
+  # api_id = "API-cities"
+  api_id = aws_apigatewayv2_api.API-cities.id
+  name   = "$default"
+}
