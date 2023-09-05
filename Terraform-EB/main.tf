@@ -36,7 +36,7 @@ resource "aws_dynamodb_table" "european-cities" {
   hash_key = "name"
 }
 
-
+# DynamoDB Interaction : genric AWS Policy / Service Role
 resource "aws_iam_role" "DynamoDB-Interaction" {
   name               = "DynamoDB-Interaction"
   assume_role_policy = data.aws_iam_policy_document.trust_policy.json
@@ -44,6 +44,7 @@ resource "aws_iam_role" "DynamoDB-Interaction" {
   managed_policy_arns = ["arn:aws:iam::aws:policy/AmazonDynamoDBFullAccess"]
 }
 
+# Lambda 
 resource "aws_lambda_function" "POST-city" {
   filename      = "lambda-zip/post_city.zip"
   function_name = "POST-city"
@@ -56,37 +57,11 @@ resource "aws_lambda_function" "POST-city" {
 }
 
 
-#####################################################################
 resource "aws_lambda_function" "GET-cities" {
   filename      = "lambda-zip/get_cities.zip"
   function_name = "GET-cities"
   role          = "arn:aws:iam::${var.aws_account_id}:role/DynamoDB-Interaction"
-  # handler = "lambda_function.lambda_handler"
   handler = "get_cities.lambda_handler"
   runtime = "python3.10"
 }
-#####################################################################
 
-
-# resource "aws_iam_policy" "DB-Interaction" {
-#   name = "DB-Interaction"
-#   path = "/"
-#   description = "DynamoDB Interaction Policy"
-
-#   policy = jsonencode({
-#     "Version": "2012-10-17",
-#     "Statement": [
-#         {
-#             "Effect": "Allow",
-#             "Action": [
-#                 "dynamodb:DeleteItem",
-#                 "dynamodb:GetItem",
-#                 "dynamodb:PutItem",
-#                 "dynamodb:Scan",
-#                 "dynamodb:UpdateItem"
-#             ],
-#             "Resource": "arn:aws:dynamodb:eu-central-1:${var.aws_account}:table/*"
-#         }
-#     ]
-# })
-# }

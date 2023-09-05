@@ -277,27 +277,6 @@
             "founding_year": "1819",
             "population_density": 122,
             "districts": 2,
-            "transportation": {
-                "subway_connections": {
-                    "north": 0,
-                    "south": 0,
-                    "east": 0,
-                    "west": 0
-                },
-                "train_connections": {
-                    "north": 0,
-                    "south": 0,
-                    "east": 0,
-                    "west": 1
-                },
-                "highway_connections": {
-                    "north": 1,
-                    "south": 1,
-                    "east": 0,
-                    "west": 1
-                },
-                "airports": []
-            },
             "geography": {
                 "latitude": 40.9369,
                 "longitude": 19.705,
