@@ -12,3 +12,19 @@ resource "aws_s3_bucket_public_access_block" "upload-bucket" {
   restrict_public_buckets = true
 
 }
+
+locals {
+  file_to_upload = "cities-reduced.json"
+}
+
+# Erstelle eine "null_resource", um das Hochladen der Datei zu steuern
+resource "null_resource" "upload_file" {
+  triggers = {
+    file_checksum = filemd5(local.file_to_upload) # Verwende eine geeignete Funktion zum Berechnen des Datei-Checksums
+  }
+
+  # Verwende den "local-exec" Provisioner, um das AWS CLI zum Hochladen der Datei zu verwenden
+  provisioner "local-exec" {
+    command = "aws s3 cp ${local.file_to_upload} s3://${aws_s3_bucket.upload-bucket.bucket}/"
+  }
+}
