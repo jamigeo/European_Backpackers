@@ -1,0 +1,32 @@
+{
+    "cities": [
+        {
+            "name": "",
+            "country": "",
+            "population": 0,
+            "average_age": 0.0,
+            "area": 0.0,
+            "founding_year": "YYYY-MM-DD",
+            "population_density": 0,
+            "districts": 0,
+            "geography": {
+                "latitude": 0.0,
+                "longitude": 0.0,
+                "nearest_city_distance_km": {
+                    "value": 0.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    ""
+                ],
+                "elevation_meters": 0,
+                "max_daily_temperature_celsius": 0.0,
+                "min_daily_temperature_celsius": 0.0,
+                "precipitation": "",
+                "rainy_days": 0,
+                "monthly_sunshine_hours": 0
+            },
+            "coat_of_arms_image_path": ""
+        }
+    ]
+}
