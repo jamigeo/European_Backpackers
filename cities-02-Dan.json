@@ -1,0 +1,1219 @@
+{
+    "cities": [
+        {
+            "name": "Sarajevo",
+            "country": "Bosnia and Herzegovina",
+            "population": 275524,
+            "average_age": 35.7,
+            "area": 142.79,
+            "founding_year": "1461",
+            "population_density": 1928,
+            "districts": 4,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 1,
+                    "west": 1
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Sarajevo International Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 43.8563,
+                "longitude": 18.4131,
+                "nearest_city_distance_km": {
+                    "value": 13.4,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Miljacka"
+                ],
+                "elevation_meters": 511,
+                "max_daily_temperature_celsius": 30.5,
+                "min_daily_temperature_celsius": -2.5,
+                "precipitation": "moderate",
+                "rainy_days": 130,
+                "monthly_sunshine_hours": 180
+            },
+            "coat_of_arms_image_path": "bosnia/sarajevo_coat_of_arms.jpg"
+        },
+        {
+            "name": "Banja Luka",
+            "country": "Bosnia and Herzegovina",
+            "population": 199191,
+            "average_age": 38.2,
+            "area": 123.5,
+            "founding_year": "1494",
+            "population_density": 1613,
+            "districts": 7,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "airports": [
+                    "Banja Luka International Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 44.7768,
+                "longitude": 17.1934,
+                "nearest_city_distance_km": {
+                    "value": 16.8,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Vrbas"
+                ],
+                "elevation_meters": 163,
+                "max_daily_temperature_celsius": 30.1,
+                "min_daily_temperature_celsius": -3.7,
+                "precipitation": "moderate",
+                "rainy_days": 130,
+                "monthly_sunshine_hours": 190
+            },
+            "coat_of_arms_image_path": "bosnia/banja_luka_coat_of_arms.jpg"
+        },
+        {
+            "name": "Tuzla",
+            "country": "Bosnia and Herzegovina",
+            "population": 144478,
+            "average_age": 37.5,
+            "area": 72.99,
+            "founding_year": "1500",
+            "population_density": 1978,
+            "districts": 5,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "airports": [
+                    "Tuzla International Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 44.5385,
+                "longitude": 18.6732,
+                "nearest_city_distance_km": {
+                    "value": 17.9,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Jala"
+                ],
+                "elevation_meters": 256,
+                "max_daily_temperature_celsius": 30.7,
+                "min_daily_temperature_celsius": -3.3,
+                "precipitation": "moderate",
+                "rainy_days": 130,
+                "monthly_sunshine_hours": 200
+            },
+            "coat_of_arms_image_path": "bosnia/tuzla_coat_of_arms.jpg"
+        },
+        {
+            "name": "Zenica",
+            "country": "Bosnia and Herzegovina",
+            "population": 110663,
+            "average_age": 36.8,
+            "area": 49.2,
+            "founding_year": "1377",
+            "population_density": 2249,
+            "districts": 4,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 44.2016,
+                "longitude": 17.9036,
+                "nearest_city_distance_km": {
+                    "value": 20.2,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Bosna"
+                ],
+                "elevation_meters": 316,
+                "max_daily_temperature_celsius": 30.9,
+                "min_daily_temperature_celsius": -4.2,
+                "precipitation": "moderate",
+                "rainy_days": 130,
+                "monthly_sunshine_hours": 210
+            },
+            "coat_of_arms_image_path": "bosnia/zenica_coat_of_arms.jpg"
+        },
+        {
+            "name": "Mostar",
+            "country": "Bosnia and Herzegovina",
+            "population": 105797,
+            "average_age": 37.1,
+            "area": 129.5,
+            "founding_year": "15th century",
+            "population_density": 818,
+            "districts": 6,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "airports": [
+                    "Mostar International Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 43.3438,
+                "longitude": 17.8078,
+                "nearest_city_distance_km": {
+                    "value": 30.8,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Neretva"
+                ],
+                "elevation_meters": 60,
+                "max_daily_temperature_celsius": 31.5,
+                "min_daily_temperature_celsius": -4.9,
+                "precipitation": "low",
+                "rainy_days": 90,
+                "monthly_sunshine_hours": 220
+            },
+            "coat_of_arms_image_path": "bosnia/mostar_coat_of_arms.jpg"
+        },
+        {
+            "name": "Bijeljina",
+            "country": "Bosnia and Herzegovina",
+            "population": 107715,
+            "average_age": 37.9,
+            "area": 734.2,
+            "founding_year": "1776",
+            "population_density": 147,
+            "districts": 10,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 44.7635,
+                "longitude": 19.2165,
+                "nearest_city_distance_km": {
+                    "value": 16.7,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Sava"
+                ],
+                "elevation_meters": 87,
+                "max_daily_temperature_celsius": 31.2,
+                "min_daily_temperature_celsius": -4.6,
+                "precipitation": "moderate",
+                "rainy_days": 120,
+                "monthly_sunshine_hours": 210
+            },
+            "coat_of_arms_image_path": "bosnia/bijeljina_coat_of_arms.jpg"
+        },
+        {
+            "name": "Prijedor",
+            "country": "Bosnia and Herzegovina",
+            "population": 88740,
+            "average_age": 38.6,
+            "area": 834.3,
+            "founding_year": "late 17th century",
+            "population_density": 106,
+            "districts": 6,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 44.9799,
+                "longitude": 16.7130,
+                "nearest_city_distance_km": {
+                    "value": 12.9,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Sana"
+                ],
+                "elevation_meters": 135,
+                "max_daily_temperature_celsius": 30.8,
+                "min_daily_temperature_celsius": -4.4,
+                "precipitation": "moderate",
+                "rainy_days": 120,
+                "monthly_sunshine_hours": 200
+            },
+            "coat_of_arms_image_path": "bosnia/prijedor_coat_of_arms.jpg"
+        },
+        {
+            "name": "Brčko",
+            "country": "Bosnia and Herzegovina",
+            "population": 83949,
+            "average_age": 39.2,
+            "area": 513,
+            "founding_year": "14th century",
+            "population_density": 164,
+            "districts": 5,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 44.8714,
+                "longitude": 18.8105,
+                "nearest_city_distance_km": {
+                    "value": 30.5,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Sava"
+                ],
+                "elevation_meters": 92,
+                "max_daily_temperature_celsius": 31.1,
+                "min_daily_temperature_celsius": -4.9,
+                "precipitation": "moderate",
+                "rainy_days": 120,
+                "monthly_sunshine_hours": 210
+            },
+            "coat_of_arms_image_path": "bosnia/brcko_coat_of_arms.jpg"
+        },
+        {
+            "name": "Sofia",
+            "country": "Bulgaria",
+            "population": 1300000,
+            "average_age": 38.5,
+            "area": 492.86,
+            "founding_year": "8th century BC",
+            "population_density": 2634,
+            "districts": 24,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 1,
+                    "west": 1
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Sofia Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 42.6977,
+                "longitude": 23.3219,
+                "nearest_city_distance_km": {
+                    "value": 15.6,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Iskar"
+                ],
+                "elevation_meters": 550,
+                "max_daily_temperature_celsius": 29.8,
+                "min_daily_temperature_celsius": 1.5,
+                "precipitation": "moderate",
+                "rainy_days": 100,
+                "monthly_sunshine_hours": 200
+            },
+            "coat_of_arms_image_path": "bulgaria/sofia_coat_of_arms.jpg"
+        },
+        {
+            "name": "Plovdiv",
+            "country": "Bulgaria",
+            "population": 346000,
+            "average_age": 39.2,
+            "area": 101.98,
+            "founding_year": "4th millennium BC",
+            "population_density": 3389,
+            "districts": 6,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 42.1354,
+                "longitude": 24.7453,
+                "nearest_city_distance_km": {
+                    "value": 12.8,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Maritsa"
+                ],
+                "elevation_meters": 164,
+                "max_daily_temperature_celsius": 29.3,
+                "min_daily_temperature_celsius": 2.1,
+                "precipitation": "moderate",
+                "rainy_days": 90,
+                "monthly_sunshine_hours": 220
+            },
+            "coat_of_arms_image_path": "bulgaria/plovdiv_coat_of_arms.jpg"
+        },
+        {
+            "name": "Varna",
+            "country": "Bulgaria",
+            "population": 334466,
+            "average_age": 38.9,
+            "area": 238.22,
+            "founding_year": "6th century BC",
+            "population_density": 1404,
+            "districts": 5,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "airports": [
+                    "Varna Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 43.2141,
+                "longitude": 27.9147,
+                "nearest_city_distance_km": {
+                    "value": 15.2,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Varna"
+                ],
+                "elevation_meters": 0,
+                "max_daily_temperature_celsius": 28.7,
+                "min_daily_temperature_celsius": 3.0,
+                "precipitation": "moderate",
+                "rainy_days": 100,
+                "monthly_sunshine_hours": 230
+            },
+            "coat_of_arms_image_path": "bulgaria/varna_coat_of_arms.jpg"
+        },
+        {
+            "name": "Burgas",
+            "country": "Bulgaria",
+            "population": 211033,
+            "average_age": 39.6,
+            "area": 202.98,
+            "founding_year": "17th century",
+            "population_density": 1040,
+            "districts": 4,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "airports": [
+                    "Burgas Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 42.5048,
+                "longitude": 27.4626,
+                "nearest_city_distance_km": {
+                    "value": 17.3,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Atanasovska Reka"
+                ],
+                "elevation_meters": 17,
+                "max_daily_temperature_celsius": 28.3,
+                "min_daily_temperature_celsius": 4.0,
+                "precipitation": "moderate",
+                "rainy_days": 90,
+                "monthly_sunshine_hours": 230
+            },
+            "coat_of_arms_image_path": "bulgaria/burgas_coat_of_arms.jpg"
+        },
+        {
+            "name": "Ruse",
+            "country": "Bulgaria",
+            "population": 150498,
+            "average_age": 39.3,
+            "area": 162.25,
+            "founding_year": "1st century AD",
+            "population_density": 928,
+            "districts": 5,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "airports": [
+                    "Ruse Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 43.8564,
+                "longitude": 25.9705,
+                "nearest_city_distance_km": {
+                    "value": 12.6,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Danube"
+                ],
+                "elevation_meters": 30,
+                "max_daily_temperature_celsius": 28.9,
+                "min_daily_temperature_celsius": 3.8,
+                "precipitation": "moderate",
+                "rainy_days": 100,
+                "monthly_sunshine_hours": 220
+            },
+            "coat_of_arms_image_path": "bulgaria/ruse_coat_of_arms.jpg"
+        },
+        {
+            "name": "Stara Sagora",
+            "country": "Bulgaria",
+            "population": 138272,
+            "average_age": 39.8,
+            "area": 108.43,
+            "founding_year": "342 BC",
+            "population_density": 1276,
+            "districts": 4,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 42.4258,
+                "longitude": 25.6344,
+                "nearest_city_distance_km": {
+                    "value": 14.4,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Kamatitsa"
+                ],
+                "elevation_meters": 240,
+                "max_daily_temperature_celsius": 28.6,
+                "min_daily_temperature_celsius": 4.5,
+                "precipitation": "moderate",
+                "rainy_days": 100,
+                "monthly_sunshine_hours": 220
+            },
+            "coat_of_arms_image_path": "bulgaria/stara_sagora_coat_of_arms.jpg"
+        },
+        {
+            "name": "Plowdiw",
+            "country": "Bulgaria",
+            "population": 347979,
+            "average_age": 38.7,
+            "area": 101.98,
+            "founding_year": "4th millennium BC",
+            "population_density": 3410,
+            "districts": 6,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "airports": [
+                    "Plowdiw Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 42.1354,
+                "longitude": 24.7453,
+                "nearest_city_distance_km": {
+                    "value": 12.8,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Maritsa"
+                ],
+                "elevation_meters": 164,
+                "max_daily_temperature_celsius": 29.3,
+                "min_daily_temperature_celsius": 2.1,
+                "precipitation": "moderate",
+                "rainy_days": 90,
+                "monthly_sunshine_hours": 220
+            },
+            "coat_of_arms_image_path": "bulgaria/plowdiw_coat_of_arms.jpg"
+        },
+        {
+            "name": "Sliven",
+            "country": "Bulgaria",
+            "population": 88301,
+            "average_age": 39.4,
+            "area": 193.81,
+            "founding_year": "5th century BC",
+            "population_density": 456,
+            "districts": 4,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 42.6791,
+                "longitude": 26.3167,
+                "nearest_city_distance_km": {
+                    "value": 15.6,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Tundzha"
+                ],
+                "elevation_meters": 243,
+                "max_daily_temperature_celsius": 29.5,
+                "min_daily_temperature_celsius": 3.1,
+                "precipitation": "moderate",
+                "rainy_days": 100,
+                "monthly_sunshine_hours": 220
+            },
+            "coat_of_arms_image_path": "bulgaria/sliven_coat_of_arms.jpg"
+        },
+        {
+            "name": "Blagoevgrad",
+            "country": "Bulgaria",
+            "population": 77000,
+            "average_age": 39.1,
+            "area": 28.9,
+            "founding_year": "10th century",
+            "population_density": 2662,
+            "districts": 1,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 42.0219,
+                "longitude": 23.0940,
+                "nearest_city_distance_km": {
+                    "value": 12.6,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Struma"
+                ],
+                "elevation_meters": 480,
+                "max_daily_temperature_celsius": 28.7,
+                "min_daily_temperature_celsius": 3.4,
+                "precipitation": "moderate",
+                "rainy_days": 90,
+                "monthly_sunshine_hours": 220
+            },
+            "coat_of_arms_image_path": "bulgaria/blagoevgrad_coat_of_arms.jpg"
+        },
+        {
+            "name": "Kopenhagen",
+            "country": "Denmark",
+            "population": 623404,
+            "average_age": 39.2,
+            "area": 86.20,
+            "founding_year": "12th century",
+            "population_density": 7234,
+            "districts": 10,
+            "transportation": {
+                "subway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Kopenhagen Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 55.6761,
+                "longitude": 12.5683,
+                "nearest_city_distance_km": {
+                    "value": 15.6,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Strøget"
+                ],
+                "elevation_meters": 6,
+                "max_daily_temperature_celsius": 21.5,
+                "min_daily_temperature_celsius": 1.6,
+                "precipitation": "moderate",
+                "rainy_days": 120,
+                "monthly_sunshine_hours": 170
+            },
+            "coat_of_arms_image_path": "denmark/kopenhagen_coat_of_arms.jpg"
+        },
+        {
+            "name": "Aarhus",
+            "country": "Denmark",
+            "population": 349983,
+            "average_age": 39.8,
+            "area": 91.87,
+            "founding_year": "8th century",
+            "population_density": 3811,
+            "districts": 10,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "airports": [
+                    "Aarhus Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 56.1629,
+                "longitude": 10.2039,
+                "nearest_city_distance_km": {
+                    "value": 18.2,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Aarhus"
+                ],
+                "elevation_meters": 25,
+                "max_daily_temperature_celsius": 20.5,
+                "min_daily_temperature_celsius": 1.9,
+                "precipitation": "moderate",
+                "rainy_days": 130,
+                "monthly_sunshine_hours": 160
+            },
+            "coat_of_arms_image_path": "denmark/aarhus_coat_of_arms.jpg"
+        },
+        {
+            "name": "Odense",
+            "country": "Denmark",
+            "population": 204718,
+            "average_age": 40.2,
+            "area": 304.34,
+            "founding_year": "10th century",
+            "population_density": 672,
+            "districts": 5,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "airports": [
+                    "Odense Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 55.4038,
+                "longitude": 10.4024,
+                "nearest_city_distance_km": {
+                    "value": 20.5,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Odense"
+                ],
+                "elevation_meters": 13,
+                "max_daily_temperature_celsius": 19.8,
+                "min_daily_temperature_celsius": 2.0,
+                "precipitation": "moderate",
+                "rainy_days": 140,
+                "monthly_sunshine_hours": 150
+            },
+            "coat_of_arms_image_path": "denmark/odense_coat_of_arms.jpg"
+        },
+        {
+            "name": "Aalborg",
+            "country": "Denmark",
+            "population": 217075,
+            "average_age": 40.1,
+            "area": 1,
+            "elevation_meters": 7,
+            "max_daily_temperature_celsius": 20.1,
+            "min_daily_temperature_celsius": 1.7,
+            "precipitation": "moderate",
+            "rainy_days": 130,
+            "monthly_sunshine_hours": 160
+        },
+        {
+            "name": "Esbjerg",
+            "country": "Denmark",
+            "population": 71618,
+            "average_age": 39.5,
+            "area": 21.92,
+            "founding_year": "19th century",
+            "population_density": 3267,
+            "districts": 6,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "airports": [
+                    "Esbjerg Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 55.4668,
+                "longitude": 8.4516,
+                "nearest_city_distance_km": {
+                    "value": 23.1,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Esbjerg"
+                ],
+                "elevation_meters": 5,
+                "max_daily_temperature_celsius": 19.9,
+                "min_daily_temperature_celsius": 2.1,
+                "precipitation": "moderate",
+                "rainy_days": 130,
+                "monthly_sunshine_hours": 150
+            },
+            "coat_of_arms_image_path": "denmark/esbjerg_coat_of_arms.jpg"
+        },
+        {
+            "name": "Randers",
+            "country": "Denmark",
+            "population": 62364,
+            "average_age": 40.6,
+            "area": 60.71,
+            "founding_year": "12th century",
+            "population_density": 1028,
+            "districts": 3,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 56.4647,
+                "longitude": 10.9025,
+                "nearest_city_distance_km": {
+                    "value": 19.8,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Gudenå"
+                ],
+                "elevation_meters": 12,
+                "max_daily_temperature_celsius": 20.0,
+                "min_daily_temperature_celsius": 2.2,
+                "precipitation": "moderate",
+                "rainy_days": 130,
+                "monthly_sunshine_hours": 160
+            },
+            "coat_of_arms_image_path": "denmark/randers_coat_of_arms.jpg"
+        },
+        {
+            "name": "Kolding",
+            "country": "Denmark",
+            "population": 60665,
+            "average_age": 40.0,
+            "area": 224.94,
+            "founding_year": "13th century",
+            "population_density": 269,
+            "districts": 5,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 55.4950,
+                "longitude": 9.4716,
+                "nearest_city_distance_km": {
+                    "value": 21.5,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Kolding"
+                ],
+                "elevation_meters": 34,
+                "max_daily_temperature_celsius": 19.8,
+                "min_daily_temperature_celsius": 2.2,
+                "precipitation": "moderate",
+                "rainy_days": 130,
+                "monthly_sunshine_hours": 160
+            },
+            "coat_of_arms_image_path": "denmark/kolding_coat_of_arms.jpg"
+        },
+        {
+            "name": "Horsens",
+            "country": "Denmark",
+            "population": 59095,
+            "average_age": 40.3,
+            "area": 51.90,
+            "founding_year": "12th century",
+            "population_density": 1139,
+            "districts": 3,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 55.8607,
+                "longitude": 9.8507,
+                "nearest_city_distance_km": {
+                    "value": 25.2,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Horsens"
+                ],
+                "elevation_meters": 11,
+                "max_daily_temperature_celsius": 20.0,
+                "min_daily_temperature_celsius": 2.3,
+                "precipitation": "moderate",
+                "rainy_days": 130,
+                "monthly_sunshine_hours": 160
+            },
+            "coat_of_arms_image_path": "denmark/horsens_coat_of_arms.jpg"
+        }
+	]
+}

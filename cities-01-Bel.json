@@ -1,0 +1,848 @@
+{
+    "cities": [
+        {
+            "name": "Tirana",
+            "country": "Albania",
+            "population": 421286,
+            "average_age": 32.5,
+            "area": 41.8,
+            "founding_year": "1614-02-08",
+            "population_density": 10082,
+            "districts": 11,
+            "geography": {
+                "latitude": 41.3275,
+                "longitude": 19.8187,
+                "nearest_city_distance_km": {
+                    "value": 35.4,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Lana"
+                ],
+                "elevation_meters": 110,
+                "max_daily_temperature_celsius": 32.5,
+                "min_daily_temperature_celsius": 6.0,
+                "precipitation": "moderate",
+                "rainy_days": 120,
+                "monthly_sunshine_hours": 200
+            },
+            "coat_of_arms_image_path": "images/albania/tirana_coat_of_arms.jpg"
+        },
+        {
+            "name": "Durrës",
+            "country": "Albania",
+            "population": 175110,
+            "average_age": 29.8,
+            "area": 338.3,
+            "founding_year": "627 BC",
+            "population_density": 517,
+            "districts": 2,
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "airports": [
+                    "Mother Teresa Airport"
+                ],
+            "geography": {
+                "latitude": 41.3156,
+                "longitude": 19.4486,
+                "nearest_city_distance_km": {
+                    "value": 25.1,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Erzen"
+                ],
+                "elevation_meters": 10,
+                "max_daily_temperature_celsius": 33.8,
+                "min_daily_temperature_celsius": 7.4,
+                "precipitation": "low",
+                "rainy_days": 90,
+                "monthly_sunshine_hours": 220
+            },
+            "coat_of_arms_image_path": "images/albania/durres_coat_of_arms.png"
+        },
+        {
+            "name": "Vlora",
+            "country": "Albania",
+            "population": 79513,
+            "average_age": 31.2,
+            "area": 647.5,
+            "founding_year": "600 BC",
+            "population_density": 123,
+            "districts": 3,
+            "geography": {
+                "latitude": 40.4667,
+                "longitude": 19.4897,
+                "nearest_city_distance_km": {
+                    "value": 15.7,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Vjosa"
+                ],
+                "elevation_meters": 0,
+                "max_daily_temperature_celsius": 32.2,
+                "min_daily_temperature_celsius": 7.8,
+                "precipitation": "moderate",
+                "rainy_days": 100,
+                "monthly_sunshine_hours": 210
+            },
+            "coat_of_arms_image_path": "images/albania/vlora_coat_of_arms.jpg"
+        },
+        {
+            "name": "Elbasan",
+            "country": "Albania",
+            "population": 78703,
+            "average_age": 30.5,
+            "area": 1248,
+            "founding_year": "1466",
+            "population_density": 63,
+            "districts": 4,
+            "geography": {
+                "latitude": 41.1125,
+                "longitude": 20.0822,
+                "nearest_city_distance_km": {
+                    "value": 45.9,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Shkumbin"
+                ],
+                "elevation_meters": 150,
+                "max_daily_temperature_celsius": 31.6,
+                "min_daily_temperature_celsius": 6.9,
+                "precipitation": "high",
+                "rainy_days": 150,
+                "monthly_sunshine_hours": 190
+            },
+            "coat_of_arms_image_path": "images/albania/elbasan_coat_of_arms.jpg"
+        },
+        {
+            "name": "Shkodra",
+            "country": "Albania",
+            "population": 77075,
+            "average_age": 29.9,
+            "area": 872,
+            "founding_year": "4th century BC",
+            "population_density": 88,
+            "districts": 3,
+            "geography": {
+                "latitude": 42.0672,
+                "longitude": 19.5123,
+                "nearest_city_distance_km": {
+                    "value": 20.2,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Buna"
+                ],
+                "elevation_meters": 5,
+                "max_daily_temperature_celsius": 31.9,
+                "min_daily_temperature_celsius": 8.2,
+                "precipitation": "moderate",
+                "rainy_days": 110,
+                "monthly_sunshine_hours": 215
+            },
+            "coat_of_arms_image_path": "images/albania/shkodra_coat_of_arms.png"
+        },
+        {
+            "name": "Fier",
+            "country": "Albania",
+            "population": 59547,
+            "average_age": 31.6,
+            "area": 59.5,
+            "founding_year": "400 BC",
+            "population_density": 1000,
+            "districts": 2,
+            "geography": {
+                "latitude": 40.7244,
+                "longitude": 19.5564,
+                "nearest_city_distance_km": {
+                    "value": 10.5,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Semani"
+                ],
+                "elevation_meters": 30,
+                "max_daily_temperature_celsius": 33.1,
+                "min_daily_temperature_celsius": 8.6,
+                "precipitation": "low",
+                "rainy_days": 80,
+                "monthly_sunshine_hours": 230
+            },
+            "coat_of_arms_image_path": "images/albania/fier_coat_of_arms.jpg"
+        },
+        {
+            "name": "Kamza",
+            "country": "Albania",
+            "population": 51293,
+            "average_age": 30.2,
+            "area": 10.5,
+            "founding_year": "2000",
+            "population_density": 4881,
+            "districts": 1,
+            "geography": {
+                "latitude": 41.405,
+                "longitude": 19.7131,
+                "nearest_city_distance_km": {
+                    "value": 7.6,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Ishëm"
+                ],
+                "elevation_meters": 40,
+                "max_daily_temperature_celsius": 32.7,
+                "min_daily_temperature_celsius": 7.1,
+                "precipitation": "moderate",
+                "rainy_days": 110,
+                "monthly_sunshine_hours": 205
+            },
+            "coat_of_arms_image_path": []
+        },
+        {
+            "name": "Korça",
+            "country": "Albania",
+            "population": 51152,
+            "average_age": 32.1,
+            "area": 805.99,
+            "founding_year": "1280",
+            "population_density": 63,
+            "districts": 4,
+            "geography": {
+                "latitude": 40.6188,
+                "longitude": 20.7809,
+                "nearest_city_distance_km": {
+                    "value": 12.3,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Devoll"
+                ],
+                "elevation_meters": 850,
+                "max_daily_temperature_celsius": 31.2,
+                "min_daily_temperature_celsius": 5.5,
+                "precipitation": "high",
+                "rainy_days": 160,
+                "monthly_sunshine_hours": 180
+            },
+            "coat_of_arms_image_path": "images/albania/korca_coat_of_arms.png"
+        },
+        {
+            "name": "Berat",
+            "country": "Albania",
+            "population": 46066,
+            "average_age": 31.7,
+            "area": 379.98,
+            "founding_year": "6th century BC",
+            "population_density": 121,
+            "districts": 3,
+            "geography": {
+                "latitude": 40.705,
+                "longitude": 19.9524,
+                "nearest_city_distance_km": {
+                    "value": 6.8,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Osum"
+                ],
+                "elevation_meters": 214,
+                "max_daily_temperature_celsius": 32.4,
+                "min_daily_temperature_celsius": 7.9,
+                "precipitation": "moderate",
+                "rainy_days": 110,
+                "monthly_sunshine_hours": 220
+            },
+            "coat_of_arms_image_path": "images/albania/berat_coat_of_arms.png"
+        },
+        {
+            "name": "Lushnja",
+            "country": "Albania",
+            "population": 37922,
+            "average_age": 32.8,
+            "area": 312,
+            "founding_year": "1819",
+            "population_density": 122,
+            "districts": 2,
+            "geography": {
+                "latitude": 40.9369,
+                "longitude": 19.705,
+                "nearest_city_distance_km": {
+                    "value": 20.9,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Semani"
+                ],
+                "elevation_meters": 45,
+                "max_daily_temperature_celsius": 32.0,
+                "min_daily_temperature_celsius": 7.4,
+                "precipitation": "low",
+                "rainy_days": 90,
+                "monthly_sunshine_hours": 230
+            },
+            "coat_of_arms_image_path": []
+        },
+        {
+            "name": "Andorra la Vella",
+            "country": "Andorra",
+            "population": 22256,
+            "average_age": 40.2,
+            "area": 12.1,
+            "founding_year": "1278-07-08",
+            "population_density": 1840,
+            "districts": 1,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "airports": [
+                    "Andorra–La Seu d'Urgell Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 42.5063,
+                "longitude": 1.5218,
+                "nearest_city_distance_km": {
+                    "value": 5.4,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Valira"
+                ],
+                "elevation_meters": 1033,
+                "max_daily_temperature_celsius": 23.5,
+                "min_daily_temperature_celsius": 3.6,
+                "precipitation": "moderate",
+                "rainy_days": 80,
+                "monthly_sunshine_hours": 180
+            },
+            "coat_of_arms_image_path": "images/andorra/andorra_la_vella_coat_of_arms.png"
+        },
+        {
+            "name": "Brussels",
+            "country": "Belgium",
+            "population": 1208542,
+            "average_age": 36.9,
+            "area": 32.61,
+            "founding_year": "979",
+            "population_density": 36999,
+            "districts": 19,
+            "transportation": {
+                "subway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Brussels Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 50.8503,
+                "longitude": 4.3517,
+                "nearest_city_distance_km": {
+                    "value": 22.3,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Senne",
+                    "Zenne"
+                ],
+                "elevation_meters": 13,
+                "max_daily_temperature_celsius": 23.6,
+                "min_daily_temperature_celsius": 2.7,
+                "precipitation": "high",
+                "rainy_days": 200,
+                "monthly_sunshine_hours": 160
+            },
+            "coat_of_arms_image_path": "belgium/brussels_coat_of_arms.jpg"
+        },
+        {
+            "name": "Antwerp",
+            "country": "Belgium",
+            "population": 525935,
+            "average_age": 41.2,
+            "area": 204.51,
+            "founding_year": "200",
+            "population_density": 2571,
+            "districts": 9,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Antwerp International Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 51.2199,
+                "longitude": 4.3963,
+                "nearest_city_distance_km": {
+                    "value": 35.8,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Scheldt"
+                ],
+                "elevation_meters": 13,
+                "max_daily_temperature_celsius": 24.9,
+                "min_daily_temperature_celsius": 3.1,
+                "precipitation": "moderate",
+                "rainy_days": 180,
+                "monthly_sunshine_hours": 170
+            },
+            "coat_of_arms_image_path": "belgium/antwerp_coat_of_arms.jpg"
+        },
+        {
+            "name": "Ghent",
+            "country": "Belgium",
+            "population": 262219,
+            "average_age": 38.7,
+            "area": 156.18,
+            "founding_year": "7th century",
+            "population_density": 1680,
+            "districts": 10,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 51.0538,
+                "longitude": 3.725,
+                "nearest_city_distance_km": {
+                    "value": 50.4,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Scheldt",
+                    "Leie"
+                ],
+                "elevation_meters": 9,
+                "max_daily_temperature_celsius": 24.3,
+                "min_daily_temperature_celsius": 2.5,
+                "precipitation": "high",
+                "rainy_days": 200,
+                "monthly_sunshine_hours": 150
+            },
+            "coat_of_arms_image_path": "belgium/ghent_coat_of_arms.jpg"
+        },
+        {
+            "name": "Charleroi",
+            "country": "Belgium",
+            "population": 202267,
+            "average_age": 40.9,
+            "area": 102.08,
+            "founding_year": "1666",
+            "population_density": 1981,
+            "districts": 9,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 50.412,
+                "longitude": 4.444,
+                "nearest_city_distance_km": {
+                    "value": 33.7,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Sambre"
+                ],
+                "elevation_meters": 123,
+                "max_daily_temperature_celsius": 24.7,
+                "min_daily_temperature_celsius": 3.8,
+                "precipitation": "moderate",
+                "rainy_days": 180,
+                "monthly_sunshine_hours": 160
+            },
+            "coat_of_arms_image_path": "belgium/charleroi_coat_of_arms.jpg"
+        },
+        {
+            "name": "Liege",
+            "country": "Belgium",
+            "population": 197355,
+            "average_age": 39.1,
+            "area": 69.39,
+            "founding_year": "558",
+            "population_density": 2845,
+            "districts": 12,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 50.6326,
+                "longitude": 5.5794,
+                "nearest_city_distance_km": {
+                    "value": 30.2,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Meuse"
+                ],
+                "elevation_meters": 185,
+                "max_daily_temperature_celsius": 23.9,
+                "min_daily_temperature_celsius": 3.9,
+                "precipitation": "high",
+                "rainy_days": 190,
+                "monthly_sunshine_hours": 150
+            },
+            "coat_of_arms_image_path": "belgium/liege_coat_of_arms.jpg"
+        },
+        {
+            "name": "Bruges",
+            "country": "Belgium",
+            "population": 118325,
+            "average_age": 43.5,
+            "area": 138.40,
+            "founding_year": "9th century",
+            "population_density": 854,
+            "districts": 8,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 51.2093,
+                "longitude": 3.2247,
+                "nearest_city_distance_km": {
+                    "value": 10.7,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Reie"
+                ],
+                "elevation_meters": 9,
+                "max_daily_temperature_celsius": 24.1,
+                "min_daily_temperature_celsius": 3.7,
+                "precipitation": "moderate",
+                "rainy_days": 190,
+                "monthly_sunshine_hours": 160
+            },
+            "coat_of_arms_image_path": "belgium/bruges_coat_of_arms.jpg"
+        },
+        {
+            "name": "Namur",
+            "country": "Belgium",
+            "population": 110096,
+            "average_age": 40.2,
+            "area": 175.69,
+            "founding_year": "10th century",
+            "population_density": 626,
+            "districts": 3,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 50.4666,
+                "longitude": 4.8660,
+                "nearest_city_distance_km": {
+                    "value": 25.8,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Meuse"
+                ],
+                "elevation_meters": 85,
+                "max_daily_temperature_celsius": 24.3,
+                "min_daily_temperature_celsius": 3.8,
+                "precipitation": "high",
+                "rainy_days": 190,
+                "monthly_sunshine_hours": 150
+            },
+            "coat_of_arms_image_path": "belgium/namur_coat_of_arms.jpg"
+        },
+        {
+            "name": "Leuven",
+            "country": "Belgium",
+            "population": 101032,
+            "average_age": 39.8,
+            "area": 57.50,
+            "founding_year": "891",
+            "population_density": 1758,
+            "districts": 9,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 50.8798,
+                "longitude": 4.7005,
+                "nearest_city_distance_km": {
+                    "value": 26.1,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Dijle"
+                ],
+                "elevation_meters": 25,
+                "max_daily_temperature_celsius": 24.7,
+                "min_daily_temperature_celsius": 3.4,
+                "precipitation": "moderate",
+                "rainy_days": 190,
+                "monthly_sunshine_hours": 150
+            },
+            "coat_of_arms_image_path": "belgium/leuven_coat_of_arms.jpg"
+        },
+        {
+            "name": "Mons",
+            "country": "Belgium",
+            "population": 95662,
+            "average_age": 39.2,
+            "area": 146.53,
+            "founding_year": "7th century",
+            "population_density": 654,
+            "districts": 10,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 50.4545,
+                "longitude": 3.9513,
+                "nearest_city_distance_km": {
+                    "value": 27.4,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Haine"
+                ],
+                "elevation_meters": 56,
+                "max_daily_temperature_celsius": 24.8,
+                "min_daily_temperature_celsius": 3.9,
+                "precipitation": "high",
+                "rainy_days": 190,
+                "monthly_sunshine_hours": 150
+            },
+            "coat_of_arms_image_path": "belgium/mons_coat_of_arms.jpg"
+        },
+        {
+            "name": "Anderlecht",
+            "country": "Belgium",
+            "population": 119714,
+            "average_age": 38.6,
+            "area": 17.74,
+            "founding_year": "1046",
+            "population_density": 6742,
+            "districts": 3,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 50.8391,
+                "longitude": 4.3297,
+                "nearest_city_distance_km": {
+                    "value": 9.8,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Senne",
+                    "Zenne"
+                ],
+                "elevation_meters": 18,
+                "max_daily_temperature_celsius": 24.7,
+                "min_daily_temperature_celsius": 3.8,
+                "precipitation": "moderate",
+                "rainy_days": 190,
+                "monthly_sunshine_hours": 150
+            },
+            "coat_of_arms_image_path": "belgium/anderlecht_coat_of_arms.jpg"
+        }
+
+    ]
+}
