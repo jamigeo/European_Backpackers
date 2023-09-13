@@ -1,0 +1,1180 @@
+{
+    "cities": [
+        {
+            "name": "Rom",
+            "country": "Italien",
+            "population": 2872800,
+            "average_age": 43.7,
+            "area": 1285.3,
+            "founding_year": "753 BC",
+            "population_density": 2237,
+            "districts": 15,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Leonardo da Vinci International Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 41.9028,
+                "longitude": 12.4964,
+                "nearest_city_distance_km": {
+                    "value": 9.3,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Tiber"
+                ],
+                "elevation_meters": 13,
+                "max_daily_temperature_celsius": 20.9,
+                "min_daily_temperature_celsius": 7.1,
+                "precipitation": "moderate",
+                "rainy_days": 90,
+                "monthly_sunshine_hours": 210
+            },
+            "coat_of_arms_image_path": "italy/rome_coat_of_arms.jpg"
+        },
+        {
+            "name": "Milan",
+            "country": "Italien",
+            "population": 1399860,
+            "average_age": 44.2,
+            "area": 181.8,
+            "founding_year": "4th century BC",
+            "population_density": 7704,
+            "districts": 9,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Milan Malpensa Airport",
+                    "Milan Linate Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 45.4642,
+                "longitude": 9.1900,
+                "nearest_city_distance_km": {
+                    "value": 8.3,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Lambro",
+                    "Olona"
+                ],
+                "elevation_meters": 122,
+                "max_daily_temperature_celsius": 17.5,
+                "min_daily_temperature_celsius": 5.3,
+                "precipitation": "moderate",
+                "rainy_days": 111,
+                "monthly_sunshine_hours": 160
+            },
+            "coat_of_arms_image_path": "italy/milan_coat_of_arms.jpg"
+        },
+        {
+            "name": "Neapel",
+            "country": "Italien",
+            "population": 959574,
+            "average_age": 42.3,
+            "area": 117.3,
+            "founding_year": "5th century BC",
+            "population_density": 8178,
+            "districts": 10,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "airports": [
+                    "Naples International Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 40.8522,
+                "longitude": 14.2681,
+                "nearest_city_distance_km": {
+                    "value": 25.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Sebeto"
+                ],
+                "elevation_meters": 17,
+                "max_daily_temperature_celsius": 19.8,
+                "min_daily_temperature_celsius": 7.8,
+                "precipitation": "high",
+                "rainy_days": 110,
+                "monthly_sunshine_hours": 130
+            },
+            "coat_of_arms_image_path": "italy/naples_coat_of_arms.jpg"
+        },
+        {
+            "name": "Turin",
+            "country": "Italien",
+            "population": 878074,
+            "average_age": 46.8,
+            "area": 130.2,
+            "founding_year": "3rd century BC",
+            "population_density": 6737,
+            "districts": 10,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Turin Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 45.0703,
+                "longitude": 7.6869,
+                "nearest_city_distance_km": {
+                    "value": 3.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Po",
+                    "Dora Riparia"
+                ],
+                "elevation_meters": 239,
+                "max_daily_temperature_celsius": 17.3,
+                "min_daily_temperature_celsius": 5.4,
+                "precipitation": "moderate",
+                "rainy_days": 113,
+                "monthly_sunshine_hours": 190
+            },
+            "coat_of_arms_image_path": "italy/turin_coat_of_arms.jpg"
+        },
+        {
+            "name": "Palermo",
+            "country": "Italien",
+            "population": 673735,
+            "average_age": 43.5,
+            "area": 158.9,
+            "founding_year": "8th century BC",
+            "population_density": 4237,
+            "districts": 9,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "airports": [
+                    "Falcone-Borsellino Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 38.1157,
+                "longitude": 13.3615,
+                "nearest_city_distance_km": {
+                    "value": 0.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Oreto"
+                ],
+                "elevation_meters": 14,
+                "max_daily_temperature_celsius": 19.9,
+                "min_daily_temperature_celsius": 9.8,
+                "precipitation": "high",
+                "rainy_days": 91,
+                "monthly_sunshine_hours": 210
+            },
+            "coat_of_arms_image_path": "italy/palermo_coat_of_arms.jpg"
+        },
+        {
+            "name": "Genua",
+            "country": "Italien",
+            "population": 583601,
+            "average_age": 48.2,
+            "area": 240.3,
+            "founding_year": "4th century BC",
+            "population_density": 2427,
+            "districts": 9,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "airports": [
+                    "Genoa Cristoforo Colombo Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 44.4056,
+                "longitude": 8.9463,
+                "nearest_city_distance_km": {
+                    "value": 7.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Polcevera"
+                ],
+                "elevation_meters": 14,
+                "max_daily_temperature_celsius": 19.2,
+                "min_daily_temperature_celsius": 8.0,
+                "precipitation": "moderate",
+                "rainy_days": 95,
+                "monthly_sunshine_hours": 190
+            },
+            "coat_of_arms_image_path": "italy/genoa_coat_of_arms.jpg"
+        },
+        {
+            "name": "Bologna",
+            "country": "Italien",
+            "population": 389261,
+            "average_age": 44.9,
+            "area": 140.7,
+            "founding_year": "6th century BC",
+            "population_density": 2764,
+            "districts": 9,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "airports": [
+                    "Bologna Guglielmo Marconi Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 44.4949,
+                "longitude": 11.3426,
+                "nearest_city_distance_km": {
+                    "value": 22.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Reno"
+                ],
+                "elevation_meters": 54,
+                "max_daily_temperature_celsius": 19.8,
+                "min_daily_temperature_celsius": 7.8,
+                "precipitation": "moderate",
+                "rainy_days": 97,
+                "monthly_sunshine_hours": 160
+            },
+            "coat_of_arms_image_path": "italy/bologna_coat_of_arms.jpg"
+        },
+        {
+            "name": "Florenz",
+            "country": "Italien",
+            "population": 382258,
+            "average_age": 47.3,
+            "area": 102.4,
+            "founding_year": "1st century BC",
+            "population_density": 3738,
+            "districts": 5,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 1,
+                    "west": 0
+                },
+                "airports": [
+                    "Florence Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 43.7696,
+                "longitude": 11.2558,
+                "nearest_city_distance_km": {
+                    "value": 14.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Arno"
+                ],
+                "elevation_meters": 50,
+                "max_daily_temperature_celsius": 19.7,
+                "min_daily_temperature_celsius": 7.1,
+                "precipitation": "moderate",
+                "rainy_days": 97,
+                "monthly_sunshine_hours": 190
+            },
+            "coat_of_arms_image_path": "italy/florence_coat_of_arms.jpg"
+        },
+        {
+            "name": "Zagreb",
+            "country": "Kroatien",
+            "population": 803902,
+            "average_age": 42.5,
+            "area": 641.4,
+            "founding_year": "Gradually established in medieval times",
+            "population_density": 1254,
+            "districts": 17,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Zagreb Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 45.8150,
+                "longitude": 15.9785,
+                "nearest_city_distance_km": {
+                    "value": 0.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Sava"
+                ],
+                "elevation_meters": 122,
+                "max_daily_temperature_celsius": 15.7,
+                "min_daily_temperature_celsius": 6.3,
+                "precipitation": "moderate",
+                "rainy_days": 109,
+                "monthly_sunshine_hours": 161
+            },
+            "coat_of_arms_image_path": "croatia/zagreb_coat_of_arms.jpg"
+        },
+        {
+            "name": "Split",
+            "country": "Kroatien",
+            "population": 178192,
+            "average_age": 42.9,
+            "area": 79.38,
+            "founding_year": "4th century AD",
+            "population_density": 2245,
+            "districts": 7,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "airports": [
+                    "Split Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 43.5081,
+                "longitude": 16.4402,
+                "nearest_city_distance_km": {
+                    "value": 0.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Jadro"
+                ],
+                "elevation_meters": 0,
+                "max_daily_temperature_celsius": 18.6,
+                "min_daily_temperature_celsius": 9.9,
+                "precipitation": "moderate",
+                "rainy_days": 89,
+                "monthly_sunshine_hours": 258
+            },
+            "coat_of_arms_image_path": "croatia/split_coat_of_arms.jpg"
+        },
+        {
+            "name": "Rijeka",
+            "country": "Kroatien",
+            "population": 128735,
+            "average_age": 43.2,
+            "area": 44.5,
+            "founding_year": "3rd century BC",
+            "population_density": 2893,
+            "districts": 9,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "airports": [
+                    "Rijeka Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 45.3297,
+                "longitude": 14.4576,
+                "nearest_city_distance_km": {
+                    "value": 20.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Rječina"
+                ],
+                "elevation_meters": 0,
+                "max_daily_temperature_celsius": 17.2,
+                "min_daily_temperature_celsius": 7.5,
+                "precipitation": "moderate",
+                "rainy_days": 99,
+                "monthly_sunshine_hours": 193
+            },
+            "coat_of_arms_image_path": "croatia/rijeka_coat_of_arms.jpg"
+        },
+        {
+            "name": "Osijek",
+            "country": "Kroatien",
+            "population": 108048,
+            "average_age": 40.8,
+            "area": 169.5,
+            "founding_year": "7th century",
+            "population_density": 637,
+            "districts": 10,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 1
+                },
+                "airports": [
+                    "Osijek Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 45.5511,
+                "longitude": 18.6939,
+                "nearest_city_distance_km": {
+                    "value": 25.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Drava"
+                ],
+                "elevation_meters": 90,
+                "max_daily_temperature_celsius": 17.2,
+                "min_daily_temperature_celsius": 6.6,
+                "precipitation": "moderate",
+                "rainy_days": 96,
+                "monthly_sunshine_hours": 210
+            },
+            "coat_of_arms_image_path": "croatia/osijek_coat_of_arms.jpg"
+        },
+        {
+            "name": "Zadar",
+            "country": "Kroatien",
+            "population": 75082,
+            "average_age": 43.7,
+            "area": 25.59,
+            "founding_year": "9th century BC",
+            "population_density": 2934,
+            "districts": 9,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "airports": [
+                    "Zadar Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 44.1194,
+                "longitude": 15.2322,
+                "nearest_city_distance_km": {
+                    "value": 0.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Zadar"
+                ],
+                "elevation_meters": 0,
+                "max_daily_temperature_celsius": 18.9,
+                "min_daily_temperature_celsius": 10.0,
+                "precipitation": "moderate",
+                "rainy_days": 83,
+                "monthly_sunshine_hours": 275
+            },
+            "coat_of_arms_image_path": "croatia/zadar_coat_of_arms.jpg"
+        },
+        {
+            "name": "Pula",
+            "country": "Kroatien",
+            "population": 57460,
+            "average_age": 41.5,
+            "area": 51.65,
+            "founding_year": "10th century BC",
+            "population_density": 1112,
+            "districts": 8,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "airports": [
+                    "Pula Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 44.8680,
+                "longitude": 13.8486,
+                "nearest_city_distance_km": {
+                    "value": 10.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Colapis"
+                ],
+                "elevation_meters": 0,
+                "max_daily_temperature_celsius": 19.5,
+                "min_daily_temperature_celsius": 10.9,
+                "precipitation": "moderate",
+                "rainy_days": 85,
+                "monthly_sunshine_hours": 271
+            },
+            "coat_of_arms_image_path": "croatia/pula_coat_of_arms.jpg"
+        },
+        {
+            "name": "Riga",
+            "country": "Lettland",
+            "population": 632614,
+            "average_age": 43.1,
+            "area": 307.17,
+            "founding_year": "1201",
+            "population_density": 2061,
+            "districts": 6,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Riga International Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 56.9496,
+                "longitude": 24.1052,
+                "nearest_city_distance_km": {
+                    "value": 0.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Daugava"
+                ],
+                "elevation_meters": 1,
+                "max_daily_temperature_celsius": 17.2,
+                "min_daily_temperature_celsius": 5.7,
+                "precipitation": "moderate",
+                "rainy_days": 94,
+                "monthly_sunshine_hours": 149
+            },
+            "coat_of_arms_image_path": "latvia/riga_coat_of_arms.jpg"
+        },
+        {
+            "name": "Daugavpils",
+            "country": "Lettland",
+            "population": 84362,
+            "average_age": 42.9,
+            "area": 72.47,
+            "founding_year": "1275",
+            "population_density": 1163,
+            "districts": 5,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "airports": [
+                    "Daugavpils International Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 55.8761,
+                "longitude": 26.5369,
+                "nearest_city_distance_km": {
+                    "value": 0.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Daugava"
+                ],
+                "elevation_meters": 110,
+                "max_daily_temperature_celsius": 16.3,
+                "min_daily_temperature_celsius": 5.0,
+                "precipitation": "moderate",
+                "rainy_days": 102,
+                "monthly_sunshine_hours": 140
+            },
+            "coat_of_arms_image_path": "latvia/daugavpils_coat_of_arms.jpg"
+        },
+        {
+            "name": "Liepāja",
+            "country": "Lettland",
+            "population": 71578,
+            "average_age": 41.2,
+            "area": 60.39,
+            "founding_year": "1253",
+            "population_density": 1187,
+            "districts": 6,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "airports": [
+                    "Liepāja International Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 56.5149,
+                "longitude": 21.0122,
+                "nearest_city_distance_km": {
+                    "value": 0.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Trade Canal"
+                ],
+                "elevation_meters": 5,
+                "max_daily_temperature_celsius": 16.2,
+                "min_daily_temperature_celsius": 5.2,
+                "precipitation": "moderate",
+                "rainy_days": 106,
+                "monthly_sunshine_hours": 147
+            },
+            "coat_of_arms_image_path": "latvia/liepaja_coat_of_arms.jpg"
+        },
+        {
+            "name": "Jelgava",
+            "country": "Lettland",
+            "population": 56706,
+            "average_age": 40.5,
+            "area": 60.44,
+            "founding_year": "1265",
+            "population_density": 937,
+            "districts": 4,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "airports": [
+                    "Jelgava International Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 56.6515,
+                "longitude": 23.7121,
+                "nearest_city_distance_km": {
+                    "value": 0.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Lielupe"
+                ],
+                "elevation_meters": 6,
+                "max_daily_temperature_celsius": 16.7,
+                "min_daily_temperature_celsius": 4.8,
+                "precipitation": "moderate",
+                "rainy_days": 101,
+                "monthly_sunshine_hours": 150
+            },
+            "coat_of_arms_image_path": "latvia/jelgava_coat_of_arms.jpg"
+        },
+        {
+            "name": "Jūrmala",
+            "country": "Lettland",
+            "population": 55200,
+            "average_age": 43.8,
+            "area": 100.44,
+            "founding_year": "1838",
+            "population_density": 549,
+            "districts": 11,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Riga International Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 56.9690,
+                "longitude": 23.1557,
+                "nearest_city_distance_km": {
+                    "value": 0.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Lielupe"
+                ],
+                "elevation_meters": 0,
+                "max_daily_temperature_celsius": 16.6,
+                "min_daily_temperature_celsius": 6.1,
+                "precipitation": "moderate",
+                "rainy_days": 91,
+                "monthly_sunshine_hours": 155
+            },
+            "coat_of_arms_image_path": "latvia/jurmala_coat_of_arms.jpg"
+        },
+        {
+            "name": "Vaduz",
+            "country": "Liechtenstein",
+            "population": 5480,
+            "average_age": 43.6,
+            "area": 17.4,
+            "founding_year": "1322",
+            "population_density": 314,
+            "districts": 1,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "airports": [
+                    "Altenrhein Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 47.1411,
+                "longitude": 9.5215,
+                "nearest_city_distance_km": {
+                    "value": 0.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Rhein"
+                ],
+                "elevation_meters": 458,
+                "max_daily_temperature_celsius": 16.8,
+                "min_daily_temperature_celsius": 6.0,
+                "precipitation": "moderate",
+                "rainy_days": 120,
+                "monthly_sunshine_hours": 135
+            },
+            "coat_of_arms_image_path": "liechtenstein/vaduz_coat_of_arms.jpg"
+        },
+        {
+            "name": "Triesen",
+            "country": "Liechtenstein",
+            "population": 4139,
+            "average_age": 39.5,
+            "area": 26.3,
+            "founding_year": "1250",
+            "population_density": 157,
+            "districts": 2,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "airports": [
+                    "Altenrhein Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 47.1046,
+                "longitude": 9.5435,
+                "nearest_city_distance_km": {
+                    "value": 0.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Rhein"
+                ],
+                "elevation_meters": 450,
+                "max_daily_temperature_celsius": 16.6,
+                "min_daily_temperature_celsius": 5.8,
+                "precipitation": "moderate",
+                "rainy_days": 119,
+                "monthly_sunshine_hours": 138
+            },
+            "coat_of_arms_image_path": "liechtenstein/triesen_coat_of_arms.jpg"
+        },
+        {
+            "name": "Balzers",
+            "country": "Liechtenstein",
+            "population": 4423,
+            "average_age": 42.2,
+            "area": 19.6,
+            "founding_year": "842",
+            "population_density": 226,
+            "districts": 1,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "airports": [
+                    "Altenrhein Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 47.0667,
+                "longitude": 9.5025,
+                "nearest_city_distance_km": {
+                    "value": 0.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Rhein"
+                ],
+                "elevation_meters": 470,
+                "max_daily_temperature_celsius": 16.5,
+                "min_daily_temperature_celsius": 5.7,
+                "precipitation": "moderate",
+                "rainy_days": 118,
+                "monthly_sunshine_hours": 137
+            },
+            "coat_of_arms_image_path": "liechtenstein/balzers_coat_of_arms.jpg"
+        },
+        {
+            "name": "Schaan",
+            "country": "Liechtenstein",
+            "population": 5315,
+            "average_age": 41.9,
+            "area": 26.8,
+            "founding_year": "1858",
+            "population_density": 198,
+            "districts": 2,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "airports": [
+                    "Altenrhein Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 47.1648,
+                "longitude": 9.5085,
+                "nearest_city_distance_km": {
+                    "value": 0.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Rhein"
+                ],
+                "elevation_meters": 457,
+                "max_daily_temperature_celsius": 16.7,
+                "min_daily_temperature_celsius": 5.9,
+                "precipitation": "moderate",
+                "rainy_days": 122,
+                "monthly_sunshine_hours": 140
+            },
+            "coat_of_arms_image_path": "liechtenstein/schaan_coat_of_arms.jpg"
+        }
+	]
+}

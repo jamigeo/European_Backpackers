@@ -1,0 +1,53 @@
+{
+    "cities": [
+
+{
+            "name": "Nikšić",
+            "population": 57454,
+            "average_age": 40.8,
+            "area": 2,
+            "founding_year": "4th century",
+            "population_density": 28727,
+            "districts": 1,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 42.7731,
+                "longitude": 18.9447,
+                "nearest_city_distance_km": {
+                    "value": 55.6,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Zeta"
+                ],
+                "elevation_meters": 300,
+                "max_daily_temperature_celsius": 24.7,
+                "min_daily_temperature_celsius": 8.3,
+                "precipitation": "high",
+                "rainy_days": 160,
+                "monthly_sunshine_hours": 178
+            },
+            "coat_of_arms_image_path": "montenegro/niksic_coat_of_arms.jpg"
+        }
+	]
+}

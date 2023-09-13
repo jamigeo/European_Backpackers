@@ -1,0 +1,1415 @@
+{
+    "cities": [
+       {
+            "name": "Berlin",
+            "country": "Germany",
+            "population": 3748148,
+            "average_age": 42.3,
+            "area": 891.85,
+            "founding_year": "13th century",
+            "population_density": 4198,
+            "districts": 12,
+            "transportation": {
+                "subway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Berlin Brandenburg Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 52.5200,
+                "longitude": 13.4050,
+                "nearest_city_distance_km": {
+                    "value": 15.6,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Spree"
+                ],
+                "elevation_meters": 34,
+                "max_daily_temperature_celsius": 23.5,
+                "min_daily_temperature_celsius": 1.6,
+                "precipitation": "moderate",
+                "rainy_days": 110,
+                "monthly_sunshine_hours": 170
+            },
+            "coat_of_arms_image_path": "germany/berlin_coat_of_arms.jpg"
+        },
+        {
+            "name": "Hamburg",
+            "country": "Germany",
+            "population": 1899160,
+            "average_age": 43.8,
+            "area": 755.30,
+            "founding_year": "9th century",
+            "population_density": 2514,
+            "districts": 7,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Hamburg Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 53.5511,
+                "longitude": 9.9937,
+                "nearest_city_distance_km": {
+                    "value": 10.2,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Elbe"
+                ],
+                "elevation_meters": 6,
+                "max_daily_temperature_celsius": 22.8,
+                "min_daily_temperature_celsius": 2.5,
+                "precipitation": "moderate",
+                "rainy_days": 130,
+                "monthly_sunshine_hours": 150
+            },
+            "coat_of_arms_image_path": "germany/hamburg_coat_of_arms.jpg"
+        },
+        {
+            "name": "München",
+            "country": "Germany",
+            "population": 1471508,
+            "average_age": 42.7,
+            "area": 310.70,
+            "founding_year": "12th century",
+            "population_density": 4740,
+            "districts": 25,
+            "transportation": {
+                "subway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Munich Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 48.1351,
+                "longitude": 11.5820,
+                "nearest_city_distance_km": {
+                    "value": 8.7,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Isar"
+                ],
+                "elevation_meters": 519,
+                "max_daily_temperature_celsius": 24.1,
+                "min_daily_temperature_celsius": 1.4,
+                "precipitation": "moderate",
+                "rainy_days": 120,
+                "monthly_sunshine_hours": 180
+            },
+            "coat_of_arms_image_path": "images/germany/muenchen_coat_of_arms.jpg"
+        },
+        {
+            "name": "Köln",
+            "country": "Germany",
+            "population": 1080394,
+            "average_age": 42.1,
+            "area": 405.02,
+            "founding_year": "1st century",
+            "population_density": 2669,
+            "districts": 9,
+            "transportation": {
+                "subway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "airports": [
+                    "Cologne Bonn Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 50.9375,
+                "longitude": 6.9603,
+                "nearest_city_distance_km": {
+                    "value": 5.4,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Rhine"
+                ],
+                "elevation_meters": 37,
+                "max_daily_temperature_celsius": 23.8,
+                "min_daily_temperature_celsius": 1.9,
+                "precipitation": "moderate",
+                "rainy_days": 140,
+                "monthly_sunshine_hours": 160
+            },
+            "coat_of_arms_image_path": "germany/koeln_coat_of_arms.jpg"
+        },
+        {
+            "name": "Frankfurt am Main",
+            "country": "Germany",
+            "population": 763380,
+            "average_age": 41.5,
+            "area": 248.31,
+            "founding_year": "1st century",
+            "population_density": 3073,
+            "districts": 16,
+            "transportation": {
+                "subway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "airports": [
+                    "Frankfurt Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 50.1109,
+                "longitude": 8.6821,
+                "nearest_city_distance_km": {
+                    "value": 10.2,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Main"
+                ],
+                "elevation_meters": 112,
+                "max_daily_temperature_celsius": 24.5,
+                "min_daily_temperature_celsius": 2.0,
+                "precipitation": "moderate",
+                "rainy_days": 130,
+                "monthly_sunshine_hours": 170
+            },
+            "coat_of_arms_image_path": "germany/frankfurt_coat_of_arms.jpg"
+        },
+        {
+            "name": "Stuttgart",
+            "country": "Germany",
+            "population": 623738,
+            "average_age": 42.0,
+            "area": 207.35,
+            "founding_year": "10th century",
+            "population_density": 3009,
+            "districts": 23,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 1,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Stuttgart Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 48.7758,
+                "longitude": 9.1829,
+                "nearest_city_distance_km": {
+                    "value": 8.6,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Neckar"
+                ],
+                "elevation_meters": 305,
+                "max_daily_temperature_celsius": 23.9,
+                "min_daily_temperature_celsius": 1.5,
+                "precipitation": "moderate",
+                "rainy_days": 120,
+                "monthly_sunshine_hours": 180
+            },
+            "coat_of_arms_image_path": "germany/stuttgart_coat_of_arms.jpg"
+        },
+        {
+            "name": "Düsseldorf",
+            "country": "Germany",
+            "population": 619294,
+            "average_age": 43.2,
+            "area": 217.41,
+            "founding_year": "12th century",
+            "population_density": 2848,
+            "districts": 10,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 1,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 1,
+                    "west": 0
+                },
+                "airports": [
+                    "Düsseldorf Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 51.2277,
+                "longitude": 6.7735,
+                "nearest_city_distance_km": {
+                    "value": 7.8,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Rhine"
+                ],
+                "elevation_meters": 38,
+                "max_daily_temperature_celsius": 23.3,
+                "min_daily_temperature_celsius": 2.2,
+                "precipitation": "moderate",
+                "rainy_days": 130,
+                "monthly_sunshine_hours": 160
+            },
+            "coat_of_arms_image_path": "germany/duesseldorf_coat_of_arms.jpg"
+        },
+        {
+            "name": "Dortmund",
+            "country": "Germany",
+            "population": 587010,
+            "average_age": 42.4,
+            "area": 280.71,
+            "founding_year": "9th century",
+            "population_density": 2090,
+            "districts": 12,
+            "transportation": {
+                "subway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 1
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 51.5136,
+                "longitude": 7.4653,
+                "nearest_city_distance_km": {
+                    "value": 12.4,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Emscher"
+                ],
+                "elevation_meters": 86,
+                "max_daily_temperature_celsius": 23.5,
+                "min_daily_temperature_celsius": 2.1,
+                "precipitation": "moderate",
+                "rainy_days": 140,
+                "monthly_sunshine_hours": 160
+            },
+            "coat_of_arms_image_path": "germany/dortmund_coat_of_arms.jpg"
+        },
+        {
+            "name": "Essen",
+            "country": "Germany",
+            "population": 582624,
+            "average_age": 42.3,
+            "area": 210.38,
+            "founding_year": "9th century",
+            "population_density": 2772,
+            "districts": 9,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 1,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 1,
+                    "west": 0
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 51.4566,
+                "longitude": 7.0123,
+                "nearest_city_distance_km": {
+                    "value": 10.9,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Ruhr"
+                ],
+                "elevation_meters": 116,
+                "max_daily_temperature_celsius": 23.2,
+                "min_daily_temperature_celsius": 2.3,
+                "precipitation": "moderate",
+                "rainy_days": 130,
+                "monthly_sunshine_hours": 160
+            },
+            "coat_of_arms_image_path": "germany/essen_coat_of_arms.jpg"
+        },
+        {
+            "name": "Leipzig",
+            "country": "Germany",
+            "population": 593145,
+            "average_age": 41.7,
+            "area": 297.63,
+            "founding_year": "12th century",
+            "population_density": 1993,
+            "districts": 10,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "airports": [
+                    "Leipzig/Halle Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 51.3397,
+                "longitude": 12.3730,
+                "nearest_city_distance_km": {
+                    "value": 7.1,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Elster"
+                ],
+                "elevation_meters": 113,
+                "max_daily_temperature_celsius": 23.3,
+                "min_daily_temperature_celsius": 1.9,
+                "precipitation": "moderate",
+                "rainy_days": 130,
+                "monthly_sunshine_hours": 160
+            },
+            "coat_of_arms_image_path": "germany/leipzig_coat_of_arms.jpg"
+        },
+        {
+            "name": "Bremen",
+            "country": "Germany",
+            "population": 569352,
+            "average_age": 42.9,
+            "area": 325.42,
+            "founding_year": "9th century",
+            "population_density": 1749,
+            "districts": 5,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "airports": [
+                    "Bremen Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 53.0793,
+                "longitude": 8.8017,
+                "nearest_city_distance_km": {
+                    "value": 11.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Weser"
+                ],
+                "elevation_meters": 10,
+                "max_daily_temperature_celsius": 22.5,
+                "min_daily_temperature_celsius": 2.4,
+                "precipitation": "moderate",
+                "rainy_days": 140,
+                "monthly_sunshine_hours": 150
+            },
+            "coat_of_arms_image_path": "germany/bremen_coat_of_arms.jpg"
+        },
+        {
+            "name": "Dresden",
+            "country": "Germany",
+            "population": 554649,
+            "average_age": 41.5,
+            "area": 328.48,
+            "founding_year": "12th century",
+            "population_density": 1689,
+            "districts": 10,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "airports": [
+                    "Dresden Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 51.0504,
+                "longitude": 13.7373,
+                "nearest_city_distance_km": {
+                    "value": 8.2,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Elbe"
+                ],
+                "elevation_meters": 113,
+                "max_daily_temperature_celsius": 23.4,
+                "min_daily_temperature_celsius": 2.0,
+                "precipitation": "moderate",
+                "rainy_days": 130,
+                "monthly_sunshine_hours": 160
+            },
+            "coat_of_arms_image_path": "germany/dresden_coat_of_arms.jpg"
+        },
+        {
+            "name": "Tallinn",
+            "country": "Estland",
+            "population": 440778,
+            "average_age": 41.5,
+            "area": 159.2,
+            "founding_year": "1154",
+            "population_density": 2768,
+            "districts": 8,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Lennart Meri Tallinn Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 59.4370,
+                "longitude": 24.7536,
+                "nearest_city_distance_km": {
+                    "value": 18.7,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Pirita River"
+                ],
+                "elevation_meters": 9,
+                "max_daily_temperature_celsius": 22.2,
+                "min_daily_temperature_celsius": 0.8,
+                "precipitation": "moderate",
+                "rainy_days": 150,
+                "monthly_sunshine_hours": 180
+            },
+            "coat_of_arms_image_path": "estonia/tallinn_coat_of_arms.jpg"
+        },
+        {
+            "name": "Tartu",
+            "country": "Estland",
+            "population": 93903,
+            "average_age": 37.9,
+            "area": 38.8,
+            "founding_year": "1030",
+            "population_density": 2420,
+            "districts": 17,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 58.3776,
+                "longitude": 26.7290,
+                "nearest_city_distance_km": {
+                    "value": 8.5,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Emajõgi"
+                ],
+                "elevation_meters": 57,
+                "max_daily_temperature_celsius": 21.5,
+                "min_daily_temperature_celsius": -2.3,
+                "precipitation": "moderate",
+                "rainy_days": 150,
+                "monthly_sunshine_hours": 160
+            },
+            "coat_of_arms_image_path": "estonia/tartu_coat_of_arms.jpg"
+        },
+        {
+            "name": "Narva",
+            "country": "Estland",
+            "population": 55440,
+            "average_age": 43.1,
+            "area": 60.0,
+            "founding_year": "1172",
+            "population_density": 923,
+            "districts": 7,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 59.3775,
+                "longitude": 28.1900,
+                "nearest_city_distance_km": {
+                    "value": 7.8,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Narva River"
+                ],
+                "elevation_meters": 34,
+                "max_daily_temperature_celsius": 22.3,
+                "min_daily_temperature_celsius": -4.1,
+                "precipitation": "moderate",
+                "rainy_days": 140,
+                "monthly_sunshine_hours": 150
+            },
+            "coat_of_arms_image_path": "estonia/narva_coat_of_arms.jpg"
+        },
+        {
+            "name": "Kohtla-Järve",
+            "country": "Estland",
+            "population": 34058,
+            "average_age": 42.7,
+            "area": 46.1,
+            "founding_year": "1946",
+            "population_density": 738,
+            "districts": 5,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 59.3956,
+                "longitude": 27.2724,
+                "nearest_city_distance_km": {
+                    "value": 15.4,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Purtse River"
+                ],
+                "elevation_meters": 70,
+                "max_daily_temperature_celsius": 21.7,
+                "min_daily_temperature_celsius": -4.9,
+                "precipitation": "moderate",
+                "rainy_days": 150,
+                "monthly_sunshine_hours": 150
+            },
+            "coat_of_arms_image_path": "estonia/kohtla_jarve_coat_of_arms.jpg"
+        },
+        {
+            "name": "Pärnu",
+            "country": "Estland",
+            "population": 50142,
+            "average_age": 43.5,
+            "area": 32.9,
+            "founding_year": "1251",
+            "population_density": 1525,
+            "districts": 9,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 58.3839,
+                "longitude": 24.4966,
+                "nearest_city_distance_km": {
+                    "value": 7.1,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Pärnu River"
+                ],
+                "elevation_meters": 5,
+                "max_daily_temperature_celsius": 21.8,
+                "min_daily_temperature_celsius": -2.7,
+                "precipitation": "moderate",
+                "rainy_days": 150,
+                "monthly_sunshine_hours": 160
+            },
+            "coat_of_arms_image_path": "estonia/parnu_coat_of_arms.jpg"
+        },
+        {
+            "name": "Viljandi",
+            "country": "Estland",
+            "population": 17892,
+            "average_age": 42.9,
+            "area": 15.9,
+            "founding_year": "1223",
+            "population_density": 1124,
+            "districts": 5,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 58.3639,
+                "longitude": 25.5909,
+                "nearest_city_distance_km": {
+                    "value": 5.2,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Viljandi River"
+                ],
+                "elevation_meters": 56,
+                "max_daily_temperature_celsius": 21.4,
+                "min_daily_temperature_celsius": -3.1,
+                "precipitation": "moderate",
+                "rainy_days": 150,
+                "monthly_sunshine_hours": 160
+            },
+            "coat_of_arms_image_path": "estonia/viljandi_coat_of_arms.jpg"
+        },
+        {
+            "name": "Rakvere",
+            "country": "Estland",
+            "population": 14765,
+            "average_age": 43.2,
+            "area": 10.1,
+            "founding_year": "1302",
+            "population_density": 1462,
+            "districts": 5,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 59.3464,
+                "longitude": 26.3555,
+                "nearest_city_distance_km": {
+                    "value": 6.8,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Pedja River"
+                ],
+                "elevation_meters": 57,
+                "max_daily_temperature_celsius": 21.7,
+                "min_daily_temperature_celsius": -3.6,
+                "precipitation": "moderate",
+                "rainy_days": 150,
+                "monthly_sunshine_hours": 150
+            },
+            "coat_of_arms_image_path": "estonia/rakvere_coat_of_arms.jpg"
+        },
+        {
+            "name": "Helsinki",
+            "country": "Finnland",
+            "population": 654045,
+            "average_age": 42.3,
+            "area": 214.25,
+            "founding_year": "1550",
+            "population_density": 3051,
+            "districts": 9,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 1,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Helsinki-Vantaa Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 60.1695,
+                "longitude": 24.9354,
+                "nearest_city_distance_km": {
+                    "value": 8.7,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Vantaa River"
+                ],
+                "elevation_meters": 17,
+                "max_daily_temperature_celsius": 21.8,
+                "min_daily_temperature_celsius": -4.3,
+                "precipitation": "moderate",
+                "rainy_days": 110,
+                "monthly_sunshine_hours": 180
+            },
+            "coat_of_arms_image_path": "finland/helsinki_coat_of_arms.jpg"
+        },
+        {
+            "name": "Espoo",
+            "country": "Finnland",
+            "population": 297804,
+            "average_age": 39.8,
+            "area": 528.03,
+            "founding_year": "1458",
+            "population_density": 563,
+            "districts": 8,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 60.2055,
+                "longitude": 24.6559,
+                "nearest_city_distance_km": {
+                    "value": 9.4,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Espoo River"
+                ],
+                "elevation_meters": 30,
+                "max_daily_temperature_celsius": 21.5,
+                "min_daily_temperature_celsius": -5.1,
+                "precipitation": "moderate",
+                "rainy_days": 120,
+                "monthly_sunshine_hours": 170
+            },
+            "coat_of_arms_image_path": "finland/espoo_coat_of_arms.jpg"
+        },
+        {
+            "name": "Tampere",
+            "country": "Finnland",
+            "population": 238140,
+            "average_age": 39.2,
+            "area": 689.59,
+            "founding_year": "1779",
+            "population_density": 345,
+            "districts": 6,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 1,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 1,
+                    "west": 0
+                },
+                "airports": [
+                    "Tampere-Pirkkala Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 61.4981,
+                "longitude": 23.7610,
+                "nearest_city_distance_km": {
+                    "value": 15.2,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Tammerkoski"
+                ],
+                "elevation_meters": 95,
+                "max_daily_temperature_celsius": 21.0,
+                "min_daily_temperature_celsius": -8.7,
+                "precipitation": "moderate",
+                "rainy_days": 140,
+                "monthly_sunshine_hours": 160
+            },
+            "coat_of_arms_image_path": "finland/tampere_coat_of_arms.jpg"
+        },
+        {
+            "name": "Vantaa",
+            "country": "Finnland",
+            "population": 228166,
+            "average_age": 38.7,
+            "area": 240.35,
+            "founding_year": "1972",
+            "population_density": 947,
+            "districts": 6,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 1,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 1,
+                    "west": 0
+                },
+                "airports": [
+                    "Helsinki-Vantaa Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 60.2941,
+                "longitude": 25.0408,
+                "nearest_city_distance_km": {
+                    "value": 14.1,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Vantaa River"
+                ],
+                "elevation_meters": 12,
+                "max_daily_temperature_celsius": 21.7,
+                "min_daily_temperature_celsius": -5.0,
+                "precipitation": "moderate",
+                "rainy_days": 110,
+                "monthly_sunshine_hours": 180
+            },
+            "coat_of_arms_image_path": "finland/vantaa_coat_of_arms.jpg"
+        },
+        {
+            "name": "Oulu",
+            "country": "Finnland",
+            "population": 203750,
+            "average_age": 36.5,
+            "area": 3587.87,
+            "founding_year": "1605",
+            "population_density": 56,
+            "districts": 7,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Oulu Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 65.0121,
+                "longitude": 25.4714,
+                "nearest_city_distance_km": {
+                    "value": 6.5,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Oulu River"
+                ],
+                "elevation_meters": 10,
+                "max_daily_temperature_celsius": 19.3,
+                "min_daily_temperature_celsius": -10.7,
+                "precipitation": "high",
+                "rainy_days": 150,
+                "monthly_sunshine_hours": 150
+            },
+            "coat_of_arms_image_path": "finland/oulu_coat_of_arms.jpg"
+        },
+        {
+            "name": "Turku",
+            "country": "Finnland",
+            "population": 192164,
+            "average_age": 42.9,
+            "area": 245.67,
+            "founding_year": "1229",
+            "population_density": 783,
+            "districts": 8,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "airports": [
+                    "Turku Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 60.4515,
+                "longitude": 22.2666,
+                "nearest_city_distance_km": {
+                    "value": 5.2,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Aurajoki"
+                ],
+                "elevation_meters": 10,
+                "max_daily_temperature_celsius": 21.6,
+                "min_daily_temperature_celsius": -5.3,
+                "precipitation": "moderate",
+                "rainy_days": 130,
+                "monthly_sunshine_hours": 160
+            },
+            "coat_of_arms_image_path": "finland/turku_coat_of_arms.jpg"
+        },
+        {
+            "name": "Jyväskylä",
+            "country": "Finnland",
+            "population": 142477,
+            "average_age": 37.8,
+            "area": 1368.51,
+            "founding_year": "1837",
+            "population_density": 104,
+            "districts": 14,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 1,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 1,
+                    "west": 0
+                },
+                "airports": [
+                    "Jyväskylä Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 62.2415,
+                "longitude": 25.7209,
+                "nearest_city_distance_km": {
+                    "value": 5.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Jyväsjärvi"
+                ],
+                "elevation_meters": 100,
+                "max_daily_temperature_celsius": 20.3,
+                "min_daily_temperature_celsius": -11.8,
+                "precipitation": "high",
+                "rainy_days": 160,
+                "monthly_sunshine_hours": 150
+            },
+            "coat_of_arms_image_path": "finland/jyvaskyla_coat_of_arms.jpg"
+        },
+        {
+            "name": "Lahti",
+            "country": "Finnland",
+            "population": 120747,
+            "average_age": 40.1,
+            "area": 517.39,
+            "founding_year": "1878",
+            "population_density": 238,
+            "districts": 9,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "airports": [
+                    "Lahti Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 60.9839,
+                "longitude": 25.6555,
+                "nearest_city_distance_km": {
+                    "value": 5.6,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Vesijärvi"
+                ],
+                "elevation_meters": 100,
+                "max_daily_temperature_celsius": 21.0,
+                "min_daily_temperature_celsius": -10.2,
+                "precipitation": "moderate",
+                "rainy_days": 130,
+                "monthly_sunshine_hours": 160
+            },
+            "coat_of_arms_image_path": "finland/lahti_coat_of_arms.jpg"
+        },
+        {
+            "name": "Paris",
+            "country": "Frankreich",
+            "population": 2140526,
+            "average_age": 38.9,
+            "area": 105.4,
+            "founding_year": "3rd century BC",
+            "population_density": 20306,
+            "districts": 20,
+            "transportation": {
+                "subway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Charles de Gaulle Airport",
+                    "Orly Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 48.8566,
+                "longitude": 2.3522,
+                "nearest_city_distance_km": {
+                    "value": 4.7,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Seine"
+                ],
+                "elevation_meters": 34,
+                "max_daily_temperature_celsius": 19.2,
+                "min_daily_temperature_celsius": 3.7,
+                "precipitation": "moderate",
+                "rainy_days": 111,
+                "monthly_sunshine_hours": 166
+            },
+            "coat_of_arms_image_path": "france/paris_coat_of_arms.jpg"
+        }
+    ]
+}

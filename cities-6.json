@@ -1,0 +1,894 @@
+{
+    "cities": [
+	 {
+            "name": "Vilnius",
+            "country": "Litauen",
+            "population": 580020,
+            "average_age": 38.7,
+            "area": 401.0,
+            "founding_year": "1323",
+            "population_density": 1447,
+            "districts": 21,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Vilnius Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 54.6872,
+                "longitude": 25.2797,
+                "nearest_city_distance_km": {
+                    "value": 26.4,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Neris"
+                ],
+                "elevation_meters": 112,
+                "max_daily_temperature_celsius": 17.3,
+                "min_daily_temperature_celsius": 6.0,
+                "precipitation": "moderate",
+                "rainy_days": 136,
+                "monthly_sunshine_hours": 158
+            },
+            "coat_of_arms_image_path": "litauen/vilnius_coat_of_arms.jpg"
+        },
+        {
+            "name": "Kaunas",
+            "country": "Litauen",
+            "population": 289305,
+            "average_age": 39.8,
+            "area": 157.0,
+            "founding_year": "1030",
+            "population_density": 1841,
+            "districts": 11,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Kaunas Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 54.8985,
+                "longitude": 23.9036,
+                "nearest_city_distance_km": {
+                    "value": 12.7,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Nemunas"
+                ],
+                "elevation_meters": 48,
+                "max_daily_temperature_celsius": 17.0,
+                "min_daily_temperature_celsius": 5.8,
+                "precipitation": "moderate",
+                "rainy_days": 142,
+                "monthly_sunshine_hours": 154
+            },
+            "coat_of_arms_image_path": "litauen/kaunas_coat_of_arms.jpg"
+        },
+        {
+            "name": "Klaipėda",
+            "country": "Litauen",
+            "population": 147046,
+            "average_age": 41.2,
+            "area": 98.0,
+            "founding_year": "1252",
+            "population_density": 1499,
+            "districts": 9,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "airports": [
+                    "Palanga Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 55.7108,
+                "longitude": 21.1319,
+                "nearest_city_distance_km": {
+                    "value": 12.9,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Dange"
+                ],
+                "elevation_meters": 5,
+                "max_daily_temperature_celsius": 16.5,
+                "min_daily_temperature_celsius": 6.1,
+                "precipitation": "moderate",
+                "rainy_days": 138,
+                "monthly_sunshine_hours": 152
+            },
+            "coat_of_arms_image_path": "litauen/klaipeda_coat_of_arms.jpg"
+        },
+        {
+            "name": "Šiauliai",
+            "country": "Litauen",
+            "population": 102000,
+            "average_age": 40.9,
+            "area": 81.0,
+            "founding_year": "1236",
+            "population_density": 1259,
+            "districts": 8,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "airports": [
+                    "Šiauliai International Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 55.9383,
+                "longitude": 23.3115,
+                "nearest_city_distance_km": {
+                    "value": 9.3,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Šiaučiukas"
+                ],
+                "elevation_meters": 123,
+                "max_daily_temperature_celsius": 16.4,
+                "min_daily_temperature_celsius": 5.9,
+                "precipitation": "moderate",
+                "rainy_days": 132,
+                "monthly_sunshine_hours": 158
+            },
+            "coat_of_arms_image_path": "litauen/siauliai_coat_of_arms.jpg"
+        },
+        {
+            "name": "Panevėžys",
+            "country": "Litauen",
+            "population": 91218,
+            "average_age": 39.2,
+            "area": 45.0,
+            "founding_year": "1503",
+            "population_density": 2027,
+            "districts": 7,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 55.7383,
+                "longitude": 24.3543,
+                "nearest_city_distance_km": {
+                    "value": 12.1,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Nevėžis"
+                ],
+                "elevation_meters": 47,
+                "max_daily_temperature_celsius": 16.8,
+                "min_daily_temperature_celsius": 5.7,
+                "precipitation": "moderate",
+                "rainy_days": 134,
+                "monthly_sunshine_hours": 155
+            },
+            "coat_of_arms_image_path": "litauen/panevezys_coat_of_arms.jpg"
+        },
+        {
+            "name": "Alytus",
+            "country": "Litauen",
+            "population": 51980,
+            "average_age": 40.5,
+            "area": 40.0,
+            "founding_year": "1377",
+            "population_density": 1299,
+            "districts": 5,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 54.3968,
+                "longitude": 24.0412,
+                "nearest_city_distance_km": {
+                    "value": 8.2,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Nemunas"
+                ],
+                "elevation_meters": 106,
+                "max_daily_temperature_celsius": 17.2,
+                "min_daily_temperature_celsius": 5.9,
+                "precipitation": "moderate",
+                "rainy_days": 129,
+                "monthly_sunshine_hours": 159
+            },
+            "coat_of_arms_image_path": "litauen/alytus_coat_of_arms.jpg"
+        },
+        {
+            "name": "Luxemburg-Stadt",
+            "country": "Luxemburg",
+            "population": 124000,
+            "average_age": 39.2,
+            "area": 51.46,
+            "founding_year": "963",
+            "population_density": 2413,
+            "districts": 24,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Luxembourg Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 49.6116,
+                "longitude": 6.1319,
+                "nearest_city_distance_km": {
+                    "value": 7.6,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Alzette",
+                    "Pétrusse"
+                ],
+                "elevation_meters": 271,
+                "max_daily_temperature_celsius": 14.9,
+                "min_daily_temperature_celsius": 4.3,
+                "precipitation": "moderate",
+                "rainy_days": 147,
+                "monthly_sunshine_hours": 143
+            },
+            "coat_of_arms_image_path": "luxemburg/luxembourg_city_coat_of_arms.jpg"
+        },
+        {
+            "name": "Esch-sur-Alzette",
+            "country": "Luxemburg",
+            "population": 35559,
+            "average_age": 41.8,
+            "area": 14.35,
+            "founding_year": "1220",
+            "population_density": 2481,
+            "districts": 5,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 49.4950,
+                "longitude": 5.9796,
+                "nearest_city_distance_km": {
+                    "value": 15.4,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Alzette"
+                ],
+                "elevation_meters": 308,
+                "max_daily_temperature_celsius": 14.6,
+                "min_daily_temperature_celsius": 4.0,
+                "precipitation": "moderate",
+                "rainy_days": 145,
+                "monthly_sunshine_hours": 145
+            },
+            "coat_of_arms_image_path": "luxemburg/esch_sur_alzette_coat_of_arms.jpg"
+        },
+        {
+            "name": "Differdange",
+            "country": "Luxemburg",
+            "population": 26822,
+            "average_age": 40.5,
+            "area": 22.18,
+            "founding_year": "1235",
+            "population_density": 1208,
+            "districts": 4,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 49.5228,
+                "longitude": 5.8899,
+                "nearest_city_distance_km": {
+                    "value": 23.1,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Mess"
+                ],
+                "elevation_meters": 303,
+                "max_daily_temperature_celsius": 14.8,
+                "min_daily_temperature_celsius": 4.1,
+                "precipitation": "moderate",
+                "rainy_days": 144,
+                "monthly_sunshine_hours": 144
+            },
+            "coat_of_arms_image_path": "luxemburg/differdange_coat_of_arms.jpg"
+        },
+        {
+            "name": "Valletta",
+            "country": "Malta",
+            "population": 6444,
+            "average_age": 41.5,
+            "area": 0.8,
+            "founding_year": "1566",
+            "population_density": 8055,
+            "districts": 1,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "airports": [
+                    "Malta International Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 35.8989,
+                "longitude": 14.5146,
+                "nearest_city_distance_km": {
+                    "value": 5.7,
+                    "unit": "kilometers"
+                },
+                "rivers": [],
+                "elevation_meters": 56,
+                "max_daily_temperature_celsius": 21.7,
+                "min_daily_temperature_celsius": 13.8,
+                "precipitation": "low",
+                "rainy_days": 66,
+                "monthly_sunshine_hours": 254
+            },
+            "coat_of_arms_image_path": "malta/valletta_coat_of_arms.jpg"
+        },
+        {
+            "name": "Birkirkara",
+            "country": "Malta",
+            "population": 23454,
+            "average_age": 38.9,
+            "area": 2.7,
+            "founding_year": "1650",
+            "population_density": 8680,
+            "districts": 4,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 35.8978,
+                "longitude": 14.4613,
+                "nearest_city_distance_km": {
+                    "value": 2.6,
+                    "unit": "kilometers"
+                },
+                "rivers": [],
+                "elevation_meters": 76,
+                "max_daily_temperature_celsius": 21.6,
+                "min_daily_temperature_celsius": 13.6,
+                "precipitation": "low",
+                "rainy_days": 61,
+                "monthly_sunshine_hours": 265
+            },
+            "coat_of_arms_image_path": "malta/birkirkara_coat_of_arms.jpg"
+        },
+        {
+            "name": "Mosta",
+            "country": "Malta",
+            "population": 20878,
+            "average_age": 39.1,
+            "area": 6.8,
+            "founding_year": "1620",
+            "population_density": 3073,
+            "districts": 3,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 35.9074,
+                "longitude": 14.4244,
+                "nearest_city_distance_km": {
+                    "value": 6.2,
+                    "unit": "kilometers"
+                },
+                "rivers": [],
+                "elevation_meters": 150,
+                "max_daily_temperature_celsius": 21.8,
+                "min_daily_temperature_celsius": 13.7,
+                "precipitation": "low",
+                "rainy_days": 65,
+                "monthly_sunshine_hours": 262
+            },
+            "coat_of_arms_image_path": "malta/mosta_coat_of_arms.jpg"
+        },
+        {
+            "name": "St. Paul's Bay",
+            "country": "Malta",
+            "population": 23456,
+            "average_age": 41.2,
+            "area": 14.5,
+            "founding_year": "1600",
+            "population_density": 1618,
+            "districts": 3,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 35.9489,
+                "longitude": 14.4009,
+                "nearest_city_distance_km": {
+                    "value": 12.5,
+                    "unit": "kilometers"
+                },
+                "rivers": [],
+                "elevation_meters": 0,
+                "max_daily_temperature_celsius": 21.7,
+                "min_daily_temperature_celsius": 13.8,
+                "precipitation": "low",
+                "rainy_days": 66,
+                "monthly_sunshine_hours": 260
+            },
+            "coat_of_arms_image_path": "malta/st_pauls_bay_coat_of_arms.jpg"
+        },
+        {
+            "name": "Sliema",
+            "country": "Malta",
+            "population": 18958,
+            "average_age": 38.4,
+            "area": 1.3,
+            "founding_year": "1856",
+            "population_density": 14692,
+            "districts": 1,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 35.9124,
+                "longitude": 14.5015,
+                "nearest_city_distance_km": {
+                    "value": 3.9,
+                    "unit": "kilometers"
+                },
+                "rivers": [],
+                "elevation_meters": 5,
+                "max_daily_temperature_celsius": 21.6,
+                "min_daily_temperature_celsius": 13.7,
+                "precipitation": "low",
+                "rainy_days": 65,
+                "monthly_sunshine_hours": 261
+            },
+            "coat_of_arms_image_path": "malta/sliema_coat_of_arms.jpg"
+        },
+        {
+            "name": "Chișinău",
+            "country": "Moldawien",
+            "population": 635994,
+            "average_age": 38.2,
+            "area": 120,
+            "founding_year": "1436",
+            "population_density": 5299,
+            "districts": 5,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 2,
+                    "south": 2,
+                    "east": 2,
+                    "west": 2
+                },
+                "airports": [
+                    "Chișinău International Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 47.0247,
+                "longitude": 28.8322,
+                "nearest_city_distance_km": {
+                    "value": 8.5,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Bâc",
+                    "Râul Ciuhur",
+                    "Râul Ichel"
+                ],
+                "elevation_meters": 85,
+                "max_daily_temperature_celsius": 22.1,
+                "min_daily_temperature_celsius": 12.2,
+                "precipitation": "moderate",
+                "rainy_days": 91,
+                "monthly_sunshine_hours": 169
+            },
+            "coat_of_arms_image_path": "moldawien/chisinau_coat_of_arms.jpg"
+        },
+        {
+            "name": "Bălți",
+            "country": "Moldawien",
+            "population": 144322,
+            "average_age": 37.8,
+            "area": 78,
+            "founding_year": "1421",
+            "population_density": 1850,
+            "districts": 3,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 47.7667,
+                "longitude": 27.9333,
+                "nearest_city_distance_km": {
+                    "value": 19.8,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Răut",
+                    "Bălțătești"
+                ],
+                "elevation_meters": 71,
+                "max_daily_temperature_celsius": 22.2,
+                "min_daily_temperature_celsius": 12.5,
+                "precipitation": "moderate",
+                "rainy_days": 97,
+                "monthly_sunshine_hours": 151
+            },
+            "coat_of_arms_image_path": "moldawien/balti_coat_of_arms.jpg"
+        },
+        {
+            "name": "Tiraspol",
+            "country": "Moldawien",
+            "population": 134508,
+            "average_age": 39.5,
+            "area": 168,
+            "founding_year": "1792",
+            "population_density": 800,
+            "districts": 2,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 46.8400,
+                "longitude": 29.6333,
+                "nearest_city_distance_km": {
+                    "value": 58.2,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Nistru"
+                ],
+                "elevation_meters": 25,
+                "max_daily_temperature_celsius": 21.8,
+                "min_daily_temperature_celsius": 12.8,
+                "precipitation": "moderate",
+                "rainy_days": 82,
+                "monthly_sunshine_hours": 171
+            },
+            "coat_of_arms_image_path": "moldawien/tiraspol_coat_of_arms.jpg"
+        },
+        {
+            "name": "Bender (Tighina)",
+            "country": "Moldawien",
+            "population": 110175,
+            "average_age": 38.9,
+            "area": 90,
+            "founding_year": "1408",
+            "population_density": 1224,
+            "districts": 1,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 0
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 46.8333,
+                "longitude": 29.4667,
+                "nearest_city_distance_km": {
+                    "value": 6.8,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Nistru"
+                ],
+                "elevation_meters": 38,
+                "max_daily_temperature_celsius": 22.0,
+                "min_daily_temperature_celsius": 12.5,
+                "precipitation": "moderate",
+                "rainy_days": 89,
+                "monthly_sunshine_hours": 161
+            },
+            "coat_of_arms_image_path": "moldawien/bender_coat_of_arms.jpg"
+        }
+	]
+}

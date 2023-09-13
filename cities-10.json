@@ -1,0 +1,1624 @@
+{
+    "cities": [
+{
+            "name": "Belgrad (Beograd)",
+            "country": "Serbien",
+            "population": 1233792,
+            "average_age": 39.2,
+            "area": 360.0,
+            "founding_year": "878",
+            "population_density": 3427,
+            "districts": 17,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 1,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 2,
+                    "south": 2,
+                    "east": 2,
+                    "west": 2
+                },
+                "highway_connections": {
+                    "north": 3,
+                    "south": 3,
+                    "east": 3,
+                    "west": 3
+                },
+                "airports": [
+                    "Belgrade Nikola Tesla Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 44.7866,
+                "longitude": 20.4489,
+                "nearest_city_distance_km": {
+                    "value": 50.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Sava",
+                    "Donau"
+                ],
+                "elevation_meters": 117,
+                "max_daily_temperature_celsius": 26.0,
+                "min_daily_temperature_celsius": -3.0,
+                "precipitation": "moderate",
+                "rainy_days": 110,
+                "monthly_sunshine_hours": 175
+            },
+            "coat_of_arms_image_path": "serbia/belgrade_coat_of_arms.jpg"
+        },
+        {
+            "name": "Novi Sad",
+            "country": "Serbien",
+            "population": 277522,
+            "average_age": 38.9,
+            "area": 699.0,
+            "founding_year": "1694",
+            "population_density": 397,
+            "districts": 4,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 45.2671,
+                "longitude": 19.8335,
+                "nearest_city_distance_km": {
+                    "value": 30.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Donau"
+                ],
+                "elevation_meters": 80,
+                "max_daily_temperature_celsius": 24.8,
+                "min_daily_temperature_celsius": -4.3,
+                "precipitation": "moderate",
+                "rainy_days": 95,
+                "monthly_sunshine_hours": 180
+            },
+            "coat_of_arms_image_path": "serbia/novi_sad_coat_of_arms.jpg"
+        },
+        {
+            "name": "Niš",
+            "country": "Serbien",
+            "population": 183164,
+            "average_age": 38.5,
+            "area": 596.7,
+            "founding_year": "279 BC",
+            "population_density": 307,
+            "districts": 5,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Niš Constantine the Great Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 43.3194,
+                "longitude": 21.8963,
+                "nearest_city_distance_km": {
+                    "value": 40.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Nišava"
+                ],
+                "elevation_meters": 193,
+                "max_daily_temperature_celsius": 25.3,
+                "min_daily_temperature_celsius": -4.7,
+                "precipitation": "moderate",
+                "rainy_days": 85,
+                "monthly_sunshine_hours": 200
+            },
+            "coat_of_arms_image_path": "serbia/nis_coat_of_arms.jpg"
+        },
+        {
+            "name": "Kragujevac",
+            "country": "Serbien",
+            "population": 147473,
+            "average_age": 39.7,
+            "area": 835.0,
+            "founding_year": "1476",
+            "population_density": 177,
+            "districts": 5,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 44.0128,
+                "longitude": 20.9264,
+                "nearest_city_distance_km": {
+                    "value": 30.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Lepenica"
+                ],
+                "elevation_meters": 173,
+                "max_daily_temperature_celsius": 26.8,
+                "min_daily_temperature_celsius": -5.0,
+                "precipitation": "moderate",
+                "rainy_days": 100,
+                "monthly_sunshine_hours": 190
+            },
+            "coat_of_arms_image_path": "serbia/kragujevac_coat_of_arms.jpg"
+        },
+        {
+            "name": "Subotica",
+            "country": "Serbien",
+            "population": 104402,
+            "average_age": 40.1,
+            "area": 1003.0,
+            "founding_year": "1391",
+            "population_density": 104,
+            "districts": 6,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 46.0999,
+                "longitude": 19.6659,
+                "nearest_city_distance_km": {
+                    "value": 20.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Crisurilor"
+                ],
+                "elevation_meters": 89,
+                "max_daily_temperature_celsius": 24.0,
+                "min_daily_temperature_celsius": -5.8,
+                "precipitation": "moderate",
+                "rainy_days": 105,
+                "monthly_sunshine_hours": 180
+            },
+            "coat_of_arms_image_path": "serbia/subotica_coat_of_arms.jpg"
+        },
+        {
+            "name": "Bratislava",
+            "country": "Slowakei",
+            "population": 432864,
+            "average_age": 38.2,
+            "area": 367.6,
+            "founding_year": "907",
+            "population_density": 1177,
+            "districts": 5,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 1,
+                    "west": 1
+                },
+                "train_connections": {
+                    "north": 2,
+                    "south": 1,
+                    "east": 3,
+                    "west": 3
+                },
+                "highway_connections": {
+                    "north": 2,
+                    "south": 2,
+                    "east": 3,
+                    "west": 3
+                },
+                "airports": [
+                    "M. R. Štefánik Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 48.1486,
+                "longitude": 17.1077,
+                "nearest_city_distance_km": {
+                    "value": 15.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Donau"
+                ],
+                "elevation_meters": 134,
+                "max_daily_temperature_celsius": 23.9,
+                "min_daily_temperature_celsius": -3.6,
+                "precipitation": "moderate",
+                "rainy_days": 100,
+                "monthly_sunshine_hours": 165
+            },
+            "coat_of_arms_image_path": "slovakia/bratislava_coat_of_arms.jpg"
+        },
+        {
+            "name": "Košice",
+            "country": "Slowakei",
+            "population": 236093,
+            "average_age": 39.5,
+            "area": 242.8,
+            "founding_year": "1230",
+            "population_density": 974,
+            "districts": 4,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Košice International Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 48.7200,
+                "longitude": 21.2570,
+                "nearest_city_distance_km": {
+                    "value": 20.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Hornád"
+                ],
+                "elevation_meters": 208,
+                "max_daily_temperature_celsius": 22.8,
+                "min_daily_temperature_celsius": -5.7,
+                "precipitation": "moderate",
+                "rainy_days": 100,
+                "monthly_sunshine_hours": 170
+            },
+            "coat_of_arms_image_path": "slovakia/kosice_coat_of_arms.jpg"
+        },
+        {
+            "name": "Prešov",
+            "country": "Slowakei",
+            "population": 90281,
+            "average_age": 38.8,
+            "area": 70.0,
+            "founding_year": "1141",
+            "population_density": 1290,
+            "districts": 4,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 48.9984,
+                "longitude": 21.2335,
+                "nearest_city_distance_km": {
+                    "value": 15.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Torysa"
+                ],
+                "elevation_meters": 250,
+                "max_daily_temperature_celsius": 22.5,
+                "min_daily_temperature_celsius": -6.3,
+                "precipitation": "moderate",
+                "rainy_days": 100,
+                "monthly_sunshine_hours": 175
+            },
+            "coat_of_arms_image_path": "slovakia/presov_coat_of_arms.jpg"
+        },
+        {
+            "name": "Žilina",
+            "country": "Slowakei",
+            "population": 80335,
+            "average_age": 39.2,
+            "area": 80.0,
+            "founding_year": "1200",
+            "population_density": 1004,
+            "districts": 4,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 49.2268,
+                "longitude": 18.7349,
+                "nearest_city_distance_km": {
+                    "value": 20.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Váh"
+                ],
+                "elevation_meters": 342,
+                "max_daily_temperature_celsius": 22.3,
+                "min_daily_temperature_celsius": -6.8,
+                "precipitation": "moderate",
+                "rainy_days": 110,
+                "monthly_sunshine_hours": 165
+            },
+            "coat_of_arms_image_path": "slovakia/zilina_coat_of_arms.jpg"
+        },
+        {
+            "name": "Ljubljana",
+            "country": "Slowenien",
+            "population": 293705,
+            "average_age": 40.1,
+            "area": 163.8,
+            "founding_year": "1144",
+            "population_density": 1791,
+            "districts": 17,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 1,
+                    "west": 1
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Ljubljana Jože Pučnik Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 46.0569,
+                "longitude": 14.5058,
+                "nearest_city_distance_km": {
+                    "value": 15.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Ljubljanica"
+                ],
+                "elevation_meters": 298,
+                "max_daily_temperature_celsius": 22.4,
+                "min_daily_temperature_celsius": -5.6,
+                "precipitation": "moderate",
+                "rainy_days": 110,
+                "monthly_sunshine_hours": 160
+            },
+            "coat_of_arms_image_path": "slovenia/ljubljana_coat_of_arms.jpg"
+        },
+        {
+            "name": "Maribor",
+            "country": "Slowenien",
+            "population": 111110,
+            "average_age": 41.5,
+            "area": 148.5,
+            "founding_year": "1254",
+            "population_density": 748,
+            "districts": 11,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 46.5547,
+                "longitude": 15.6459,
+                "nearest_city_distance_km": {
+                    "value": 30.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Drava"
+                ],
+                "elevation_meters": 265,
+                "max_daily_temperature_celsius": 21.7,
+                "min_daily_temperature_celsius": -6.7,
+                "precipitation": "moderate",
+                "rainy_days": 120,
+                "monthly_sunshine_hours": 155
+            },
+            "coat_of_arms_image_path": "slovenia/maribor_coat_of_arms.jpg"
+        },
+        {
+            "name": "Celje",
+            "country": "Slowenien",
+            "population": 48556,
+            "average_age": 42.3,
+            "area": 94.9,
+            "founding_year": "45 AD",
+            "population_density": 511,
+            "districts": 6,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 46.2308,
+                "longitude": 15.2605,
+                "nearest_city_distance_km": {
+                    "value": 20.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Savinja"
+                ],
+                "elevation_meters": 238,
+                "max_daily_temperature_celsius": 21.8,
+                "min_daily_temperature_celsius": -6.3,
+                "precipitation": "moderate",
+                "rainy_days": 115,
+                "monthly_sunshine_hours": 150
+            },
+            "coat_of_arms_image_path": "slovenia/celje_coat_of_arms.jpg"
+        },
+        {
+            "name": "Madrid",
+            "country": "Spanien",
+            "population": 3266126,
+            "average_age": 40.5,
+            "area": 604.3,
+            "founding_year": "852",
+            "population_density": 5399,
+            "districts": 21,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 1,
+                    "west": 1
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 2,
+                    "south": 2,
+                    "east": 2,
+                    "west": 2
+                },
+                "airports": [
+                    "Adolfo Suárez Madrid-Barajas Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 40.4168,
+                "longitude": -3.7038,
+                "nearest_city_distance_km": {
+                    "value": 20.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Manzanares"
+                ],
+                "elevation_meters": 667,
+                "max_daily_temperature_celsius": 26.1,
+                "min_daily_temperature_celsius": 1.9,
+                "precipitation": "low",
+                "rainy_days": 60,
+                "monthly_sunshine_hours": 272
+            },
+            "coat_of_arms_image_path": "spain/madrid_coat_of_arms.jpg"
+        },
+        {
+            "name": "Barcelona",
+            "country": "Spanien",
+            "population": 1620343,
+            "average_age": 41.8,
+            "area": 101.9,
+            "founding_year": "1st century BC",
+            "population_density": 15925,
+            "districts": 10,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 1,
+                    "west": 1
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Josep Tarradellas Barcelona-El Prat Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 41.3851,
+                "longitude": 2.1734,
+                "nearest_city_distance_km": {
+                    "value": 10.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Besòs"
+                ],
+                "elevation_meters": 12,
+                "max_daily_temperature_celsius": 24.6,
+                "min_daily_temperature_celsius": 7.8,
+                "precipitation": "moderate",
+                "rainy_days": 80,
+                "monthly_sunshine_hours": 210
+            },
+            "coat_of_arms_image_path": "spain/barcelona_coat_of_arms.jpg"
+        },
+        {
+            "name": "Valencia",
+            "country": "Spanien",
+            "population": 800215,
+            "average_age": 41.1,
+            "area": 134.6,
+            "founding_year": "138 BC",
+            "population_density": 5947,
+            "districts": 19,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 1,
+                    "west": 1
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Valencia Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 39.4699,
+                "longitude": -0.3763,
+                "nearest_city_distance_km": {
+                    "value": 10.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Turia"
+                ],
+                "elevation_meters": 15,
+                "max_daily_temperature_celsius": 24.8,
+                "min_daily_temperature_celsius": 7.6,
+                "precipitation": "low",
+                "rainy_days": 45,
+                "monthly_sunshine_hours": 243
+            },
+            "coat_of_arms_image_path": "spain/valencia_coat_of_arms.jpg"
+        },
+        {
+            "name": "Prag",
+            "country": "Tschechien",
+            "population": 1324277,
+            "average_age": 41.2,
+            "area": 496.0,
+            "founding_year": "885",
+            "population_density": 2669,
+            "districts": 57,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 3,
+                    "west": 3
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 2,
+                    "south": 2,
+                    "east": 2,
+                    "west": 2
+                },
+                "airports": [
+                    "Václav Havel Airport Prague"
+                ]
+            },
+            "geography": {
+                "latitude": 50.0755,
+                "longitude": 14.4378,
+                "nearest_city_distance_km": {
+                    "value": 50.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Vltava"
+                ],
+                "elevation_meters": 177,
+                "max_daily_temperature_celsius": 22.0,
+                "min_daily_temperature_celsius": -3.1,
+                "precipitation": "moderate",
+                "rainy_days": 70,
+                "monthly_sunshine_hours": 166
+            },
+            "coat_of_arms_image_path": "czech-republic/prague_coat_of_arms.jpg"
+        },
+        {
+            "name": "Brünn",
+            "country": "Tschechien",
+            "population": 379527,
+            "average_age": 40.6,
+            "area": 230.18,
+            "founding_year": "1230",
+            "population_density": 1649,
+            "districts": 29,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 49.1951,
+                "longitude": 16.6068,
+                "nearest_city_distance_km": {
+                    "value": 50.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Svitava"
+                ],
+                "elevation_meters": 237,
+                "max_daily_temperature_celsius": 22.1,
+                "min_daily_temperature_celsius": -4.8,
+                "precipitation": "moderate",
+                "rainy_days": 80,
+                "monthly_sunshine_hours": 150
+            },
+            "coat_of_arms_image_path": "czech-republic/brno_coat_of_arms.jpg"
+        },
+        {
+            "name": "Istanbul",
+            "country": "Türkei",
+            "population": 15029231,
+            "average_age": 32.5,
+            "area": 5461,
+            "founding_year": "660 BC",
+            "population_density": 2751,
+            "districts": 39,
+            "transportation": {
+                "subway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 2,
+                    "west": 2
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 2,
+                    "west": 2
+                },
+                "highway_connections": {
+                    "north": 3,
+                    "south": 3,
+                    "east": 4,
+                    "west": 4
+                },
+                "airports": [
+                    "Istanbul Airport",
+                    "Sabiha Gökçen International Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 41.0082,
+                "longitude": 28.9784,
+                "nearest_city_distance_km": {
+                    "value": 20.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Bosphorus"
+                ],
+                "elevation_meters": 30,
+                "max_daily_temperature_celsius": 25.3,
+                "min_daily_temperature_celsius": 5.2,
+                "precipitation": "moderate",
+                "rainy_days": 100,
+                "monthly_sunshine_hours": 223
+            },
+            "coat_of_arms_image_path": "turkey/istanbul_coat_of_arms.jpg"
+        },
+        {
+            "name": "Ankara",
+            "country": "Türkei",
+            "population": 5670579,
+            "average_age": 31.8,
+            "area": 2510,
+            "founding_year": "c. 2000 BC",
+            "population_density": 2260,
+            "districts": 25,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 2,
+                    "west": 2
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 2,
+                    "south": 2,
+                    "east": 3,
+                    "west": 3
+                },
+                "airports": [
+                    "Esenboğa Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 39.9334,
+                "longitude": 32.8597,
+                "nearest_city_distance_km": {
+                    "value": 50.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Ankara River"
+                ],
+                "elevation_meters": 938,
+                "max_daily_temperature_celsius": 21.0,
+                "min_daily_temperature_celsius": 1.6,
+                "precipitation": "low",
+                "rainy_days": 75,
+                "monthly_sunshine_hours": 215
+            },
+            "coat_of_arms_image_path": "turkey/ankara_coat_of_arms.jpg"
+        },
+        {
+            "name": "Kiew",
+            "country": "Ukraine",
+            "population": 2884000,
+            "average_age": 35.2,
+            "area": 839.0,
+            "founding_year": "c. 482 AD",
+            "population_density": 3436,
+            "districts": 10,
+            "transportation": {
+                "subway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "train_connections": {
+                    "north": 2,
+                    "south": 2,
+                    "east": 2,
+                    "west": 2
+                },
+                "highway_connections": {
+                    "north": 3,
+                    "south": 3,
+                    "east": 3,
+                    "west": 3
+                },
+                "airports": [
+                    "Boryspil International Airport",
+                    "Kyiv International Airport (Zhuliany)"
+                ]
+            },
+            "geography": {
+                "latitude": 50.4501,
+                "longitude": 30.5234,
+                "nearest_city_distance_km": {
+                    "value": 50.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Dnipro"
+                ],
+                "elevation_meters": 179,
+                "max_daily_temperature_celsius": 24.1,
+                "min_daily_temperature_celsius": -4.8,
+                "precipitation": "moderate",
+                "rainy_days": 95,
+                "monthly_sunshine_hours": 165
+            },
+            "coat_of_arms_image_path": "ukraine/kiev_coat_of_arms.jpg"
+        },
+        {
+            "name": "Charkiw",
+            "country": "Ukraine",
+            "population": 1443000,
+            "average_age": 32.7,
+            "area": 350.0,
+            "founding_year": "c. 1654 AD",
+            "population_density": 4120,
+            "districts": 9,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 2,
+                    "south": 2,
+                    "east": 2,
+                    "west": 2
+                },
+                "highway_connections": {
+                    "north": 2,
+                    "south": 2,
+                    "east": 3,
+                    "west": 3
+                },
+                "airports": [
+                    "Kharkiv International Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 49.9935,
+                "longitude": 36.2304,
+                "nearest_city_distance_km": {
+                    "value": 30.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Lopan"
+                ],
+                "elevation_meters": 154,
+                "max_daily_temperature_celsius": 23.5,
+                "min_daily_temperature_celsius": -6.8,
+                "precipitation": "low",
+                "rainy_days": 80,
+                "monthly_sunshine_hours": 189
+            },
+            "coat_of_arms_image_path": "ukraine/kharkiv_coat_of_arms.jpg"
+        },
+        {
+            "name": "Budapest",
+            "country": "Ungarn",
+            "population": 1768000,
+            "average_age": 40.2,
+            "area": 525.2,
+            "founding_year": "c. 1st century AD",
+            "population_density": 3362,
+            "districts": 23,
+            "transportation": {
+                "subway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 2,
+                    "west": 2
+                },
+                "train_connections": {
+                    "north": 3,
+                    "south": 3,
+                    "east": 4,
+                    "west": 4
+                },
+                "highway_connections": {
+                    "north": 4,
+                    "south": 4,
+                    "east": 5,
+                    "west": 5
+                },
+                "airports": [
+                    "Budapest Ferenc Liszt International Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 47.4979,
+                "longitude": 19.0402,
+                "nearest_city_distance_km": {
+                    "value": 50.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Danube"
+                ],
+                "elevation_meters": 104,
+                "max_daily_temperature_celsius": 25.1,
+                "min_daily_temperature_celsius": -3.5,
+                "precipitation": "moderate",
+                "rainy_days": 85,
+                "monthly_sunshine_hours": 169
+            },
+            "coat_of_arms_image_path": "hungary/budapest_coat_of_arms.jpg"
+        },
+        {
+            "name": "Debrecen",
+            "country": "Ungarn",
+            "population": 203600,
+            "average_age": 36.9,
+            "area": 461.3,
+            "founding_year": "c. 1235 AD",
+            "population_density": 441,
+            "districts": 9,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 2,
+                    "south": 2,
+                    "east": 2,
+                    "west": 2
+                },
+                "highway_connections": {
+                    "north": 2,
+                    "south": 2,
+                    "east": 3,
+                    "west": 3
+                },
+                "airports": [
+                    "Debrecen International Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 47.5316,
+                "longitude": 21.6273,
+                "nearest_city_distance_km": {
+                    "value": 50.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Hajdú-Bihar"
+                ],
+                "elevation_meters": 110,
+                "max_daily_temperature_celsius": 24.9,
+                "min_daily_temperature_celsius": -6.1,
+                "precipitation": "low",
+                "rainy_days": 65,
+                "monthly_sunshine_hours": 207
+            },
+            "coat_of_arms_image_path": "hungary/debrecen_coat_of_arms.jpg"
+        },
+        {
+            "name": "Miskolc",
+            "country": "Ungarn",
+            "population": 158700,
+            "average_age": 39.1,
+            "area": 236.7,
+            "founding_year": "c. 1364 AD",
+            "population_density": 670,
+            "districts": 11,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 2,
+                    "south": 2,
+                    "east": 2,
+                    "west": 2
+                },
+                "highway_connections": {
+                    "north": 2,
+                    "south": 2,
+                    "east": 2,
+                    "west": 2
+                },
+                "airports": [
+                    "Miskolc International Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 48.1035,
+                "longitude": 20.7784,
+                "nearest_city_distance_km": {
+                    "value": 30.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Sajó"
+                ],
+                "elevation_meters": 129,
+                "max_daily_temperature_celsius": 24.2,
+                "min_daily_temperature_celsius": -5.5,
+                "precipitation": "moderate",
+                "rainy_days": 80,
+                "monthly_sunshine_hours": 175
+            },
+            "coat_of_arms_image_path": "hungary/miskolc_coat_of_arms.jpg"
+        },
+        {
+            "name": "Vatikanstadt",
+            "country": "Vatikanstadt",
+            "population": 800,
+            "average_age": 55.3,
+            "area": 0.44,
+            "founding_year": "c. 4th century AD",
+            "population_density": 1818,
+            "districts": 1,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "airports": [
+                    "Vatican City Heliport"
+                ]
+            },
+            "geography": {
+                "latitude": 41.9029,
+                "longitude": 12.4534,
+                "nearest_city_distance_km": {
+                    "value": 1.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Tiber"
+                ],
+                "elevation_meters": 19,
+                "max_daily_temperature_celsius": 24.5,
+                "min_daily_temperature_celsius": 7.6,
+                "precipitation": "low",
+                "rainy_days": 75,
+                "monthly_sunshine_hours": 196
+            },
+            "coat_of_arms_image_path": "vatican_city/coat_of_arms.jpg"
+        },
+        {
+            "name": "London",
+            "country": "Vereinigtes Königreich",
+            "population": 8982000,
+            "average_age": 36.9,
+            "area": 1572.0,
+            "founding_year": "c. 43 AD",
+            "population_density": 5719,
+            "districts": 33,
+            "transportation": {
+                "subway_connections": {
+                    "north": 3,
+                    "south": 3,
+                    "east": 7,
+                    "west": 5
+                },
+                "train_connections": {
+                    "north": 14,
+                    "south": 10,
+                    "east": 10,
+                    "west": 12
+                },
+                "highway_connections": {
+                    "north": 5,
+                    "south": 6,
+                    "east": 8,
+                    "west": 7
+                },
+                "airports": [
+                    "Heathrow Airport",
+                    "Gatwick Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 51.5074,
+                "longitude": -0.1278,
+                "nearest_city_distance_km": {
+                    "value": 25.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Thames"
+                ],
+                "elevation_meters": 24,
+                "max_daily_temperature_celsius": 21.2,
+                "min_daily_temperature_celsius": 7.0,
+                "precipitation": "moderate",
+                "rainy_days": 106,
+                "monthly_sunshine_hours": 147
+            },
+            "coat_of_arms_image_path": "uk/london_coat_of_arms.jpg"
+        },
+        {
+            "name": "Birmingham",
+            "country": "Vereinigtes Königreich",
+            "population": 1141000,
+            "average_age": 32.5,
+            "area": 267.8,
+            "founding_year": "c. 7th century",
+            "population_density": 4256,
+            "districts": 10,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 3,
+                    "south": 2,
+                    "east": 3,
+                    "west": 2
+                },
+                "highway_connections": {
+                    "north": 2,
+                    "south": 3,
+                    "east": 4,
+                    "west": 3
+                },
+                "airports": [
+                    "Birmingham Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 52.4862,
+                "longitude": -1.8904,
+                "nearest_city_distance_km": {
+                    "value": 18.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "River Rea"
+                ],
+                "elevation_meters": 140,
+                "max_daily_temperature_celsius": 19.8,
+                "min_daily_temperature_celsius": 6.4,
+                "precipitation": "moderate",
+                "rainy_days": 121,
+                "monthly_sunshine_hours": 142
+            },
+            "coat_of_arms_image_path": "uk/birmingham_coat_of_arms.jpg"
+        },
+        {
+            "name": "Manchester",
+            "country": "Vereinigtes Königreich",
+            "population": 547600,
+            "average_age": 33.7,
+            "area": 115.6,
+            "founding_year": "c. 79 AD",
+            "population_density": 4738,
+            "districts": 10,
+            "transportation": {
+                "subway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 8,
+                    "south": 6,
+                    "east": 4,
+                    "west": 5
+                },
+                "highway_connections": {
+                    "north": 3,
+                    "south": 4,
+                    "east": 2,
+                    "west": 2
+                },
+                "airports": [
+                    "Manchester Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 53.4831,
+                "longitude": -2.2441,
+                "nearest_city_distance_km": {
+                    "value": 56.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "River Irwell"
+                ],
+                "elevation_meters": 38,
+                "max_daily_temperature_celsius": 17.3,
+                "min_daily_temperature_celsius": 4.5,
+                "precipitation": "high",
+                "rainy_days": 143,
+                "monthly_sunshine_hours": 135
+            },
+            "coat_of_arms_image_path": "uk/manchester_coat_of_arms.jpg"
+        },
+        {
+            "name": "Minsk",
+            "country": "Weißrussland (Belarus)",
+            "population": 1975170,
+            "average_age": 37.1,
+            "area": 348.8,
+            "founding_year": "1067",
+            "population_density": 5656,
+            "districts": 9,
+            "transportation": {
+                "subway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "train_connections": {
+                    "north": 8,
+                    "south": 4,
+                    "east": 4,
+                    "west": 5
+                },
+                "highway_connections": {
+                    "north": 3,
+                    "south": 2,
+                    "east": 2,
+                    "west": 2
+                },
+                "airports": [
+                    "Minsk National Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 53.9045,
+                "longitude": 27.5615,
+                "nearest_city_distance_km": {
+                    "value": 190.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Svislach",
+                    "Niamiha"
+                ],
+                "elevation_meters": 220,
+                "max_daily_temperature_celsius": 22.1,
+                "min_daily_temperature_celsius": 6.1,
+                "precipitation": "moderate",
+                "rainy_days": 110,
+                "monthly_sunshine_hours": 128
+            },
+            "coat_of_arms_image_path": "belarus/minsk_coat_of_arms.jpg"
+        },
+        {
+            "name": "Homyel (Gomel)",
+            "country": "Weißrussland (Belarus)",
+            "population": 507355,
+            "average_age": 40.2,
+            "area": 139.8,
+            "founding_year": "1142",
+            "population_density": 3632,
+            "districts": 5,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 6,
+                    "south": 3,
+                    "east": 3,
+                    "west": 4
+                },
+                "highway_connections": {
+                    "north": 2,
+                    "south": 3,
+                    "east": 3,
+                    "west": 2
+                },
+                "airports": [
+                    "Gomel Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 52.4345,
+                "longitude": 30.9754,
+                "nearest_city_distance_km": {
+                    "value": 150.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Soh"
+                ],
+                "elevation_meters": 157,
+                "max_daily_temperature_celsius": 21.8,
+                "min_daily_temperature_celsius": 6.0,
+                "precipitation": "high",
+                "rainy_days": 117,
+                "monthly_sunshine_hours": 120
+            },
+            "coat_of_arms_image_path": "belarus/homyel_coat_of_arms.jpg"
+        },
+        {
+            "name": "Mahilyow (Mogilev)",
+            "country": "Weißrussland (Belarus)",
+            "population": 380920,
+            "average_age": 39.5,
+            "area": 118.5,
+            "founding_year": "1267",
+            "population_density": 3215,
+            "districts": 3,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 5,
+                    "south": 2,
+                    "east": 3,
+                    "west": 3
+                },
+                "highway_connections": {
+                    "north": 2,
+                    "south": 3,
+                    "east": 3,
+                    "west": 2
+                },
+                "airports": [
+                    "Mogilev Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 53.9023,
+                "longitude": 30.3351,
+                "nearest_city_distance_km": {
+                    "value": 220.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Dnieper"
+                ],
+                "elevation_meters": 170,
+                "max_daily_temperature_celsius": 21.4,
+                "min_daily_temperature_celsius": 5.6,
+                "precipitation": "moderate",
+                "rainy_days": 112,
+                "monthly_sunshine_hours": 130
+            },
+            "coat_of_arms_image_path": "belarus/mahilyow_coat_of_arms.jpg"
+        },
+        {
+            "name": "Nikosia (Lefkosia)",
+            "country": "Zypern",
+            "population": 330000,
+            "average_age": 34.5,
+            "area": 46.9,
+            "founding_year": "Circa 2800 BC",
+            "population_density": 7032,
+            "districts": 4,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Larnaca International Airport",
+                    "Paphos International Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 35.1856,
+                "longitude": 33.3823,
+                "nearest_city_distance_km": {
+                    "value": 50.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [],
+                "elevation_meters": 115,
+                "max_daily_temperature_celsius": 29.2,
+                "min_daily_temperature_celsius": 14.3,
+                "precipitation": "low",
+                "rainy_days": 40,
+                "monthly_sunshine_hours": 330
+            },
+            "coat_of_arms_image_path": "cyprus/nikosia_coat_of_arms.jpg"
+        }
+    ]
+}

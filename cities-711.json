@@ -1,0 +1,245 @@
+{
+    "cities": [
+			{
+            "name": "Monaco-Ville (Monaco-Stadt)",
+            "country": "Monaco",
+            "population": 408,
+            "average_age": 48.2,
+            "area": 0.2,
+            "founding_year": "1215",
+            "population_density": 2040,
+            "districts": 1,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 43.7314,
+                "longitude": 7.4196,
+                "nearest_city_distance_km": {
+                    "value": 18.7,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "La Siagne"
+                ],
+                "elevation_meters": 63,
+                "max_daily_temperature_celsius": 21.7,
+                "min_daily_temperature_celsius": 14.1,
+                "precipitation": "low",
+                "rainy_days": 56,
+                "monthly_sunshine_hours": 250
+            },
+            "coat_of_arms_image_path": "monaco/monaco_ville_coat_of_arms.jpg"
+        },
+        {
+            "name": "Monte Carlo",
+            "country": "Monaco",
+            "population": 15625,
+            "average_age": 42.8,
+            "area": 0.61,
+            "founding_year": "1866",
+            "population_density": 25615,
+            "districts": 1,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 43.7404,
+                "longitude": 7.4274,
+                "nearest_city_distance_km": {
+                    "value": 16.3,
+                    "unit": "kilometers"
+                },
+                "rivers": [],
+                "elevation_meters": 0,
+                "max_daily_temperature_celsius": 21.4,
+                "min_daily_temperature_celsius": 14.6,
+                "precipitation": "low",
+                "rainy_days": 59,
+                "monthly_sunshine_hours": 252
+            },
+            "coat_of_arms_image_path": "monaco/monte_carlo_coat_of_arms.jpg"
+        },
+        {
+            "name": "La Condamine",
+            "country": "Monaco",
+            "population": 5806,
+            "average_age": 41.5,
+            "area": 0.3,
+            "founding_year": "1215",
+            "population_density": 19353,
+            "districts": 1,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 43.7352,
+                "longitude": 7.4238,
+                "nearest_city_distance_km": {
+                    "value": 16.9,
+                    "unit": "kilometers"
+                },
+                "rivers": [],
+                "elevation_meters": 0,
+                "max_daily_temperature_celsius": 21.2,
+                "min_daily_temperature_celsius": 14.4,
+                "precipitation": "low",
+                "rainy_days": 57,
+                "monthly_sunshine_hours": 249
+            },
+            "coat_of_arms_image_path": "monaco/la_condamine_coat_of_arms.jpg"
+        },
+        {
+            "name": "Fontvieille",
+            "country": "Monaco",
+            "population": 3729,
+            "average_age": 44.9,
+            "area": 0.32,
+            "founding_year": "1981",
+            "population_density": 11653,
+            "districts": 1,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 43.7292,
+                "longitude": 7.4183,
+                "nearest_city_distance_km": {
+                    "value": 19.5,
+                    "unit": "kilometers"
+                },
+                "rivers": [],
+                "elevation_meters": 0,
+                "max_daily_temperature_celsius": 21.5,
+                "min_daily_temperature_celsius": 14.2,
+                "precipitation": "low",
+                "rainy_days": 55,
+                "monthly_sunshine_hours": 253
+            },
+            "coat_of_arms_image_path": "monaco/fontvieille_coat_of_arms.jpg"
+        },
+        {
+            "name": "Podgorica",
+            "country": "Montenegro",
+            "population": 187085,
+            "average_age": 39.5,
+            "area": 108,
+            "founding_year": "1326",
+            "population_density": 1732,
+            "districts": 5,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Podgorica Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 42.4411,
+                "longitude": 19.2636,
+                "nearest_city_distance_km": {
+                    "value": 5.3,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Morača"
+                ],
+                "elevation_meters": 44,
+                "max_daily_temperature_celsius": 26.3,
+                "min_daily_temperature_celsius": 10.9,
+                "precipitation": "moderate",
+                "rainy_days": 104,
+                "monthly_sunshine_hours": 216
+            },
+            "coat_of_arms_image_path": "montenegro/podgorica_coat_of_arms.jpg"
+        }
+	]
+}

@@ -1,0 +1,1205 @@
+{
+    "cities": [
+	{
+            "name": "Oslo",
+            "country": "Norwegen",
+            "population": 697549,
+            "average_age": 38.6,
+            "area": 454,
+            "founding_year": "1040 AD",
+            "population_density": 1533,
+            "districts": 15,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 2,
+                    "west": 2
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 9,
+                    "west": 7
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 2,
+                    "west": 2
+                },
+                "airports": [
+                    "Oslo Gardermoen Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 59.9139,
+                "longitude": 10.7522,
+                "nearest_city_distance_km": {
+                    "value": 20.1,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Akerselva"
+                ],
+                "elevation_meters": 23,
+                "max_daily_temperature_celsius": 16.2,
+                "min_daily_temperature_celsius": 5.4,
+                "precipitation": "moderate",
+                "rainy_days": 175,
+                "monthly_sunshine_hours": 190
+            },
+            "coat_of_arms_image_path": "norway/oslo_coat_of_arms.jpg"
+        },
+        {
+            "name": "Bergen",
+            "country": "Norwegen",
+            "population": 283929,
+            "average_age": 39.8,
+            "area": 465,
+            "founding_year": "1070 AD",
+            "population_density": 611,
+            "districts": 8,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 4,
+                    "west": 3
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Bergen Airport Flesland"
+                ]
+            },
+            "geography": {
+                "latitude": 60.3913,
+                "longitude": 5.3221,
+                "nearest_city_distance_km": {
+                    "value": 0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Storelva"
+                ],
+                "elevation_meters": 0,
+                "max_daily_temperature_celsius": 14.9,
+                "min_daily_temperature_celsius": 5.5,
+                "precipitation": "high",
+                "rainy_days": 240,
+                "monthly_sunshine_hours": 140
+            },
+            "coat_of_arms_image_path": "norway/bergen_coat_of_arms.jpg"
+        },
+        {
+            "name": "Trondheim",
+            "country": "Norwegen",
+            "population": 205163,
+            "average_age": 40.2,
+            "area": 342.27,
+            "founding_year": "997 AD",
+            "population_density": 600,
+            "districts": 6,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 4,
+                    "west": 4
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Trondheim Airport Værnes"
+                ]
+            },
+            "geography": {
+                "latitude": 63.4305,
+                "longitude": 10.3951,
+                "nearest_city_distance_km": {
+                    "value": 25.8,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Nidelva"
+                ],
+                "elevation_meters": 17,
+                "max_daily_temperature_celsius": 14.5,
+                "min_daily_temperature_celsius": 3.5,
+                "precipitation": "moderate",
+                "rainy_days": 170,
+                "monthly_sunshine_hours": 160
+            },
+            "coat_of_arms_image_path": "norway/trondheim_coat_of_arms.jpg"
+        },
+        {
+            "name": "Stavanger",
+            "country": "Norwegen",
+            "population": 142945,
+            "average_age": 39.1,
+            "area": 71.35,
+            "founding_year": "1125 AD",
+            "population_density": 2002,
+            "districts": 7,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 2,
+                    "west": 2
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Stavanger Airport Sola"
+                ]
+            },
+            "geography": {
+                "latitude": 58.9699,
+                "longitude": 5.7331,
+                "nearest_city_distance_km": {
+                    "value": 22.4,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Hå"
+                ],
+                "elevation_meters": 10,
+                "max_daily_temperature_celsius": 14.0,
+                "min_daily_temperature_celsius": 5.0,
+                "precipitation": "high",
+                "rainy_days": 200,
+                "monthly_sunshine_hours": 150
+            },
+            "coat_of_arms_image_path": "norway/stavanger_coat_of_arms.jpg"
+        },
+        {
+            "name": "Drammen",
+            "country": "Norwegen",
+            "population": 120750,
+            "average_age": 38.5,
+            "area": 137.98,
+            "founding_year": "1811 AD",
+            "population_density": 873,
+            "districts": 4,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 3,
+                    "west": 3
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 59.7448,
+                "longitude": 10.2045,
+                "nearest_city_distance_km": {
+                    "value": 34.7,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Drammenselva"
+                ],
+                "elevation_meters": 1,
+                "max_daily_temperature_celsius": 15.2,
+                "min_daily_temperature_celsius": 5.3,
+                "precipitation": "moderate",
+                "rainy_days": 160,
+                "monthly_sunshine_hours": 170
+            },
+            "coat_of_arms_image_path": "norway/drammen_coat_of_arms.jpg"
+        },
+        {
+            "name": "Fredrikstad",
+            "country": "Norwegen",
+            "population": 81371,
+            "average_age": 40.7,
+            "area": 286.24,
+            "founding_year": "1567 AD",
+            "population_density": 284,
+            "districts": 6,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 3,
+                    "west": 3
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 59.2181,
+                "longitude": 10.9295,
+                "nearest_city_distance_km": {
+                    "value": 24.6,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Glomma"
+                ],
+                "elevation_meters": 10,
+                "max_daily_temperature_celsius": 14.8,
+                "min_daily_temperature_celsius": 5.2,
+                "precipitation": "moderate",
+                "rainy_days": 150,
+                "monthly_sunshine_hours": 180
+            },
+            "coat_of_arms_image_path": "norway/fredrikstad_coat_of_arms.jpg"
+        },
+        {
+            "name": "Wien",
+            "country": "Österreich",
+            "population": 1897491,
+            "average_age": 43.2,
+            "area": 414.9,
+            "founding_year": "16 BC",
+            "population_density": 4566,
+            "districts": 23,
+            "transportation": {
+                "subway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 2,
+                    "west": 2
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 7,
+                    "west": 7
+                },
+                "highway_connections": {
+                    "north": 2,
+                    "south": 2,
+                    "east": 3,
+                    "west": 3
+                },
+                "airports": [
+                    "Vienna International Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 48.2082,
+                "longitude": 16.3738,
+                "nearest_city_distance_km": {
+                    "value": 16.8,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Danube"
+                ],
+                "elevation_meters": 151,
+                "max_daily_temperature_celsius": 17.0,
+                "min_daily_temperature_celsius": 6.0,
+                "precipitation": "moderate",
+                "rainy_days": 150,
+                "monthly_sunshine_hours": 180
+            },
+            "coat_of_arms_image_path": "austria/wien_coat_of_arms.jpg"
+        },
+        {
+            "name": "Graz",
+            "country": "Österreich",
+            "population": 291265,
+            "average_age": 39.8,
+            "area": 127.56,
+            "founding_year": "1128 AD",
+            "population_density": 2283,
+            "districts": 17,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 2,
+                    "west": 2
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 47.0707,
+                "longitude": 15.4395,
+                "nearest_city_distance_km": {
+                    "value": 10.2,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Mur"
+                ],
+                "elevation_meters": 353,
+                "max_daily_temperature_celsius": 16.6,
+                "min_daily_temperature_celsius": 6.1,
+                "precipitation": "high",
+                "rainy_days": 160,
+                "monthly_sunshine_hours": 170
+            },
+            "coat_of_arms_image_path": "austria/graz_coat_of_arms.jpg"
+        },
+        {
+            "name": "Linz",
+            "country": "Österreich",
+            "population": 206249,
+            "average_age": 41.5,
+            "area": 96.04,
+            "founding_year": "799 AD",
+            "population_density": 2146,
+            "districts": 7,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 3,
+                    "west": 3
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 48.3069,
+                "longitude": 14.2858,
+                "nearest_city_distance_km": {
+                    "value": 17.5,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Danube"
+                ],
+                "elevation_meters": 266,
+                "max_daily_temperature_celsius": 16.3,
+                "min_daily_temperature_celsius": 6.2,
+                "precipitation": "moderate",
+                "rainy_days": 160,
+                "monthly_sunshine_hours": 170
+            },
+            "coat_of_arms_image_path": "austria/linz_coat_of_arms.jpg"
+        },
+        {
+            "name": "Salzburg",
+            "country": "Österreich",
+            "population": 156872,
+            "average_age": 41.1,
+            "area": 65.61,
+            "founding_year": "696 AD",
+            "population_density": 2391,
+            "districts": 5,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 2,
+                    "west": 2
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 47.8095,
+                "longitude": 13.0550,
+                "nearest_city_distance_km": {
+                    "value": 11.2,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Salzach"
+                ],
+                "elevation_meters": 424,
+                "max_daily_temperature_celsius": 15.8,
+                "min_daily_temperature_celsius": 5.9,
+                "precipitation": "high",
+                "rainy_days": 160,
+                "monthly_sunshine_hours": 170
+            },
+            "coat_of_arms_image_path": "austria/salzburg_coat_of_arms.jpg"
+        },
+        {
+            "name": "Innsbruck",
+            "country": "Österreich",
+            "population": 132493,
+            "average_age": 39.6,
+            "area": 104.91,
+            "founding_year": "1187 AD",
+            "population_density": 1261,
+            "districts": 9,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 2,
+                    "west": 2
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Innsbruck Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 47.2692,
+                "longitude": 11.4041,
+                "nearest_city_distance_km": {
+                    "value": 7.9,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Inn"
+                ],
+                "elevation_meters": 574,
+                "max_daily_temperature_celsius": 15.4,
+                "min_daily_temperature_celsius": 6.3,
+                "precipitation": "moderate",
+                "rainy_days": 140,
+                "monthly_sunshine_hours": 160
+            },
+            "coat_of_arms_image_path": "austria/innsbruck_coat_of_arms.jpg"
+        },
+        {
+            "name": "Klagenfurt",
+            "country": "Österreich",
+            "population": 100316,
+            "average_age": 42.0,
+            "area": 120.12,
+            "founding_year": "12th century",
+            "population_density": 835,
+            "districts": 8,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 2,
+                    "west": 2
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 46.6362,
+                "longitude": 14.3108,
+                "nearest_city_distance_km": {
+                    "value": 22.1,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Wörthersee"
+                ],
+                "elevation_meters": 446,
+                "max_daily_temperature_celsius": 16.1,
+                "min_daily_temperature_celsius": 6.4,
+                "precipitation": "high",
+                "rainy_days": 150,
+                "monthly_sunshine_hours": 160
+            },
+            "coat_of_arms_image_path": "austria/klagenfurt_coat_of_arms.jpg"
+        },
+        {
+            "name": "Warschau",
+            "country": "Polen",
+            "population": 1790658,
+            "average_age": 39.7,
+            "area": 517.24,
+            "founding_year": "13th century",
+            "population_density": 3463,
+            "districts": 18,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 1,
+                    "west": 1
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 7,
+                    "west": 7
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 2,
+                    "west": 2
+                },
+                "airports": [
+                    "Warsaw Chopin Airport",
+                    "Warsaw Modlin Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 52.2297,
+                "longitude": 21.0122,
+                "nearest_city_distance_km": {
+                    "value": 9.2,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Vistula"
+                ],
+                "elevation_meters": 100,
+                "max_daily_temperature_celsius": 16.2,
+                "min_daily_temperature_celsius": 5.1,
+                "precipitation": "moderate",
+                "rainy_days": 140,
+                "monthly_sunshine_hours": 160
+            },
+            "coat_of_arms_image_path": "poland/warsaw_coat_of_arms.jpg"
+        },
+        {
+            "name": "Krakau",
+            "country": "Polen",
+            "population": 779115,
+            "average_age": 38.9,
+            "area": 326.85,
+            "founding_year": "7th century",
+            "population_density": 2385,
+            "districts": 18,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 3,
+                    "west": 3
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Kraków John Paul II International Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 50.0647,
+                "longitude": 19.9450,
+                "nearest_city_distance_km": {
+                    "value": 13.2,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Vistula"
+                ],
+                "elevation_meters": 219,
+                "max_daily_temperature_celsius": 15.4,
+                "min_daily_temperature_celsius": 4.6,
+                "precipitation": "moderate",
+                "rainy_days": 130,
+                "monthly_sunshine_hours": 160
+            },
+            "coat_of_arms_image_path": "poland/krakow_coat_of_arms.jpg"
+        },
+        {
+            "name": "Łódź",
+            "country": "Polen",
+            "population": 682679,
+            "average_age": 38.2,
+            "area": 293.25,
+            "founding_year": "15th century",
+            "population_density": 2330,
+            "districts": 6,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 2,
+                    "west": 2
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 51.7592,
+                "longitude": 19.4550,
+                "nearest_city_distance_km": {
+                    "value": 17.8,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Łódź"
+                ],
+                "elevation_meters": 183,
+                "max_daily_temperature_celsius": 15.1,
+                "min_daily_temperature_celsius": 4.9,
+                "precipitation": "moderate",
+                "rainy_days": 130,
+                "monthly_sunshine_hours": 160
+            },
+            "coat_of_arms_image_path": "poland/lodz_coat_of_arms.jpg"
+        },
+        {
+            "name": "Wrocław",
+            "country": "Polen",
+            "population": 641607,
+            "average_age": 37.6,
+            "area": 292.82,
+            "founding_year": "10th century",
+            "population_density": 2194,
+            "districts": 5,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 2,
+                    "west": 2
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Copernicus Airport Wrocław"
+                ]
+            },
+            "geography": {
+                "latitude": 51.1079,
+                "longitude": 17.0385,
+                "nearest_city_distance_km": {
+                    "value": 21.6,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Oder"
+                ],
+                "elevation_meters": 119,
+                "max_daily_temperature_celsius": 15.0,
+                "min_daily_temperature_celsius": 4.5,
+                "precipitation": "moderate",
+                "rainy_days": 130,
+                "monthly_sunshine_hours": 160
+            },
+            "coat_of_arms_image_path": "poland/wroclaw_coat_of_arms.jpg"
+        },
+        {
+            "name": "Poznań",
+            "country": "Polen",
+            "population": 535764,
+            "average_age": 39.8,
+            "area": 261.85,
+            "founding_year": "10th century",
+            "population_density": 2047,
+            "districts": 5,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 2,
+                    "west": 2
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Poznań-Ławica Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 52.4064,
+                "longitude": 16.9252,
+                "nearest_city_distance_km": {
+                    "value": 26.3,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Warta"
+                ],
+                "elevation_meters": 75,
+                "max_daily_temperature_celsius": 15.3,
+                "min_daily_temperature_celsius": 5.1,
+                "precipitation": "moderate",
+                "rainy_days": 130,
+                "monthly_sunshine_hours": 160
+            },
+            "coat_of_arms_image_path": "poland/poznan_coat_of_arms.jpg"
+        },
+        {
+            "name": "Gdańsk",
+            "country": "Polen",
+            "population": 470907,
+            "average_age": 39.1,
+            "area": 262.23,
+            "founding_year": "10th century",
+            "population_density": 1795,
+            "districts": 6,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 3,
+                    "west": 3
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Gdańsk Lech Wałęsa Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 54.3520,
+                "longitude": 18.6466,
+                "nearest_city_distance_km": {
+                    "value": 16.8,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Motława"
+                ],
+                "elevation_meters": 5,
+                "max_daily_temperature_celsius": 14.8,
+                "min_daily_temperature_celsius": 5.2,
+                "precipitation": "moderate",
+                "rainy_days": 130,
+                "monthly_sunshine_hours": 160
+            },
+            "coat_of_arms_image_path": "poland/gdansk_coat_of_arms.jpg"
+        },
+        {
+            "name": "Lissabon (Lisboa)",
+            "country": "Portugal",
+            "population": 547733,
+            "average_age": 42.5,
+            "area": 100.05,
+            "founding_year": "1256-01-01",
+            "population_density": 5473,
+            "districts": 24,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 2,
+                    "west": 1
+                },
+                "train_connections": {
+                    "north": 2,
+                    "south": 2,
+                    "east": 3,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 4,
+                    "south": 3,
+                    "east": 3,
+                    "west": 2
+                },
+                "airports": [
+                    "Lisboa Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 38.7223,
+                "longitude": -9.1393,
+                "nearest_city_distance_km": {
+                    "value": 25.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Tagus"
+                ],
+                "elevation_meters": 2,
+                "max_daily_temperature_celsius": 28.9,
+                "min_daily_temperature_celsius": 8.3,
+                "precipitation": "moderate",
+                "rainy_days": 117,
+                "monthly_sunshine_hours": 213
+            },
+            "coat_of_arms_image_path": "portugal/lisbon_coat_of_arms.jpg"
+        },
+        {
+            "name": "Porto",
+            "country": "Portugal",
+            "population": 214349,
+            "average_age": 41.2,
+            "area": 41.42,
+            "founding_year": "1123-01-01",
+            "population_density": 5166,
+            "districts": 15,
+            "transportation": {
+                "subway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 1
+                },
+                "train_connections": {
+                    "north": 2,
+                    "south": 2,
+                    "east": 1,
+                    "west": 2
+                },
+                "highway_connections": {
+                    "north": 3,
+                    "south": 2,
+                    "east": 2,
+                    "west": 3
+                },
+                "airports": [
+                    "Francisco Sá Carneiro Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 41.1579,
+                "longitude": -8.6291,
+                "nearest_city_distance_km": {
+                    "value": 12.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Douro"
+                ],
+                "elevation_meters": 104,
+                "max_daily_temperature_celsius": 24.5,
+                "min_daily_temperature_celsius": 5.8,
+                "precipitation": "high",
+                "rainy_days": 150,
+                "monthly_sunshine_hours": 190
+            },
+            "coat_of_arms_image_path": "portugal/porto_coat_of_arms.jpg"
+        },
+        {
+            "name": "Vila Nova de Gaia",
+            "country": "Portugal",
+            "population": 300178,
+            "average_age": 39.8,
+            "area": 168.46,
+            "founding_year": "1255-03-15",
+            "population_density": 1783,
+            "districts": 15,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 2,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 2,
+                    "south": 1,
+                    "east": 2,
+                    "west": 2
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 41.1339,
+                "longitude": -8.6175,
+                "nearest_city_distance_km": {
+                    "value": 9.5,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Douro"
+                ],
+                "elevation_meters": 82,
+                "max_daily_temperature_celsius": 24.0,
+                "min_daily_temperature_celsius": 6.2,
+                "precipitation": "high",
+                "rainy_days": 160,
+                "monthly_sunshine_hours": 178
+            },
+            "coat_of_arms_image_path": "portugal/vila_nova_de_gaia_coat_of_arms.jpg"
+        },
+        {
+            "name": "Amadora",
+            "country": "Portugal",
+            "population": 175136,
+            "average_age": 38.7,
+            "area": 23.77,
+            "founding_year": "1907-09-11",
+            "population_density": 7363,
+            "districts": 6,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 38.7538,
+                "longitude": -9.2393,
+                "nearest_city_distance_km": {
+                    "value": 8.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [],
+                "elevation_meters": 126,
+                "max_daily_temperature_celsius": 27.6,
+                "min_daily_temperature_celsius": 9.7,
+                "precipitation": "moderate",
+                "rainy_days": 123,
+                "monthly_sunshine_hours": 226
+            },
+            "coat_of_arms_image_path": "portugal/amadora_coat_of_arms.jpg"
+        },
+        {
+            "name": "Braga",
+            "country": "Portugal",
+            "population": 181494,
+            "average_age": 39.9,
+            "area": 183.41,
+            "founding_year": "16 BC",
+            "population_density": 989,
+            "districts": 37,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 2,
+                    "south": 1,
+                    "east": 1,
+                    "west": 2
+                },
+                "highway_connections": {
+                    "north": 2,
+                    "south": 2,
+                    "east": 2,
+                    "west": 2
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 41.5503,
+                "longitude": -8.4205,
+                "nearest_city_distance_km": {
+                    "value": 50.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Cávado"
+                ],
+                "elevation_meters": 200,
+                "max_daily_temperature_celsius": 25.5,
+                "min_daily_temperature_celsius": 6.8,
+                "precipitation": "high",
+                "rainy_days": 160,
+                "monthly_sunshine_hours": 180
+            },
+            "coat_of_arms_image_path": "portugal/braga_coat_of_arms.jpg"
+        },
+        {
+            "name": "Funchal",
+            "country": "Portugal",
+            "population": 112015,
+            "average_age": 43.2,
+            "area": 76.15,
+            "founding_year": "1421-08-21",
+            "population_density": 1472,
+            "districts": 10,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Madeira Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 32.6669,
+                "longitude": -16.9241,
+                "nearest_city_distance_km": {
+                    "value": 7.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [],
+                "elevation_meters": 0,
+                "max_daily_temperature_celsius": 24.6,
+                "min_daily_temperature_celsius": 17.5,
+                "precipitation": "low",
+                "rainy_days": 73,
+                "monthly_sunshine_hours": 213
+            },
+            "coat_of_arms_image_path": "portugal/funchal_coat_of_arms.jpg"
+        }
+	]
+}

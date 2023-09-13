@@ -1,0 +1,100 @@
+{
+    "cities": [
+{
+            "name": "Budva",
+            "country": "Montenegro",
+            "population": 19423,
+            "average_age": 38.7,
+            "area": 122,
+            "founding_year": "5th century BC",
+            "population_density": 159,
+            "districts": 5,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 42.2896,
+                "longitude": 18.8424,
+                "nearest_city_distance_km": {
+                    "value": 23.8,
+                    "unit": "kilometers"
+                },
+                "rivers": [],
+                "elevation_meters": 0,
+                "max_daily_temperature_celsius": 26.6,
+                "min_daily_temperature_celsius": 11.3,
+                "precipitation": "low",
+                "rainy_days": 64,
+                "monthly_sunshine_hours": 250
+            },
+            "coat_of_arms_image_path": "montenegro/budva_coat_of_arms.jpg"
+        },
+        {
+            "name": "Bar",
+            "country": "Montenegro",
+            "population": 17783,
+            "average_age": 39.8,
+            "area": 598,
+            "founding_year": "before 6th century BC",
+            "population_density": 30,
+            "districts": 3,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 42.1014,
+                "longitude": 19.0925,
+                "nearest_city_distance_km": {
+                    "value": 37.5,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Bar River"
+                ],
+                "elevation_meters": 0,
+                "max_daily_temperature_celsius": 25.8,
+                "min_daily_temperature_celsius": 11.1,
+                "precipitation": "moderate",
+                "rainy_days": 79,
+                "monthly_sunshine_hours": 229
+            },
+            "coat_of_arms_image_path": "montenegro/bar_coat_of_arms.jpg"
+        }
+	]
+}

@@ -9,29 +9,6 @@
             "founding_year": "1461",
             "population_density": 1928,
             "districts": 4,
-            "transportation": {
-                "subway_connections": {
-                    "north": 0,
-                    "south": 0,
-                    "east": 1,
-                    "west": 1
-                },
-                "train_connections": {
-                    "north": 1,
-                    "south": 0,
-                    "east": 1,
-                    "west": 1
-                },
-                "highway_connections": {
-                    "north": 1,
-                    "south": 1,
-                    "east": 1,
-                    "west": 1
-                },
-                "airports": [
-                    "Sarajevo International Airport"
-                ]
-            },
             "geography": {
                 "latitude": 43.8563,
                 "longitude": 18.4131,
@@ -60,29 +37,6 @@
             "founding_year": "1494",
             "population_density": 1613,
             "districts": 7,
-            "transportation": {
-                "subway_connections": {
-                    "north": 0,
-                    "south": 0,
-                    "east": 1,
-                    "west": 0
-                },
-                "train_connections": {
-                    "north": 1,
-                    "south": 1,
-                    "east": 0,
-                    "west": 0
-                },
-                "highway_connections": {
-                    "north": 1,
-                    "south": 1,
-                    "east": 0,
-                    "west": 0
-                },
-                "airports": [
-                    "Banja Luka International Airport"
-                ]
-            },
             "geography": {
                 "latitude": 44.7768,
                 "longitude": 17.1934,
@@ -111,29 +65,6 @@
             "founding_year": "1500",
             "population_density": 1978,
             "districts": 5,
-            "transportation": {
-                "subway_connections": {
-                    "north": 0,
-                    "south": 0,
-                    "east": 1,
-                    "west": 0
-                },
-                "train_connections": {
-                    "north": 1,
-                    "south": 0,
-                    "east": 1,
-                    "west": 0
-                },
-                "highway_connections": {
-                    "north": 1,
-                    "south": 0,
-                    "east": 0,
-                    "west": 0
-                },
-                "airports": [
-                    "Tuzla International Airport"
-                ]
-            },
             "geography": {
                 "latitude": 44.5385,
                 "longitude": 18.6732,
@@ -162,27 +93,6 @@
             "founding_year": "1377",
             "population_density": 2249,
             "districts": 4,
-            "transportation": {
-                "subway_connections": {
-                    "north": 0,
-                    "south": 0,
-                    "east": 1,
-                    "west": 0
-                },
-                "train_connections": {
-                    "north": 1,
-                    "south": 0,
-                    "east": 1,
-                    "west": 0
-                },
-                "highway_connections": {
-                    "north": 1,
-                    "south": 0,
-                    "east": 0,
-                    "west": 0
-                },
-                "airports": []
-            },
             "geography": {
                 "latitude": 44.2016,
                 "longitude": 17.9036,
@@ -211,30 +121,7 @@
             "founding_year": "15th century",
             "population_density": 818,
             "districts": 6,
-            "transportation": {
-                "subway_connections": {
-                    "north": 0,
-                    "south": 0,
-                    "east": 0,
-                    "west": 0
-                },
-                "train_connections": {
-                    "north": 1,
-                    "south": 0,
-                    "east": 1,
-                    "west": 0
-                },
-                "highway_connections": {
-                    "north": 1,
-                    "south": 1,
-                    "east": 0,
-                    "west": 1
-                },
-                "airports": [
-                    "Mostar International Airport"
-                ]
-            },
-            "geography": {
+             "geography": {
                 "latitude": 43.3438,
                 "longitude": 17.8078,
                 "nearest_city_distance_km": {
@@ -262,28 +149,7 @@
             "founding_year": "1776",
             "population_density": 147,
             "districts": 10,
-            "transportation": {
-                "subway_connections": {
-                    "north": 0,
-                    "south": 0,
-                    "east": 1,
-                    "west": 0
-                },
-                "train_connections": {
-                    "north": 1,
-                    "south": 0,
-                    "east": 0,
-                    "west": 0
-                },
-                "highway_connections": {
-                    "north": 1,
-                    "south": 0,
-                    "east": 0,
-                    "west": 0
-                },
-                "airports": []
-            },
-            "geography": {
+             "geography": {
                 "latitude": 44.7635,
                 "longitude": 19.2165,
                 "nearest_city_distance_km": {
@@ -311,27 +177,6 @@
             "founding_year": "late 17th century",
             "population_density": 106,
             "districts": 6,
-            "transportation": {
-                "subway_connections": {
-                    "north": 0,
-                    "south": 0,
-                    "east": 1,
-                    "west": 0
-                },
-                "train_connections": {
-                    "north": 1,
-                    "south": 0,
-                    "east": 0,
-                    "west": 0
-                },
-                "highway_connections": {
-                    "north": 1,
-                    "south": 0,
-                    "east": 0,
-                    "west": 0
-                },
-                "airports": []
-            },
             "geography": {
                 "latitude": 44.9799,
                 "longitude": 16.7130,
@@ -360,27 +205,6 @@
             "founding_year": "14th century",
             "population_density": 164,
             "districts": 5,
-            "transportation": {
-                "subway_connections": {
-                    "north": 0,
-                    "south": 0,
-                    "east": 1,
-                    "west": 0
-                },
-                "train_connections": {
-                    "north": 1,
-                    "south": 0,
-                    "east": 0,
-                    "west": 0
-                },
-                "highway_connections": {
-                    "north": 1,
-                    "south": 0,
-                    "east": 0,
-                    "west": 0
-                },
-                "airports": []
-            },
             "geography": {
                 "latitude": 44.8714,
                 "longitude": 18.8105,
@@ -409,29 +233,6 @@
             "founding_year": "8th century BC",
             "population_density": 2634,
             "districts": 24,
-            "transportation": {
-                "subway_connections": {
-                    "north": 0,
-                    "south": 0,
-                    "east": 1,
-                    "west": 1
-                },
-                "train_connections": {
-                    "north": 1,
-                    "south": 0,
-                    "east": 1,
-                    "west": 1
-                },
-                "highway_connections": {
-                    "north": 1,
-                    "south": 1,
-                    "east": 1,
-                    "west": 1
-                },
-                "airports": [
-                    "Sofia Airport"
-                ]
-            },
             "geography": {
                 "latitude": 42.6977,
                 "longitude": 23.3219,
@@ -460,27 +261,6 @@
             "founding_year": "4th millennium BC",
             "population_density": 3389,
             "districts": 6,
-            "transportation": {
-                "subway_connections": {
-                    "north": 0,
-                    "south": 0,
-                    "east": 0,
-                    "west": 0
-                },
-                "train_connections": {
-                    "north": 1,
-                    "south": 0,
-                    "east": 0,
-                    "west": 1
-                },
-                "highway_connections": {
-                    "north": 1,
-                    "south": 0,
-                    "east": 0,
-                    "west": 1
-                },
-                "airports": []
-            },
             "geography": {
                 "latitude": 42.1354,
                 "longitude": 24.7453,
@@ -509,29 +289,6 @@
             "founding_year": "6th century BC",
             "population_density": 1404,
             "districts": 5,
-            "transportation": {
-                "subway_connections": {
-                    "north": 0,
-                    "south": 0,
-                    "east": 0,
-                    "west": 0
-                },
-                "train_connections": {
-                    "north": 1,
-                    "south": 0,
-                    "east": 0,
-                    "west": 1
-                },
-                "highway_connections": {
-                    "north": 1,
-                    "south": 0,
-                    "east": 1,
-                    "west": 0
-                },
-                "airports": [
-                    "Varna Airport"
-                ]
-            },
             "geography": {
                 "latitude": 43.2141,
                 "longitude": 27.9147,
@@ -560,29 +317,6 @@
             "founding_year": "17th century",
             "population_density": 1040,
             "districts": 4,
-            "transportation": {
-                "subway_connections": {
-                    "north": 0,
-                    "south": 0,
-                    "east": 0,
-                    "west": 0
-                },
-                "train_connections": {
-                    "north": 1,
-                    "south": 0,
-                    "east": 0,
-                    "west": 0
-                },
-                "highway_connections": {
-                    "north": 1,
-                    "south": 0,
-                    "east": 1,
-                    "west": 0
-                },
-                "airports": [
-                    "Burgas Airport"
-                ]
-            },
             "geography": {
                 "latitude": 42.5048,
                 "longitude": 27.4626,
@@ -611,29 +345,6 @@
             "founding_year": "1st century AD",
             "population_density": 928,
             "districts": 5,
-            "transportation": {
-                "subway_connections": {
-                    "north": 0,
-                    "south": 0,
-                    "east": 0,
-                    "west": 0
-                },
-                "train_connections": {
-                    "north": 1,
-                    "south": 0,
-                    "east": 1,
-                    "west": 0
-                },
-                "highway_connections": {
-                    "north": 1,
-                    "south": 0,
-                    "east": 1,
-                    "west": 0
-                },
-                "airports": [
-                    "Ruse Airport"
-                ]
-            },
             "geography": {
                 "latitude": 43.8564,
                 "longitude": 25.9705,
@@ -662,27 +373,6 @@
             "founding_year": "342 BC",
             "population_density": 1276,
             "districts": 4,
-            "transportation": {
-                "subway_connections": {
-                    "north": 0,
-                    "south": 0,
-                    "east": 0,
-                    "west": 0
-                },
-                "train_connections": {
-                    "north": 1,
-                    "south": 0,
-                    "east": 1,
-                    "west": 0
-                },
-                "highway_connections": {
-                    "north": 1,
-                    "south": 0,
-                    "east": 0,
-                    "west": 0
-                },
-                "airports": []
-            },
             "geography": {
                 "latitude": 42.4258,
                 "longitude": 25.6344,
@@ -711,29 +401,6 @@
             "founding_year": "4th millennium BC",
             "population_density": 3410,
             "districts": 6,
-            "transportation": {
-                "subway_connections": {
-                    "north": 0,
-                    "south": 0,
-                    "east": 0,
-                    "west": 0
-                },
-                "train_connections": {
-                    "north": 1,
-                    "south": 0,
-                    "east": 0,
-                    "west": 0
-                },
-                "highway_connections": {
-                    "north": 1,
-                    "south": 0,
-                    "east": 1,
-                    "west": 0
-                },
-                "airports": [
-                    "Plowdiw Airport"
-                ]
-            },
             "geography": {
                 "latitude": 42.1354,
                 "longitude": 24.7453,
@@ -762,27 +429,6 @@
             "founding_year": "5th century BC",
             "population_density": 456,
             "districts": 4,
-            "transportation": {
-                "subway_connections": {
-                    "north": 0,
-                    "south": 0,
-                    "east": 0,
-                    "west": 0
-                },
-                "train_connections": {
-                    "north": 1,
-                    "south": 0,
-                    "east": 0,
-                    "west": 0
-                },
-                "highway_connections": {
-                    "north": 1,
-                    "south": 0,
-                    "east": 1,
-                    "west": 0
-                },
-                "airports": []
-            },
             "geography": {
                 "latitude": 42.6791,
                 "longitude": 26.3167,
@@ -811,27 +457,6 @@
             "founding_year": "10th century",
             "population_density": 2662,
             "districts": 1,
-            "transportation": {
-                "subway_connections": {
-                    "north": 0,
-                    "south": 0,
-                    "east": 0,
-                    "west": 0
-                },
-                "train_connections": {
-                    "north": 1,
-                    "south": 0,
-                    "east": 0,
-                    "west": 0
-                },
-                "highway_connections": {
-                    "north": 1,
-                    "south": 0,
-                    "east": 0,
-                    "west": 0
-                },
-                "airports": []
-            },
             "geography": {
                 "latitude": 42.0219,
                 "longitude": 23.0940,
@@ -860,29 +485,6 @@
             "founding_year": "12th century",
             "population_density": 7234,
             "districts": 10,
-            "transportation": {
-                "subway_connections": {
-                    "north": 1,
-                    "south": 1,
-                    "east": 1,
-                    "west": 1
-                },
-                "train_connections": {
-                    "north": 1,
-                    "south": 1,
-                    "east": 1,
-                    "west": 1
-                },
-                "highway_connections": {
-                    "north": 1,
-                    "south": 1,
-                    "east": 1,
-                    "west": 1
-                },
-                "airports": [
-                    "Kopenhagen Airport"
-                ]
-            },
             "geography": {
                 "latitude": 55.6761,
                 "longitude": 12.5683,
@@ -911,29 +513,6 @@
             "founding_year": "8th century",
             "population_density": 3811,
             "districts": 10,
-            "transportation": {
-                "subway_connections": {
-                    "north": 0,
-                    "south": 0,
-                    "east": 1,
-                    "west": 0
-                },
-                "train_connections": {
-                    "north": 1,
-                    "south": 1,
-                    "east": 1,
-                    "west": 0
-                },
-                "highway_connections": {
-                    "north": 1,
-                    "south": 0,
-                    "east": 1,
-                    "west": 0
-                },
-                "airports": [
-                    "Aarhus Airport"
-                ]
-            },
             "geography": {
                 "latitude": 56.1629,
                 "longitude": 10.2039,
@@ -962,29 +541,6 @@
             "founding_year": "10th century",
             "population_density": 672,
             "districts": 5,
-            "transportation": {
-                "subway_connections": {
-                    "north": 0,
-                    "south": 0,
-                    "east": 1,
-                    "west": 0
-                },
-                "train_connections": {
-                    "north": 1,
-                    "south": 1,
-                    "east": 1,
-                    "west": 0
-                },
-                "highway_connections": {
-                    "north": 1,
-                    "south": 0,
-                    "east": 1,
-                    "west": 0
-                },
-                "airports": [
-                    "Odense Airport"
-                ]
-            },
             "geography": {
                 "latitude": 55.4038,
                 "longitude": 10.4024,
@@ -1005,19 +561,6 @@
             "coat_of_arms_image_path": "denmark/odense_coat_of_arms.jpg"
         },
         {
-            "name": "Aalborg",
-            "country": "Denmark",
-            "population": 217075,
-            "average_age": 40.1,
-            "area": 1,
-            "elevation_meters": 7,
-            "max_daily_temperature_celsius": 20.1,
-            "min_daily_temperature_celsius": 1.7,
-            "precipitation": "moderate",
-            "rainy_days": 130,
-            "monthly_sunshine_hours": 160
-        },
-        {
             "name": "Esbjerg",
             "country": "Denmark",
             "population": 71618,
@@ -1026,29 +569,6 @@
             "founding_year": "19th century",
             "population_density": 3267,
             "districts": 6,
-            "transportation": {
-                "subway_connections": {
-                    "north": 0,
-                    "south": 0,
-                    "east": 0,
-                    "west": 0
-                },
-                "train_connections": {
-                    "north": 1,
-                    "south": 0,
-                    "east": 0,
-                    "west": 0
-                },
-                "highway_connections": {
-                    "north": 1,
-                    "south": 0,
-                    "east": 0,
-                    "west": 0
-                },
-                "airports": [
-                    "Esbjerg Airport"
-                ]
-            },
             "geography": {
                 "latitude": 55.4668,
                 "longitude": 8.4516,
@@ -1077,27 +597,6 @@
             "founding_year": "12th century",
             "population_density": 1028,
             "districts": 3,
-            "transportation": {
-                "subway_connections": {
-                    "north": 0,
-                    "south": 0,
-                    "east": 1,
-                    "west": 0
-                },
-                "train_connections": {
-                    "north": 1,
-                    "south": 1,
-                    "east": 1,
-                    "west": 0
-                },
-                "highway_connections": {
-                    "north": 1,
-                    "south": 0,
-                    "east": 1,
-                    "west": 0
-                },
-                "airports": []
-            },
             "geography": {
                 "latitude": 56.4647,
                 "longitude": 10.9025,
@@ -1126,27 +625,6 @@
             "founding_year": "13th century",
             "population_density": 269,
             "districts": 5,
-            "transportation": {
-                "subway_connections": {
-                    "north": 0,
-                    "south": 0,
-                    "east": 1,
-                    "west": 0
-                },
-                "train_connections": {
-                    "north": 1,
-                    "south": 0,
-                    "east": 1,
-                    "west": 0
-                },
-                "highway_connections": {
-                    "north": 1,
-                    "south": 0,
-                    "east": 1,
-                    "west": 0
-                },
-                "airports": []
-            },
             "geography": {
                 "latitude": 55.4950,
                 "longitude": 9.4716,
@@ -1175,27 +653,6 @@
             "founding_year": "12th century",
             "population_density": 1139,
             "districts": 3,
-            "transportation": {
-                "subway_connections": {
-                    "north": 0,
-                    "south": 0,
-                    "east": 1,
-                    "west": 0
-                },
-                "train_connections": {
-                    "north": 1,
-                    "south": 1,
-                    "east": 1,
-                    "west": 0
-                },
-                "highway_connections": {
-                    "north": 1,
-                    "south": 0,
-                    "east": 1,
-                    "west": 0
-                },
-                "airports": []
-            },
             "geography": {
                 "latitude": 55.8607,
                 "longitude": 9.8507,

@@ -1848,19 +1848,6 @@
             "coat_of_arms_image_path": "denmark/odense_coat_of_arms.jpg"
         },
         {
-            "name": "Aalborg",
-            "country": "Denmark",
-            "population": 217075,
-            "average_age": 40.1,
-            "area": 1,
-            "elevation_meters": 7,
-            "max_daily_temperature_celsius": 20.1,
-            "min_daily_temperature_celsius": 1.7,
-            "precipitation": "moderate",
-            "rainy_days": 130,
-            "monthly_sunshine_hours": 160
-        },
-        {
             "name": "Esbjerg",
             "country": "Denmark",
             "population": 71618,
@@ -6987,6 +6974,7 @@
         },
         {
             "name": "Nikšić",
+			"country": "Montenegro",
             "population": 57454,
             "average_age": 40.8,
             "area": 2,

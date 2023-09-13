@@ -1,0 +1,602 @@
+{
+    "cities": [
+{
+            "name": "Amsterdam",
+            "country": "Niederlande",
+            "population": 873555,
+            "average_age": 37.2,
+            "area": 219.3,
+            "founding_year": "13th century",
+            "population_density": 3978,
+            "districts": 8,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 3,
+                    "west": 2
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 7,
+                    "west": 5
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Amsterdam Schiphol Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 52.3676,
+                "longitude": 4.9041,
+                "nearest_city_distance_km": {
+                    "value": 23.7,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Amstel"
+                ],
+                "elevation_meters": -2,
+                "max_daily_temperature_celsius": 16.5,
+                "min_daily_temperature_celsius": 6.2,
+                "precipitation": "moderate",
+                "rainy_days": 190,
+                "monthly_sunshine_hours": 166
+            },
+            "coat_of_arms_image_path": "netherlands/amsterdam_coat_of_arms.jpg"
+        },
+        {
+            "name": "Rotterdam",
+            "country": "Niederlande",
+            "population": 651446,
+            "average_age": 38.8,
+            "area": 319.4,
+            "founding_year": "13th century",
+            "population_density": 2040,
+            "districts": 14,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 2,
+                    "west": 2
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 6,
+                    "west": 4
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Rotterdam The Hague Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 51.9225,
+                "longitude": 4.47917,
+                "nearest_city_distance_km": {
+                    "value": 21.6,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Nieuwe Maas"
+                ],
+                "elevation_meters": -1,
+                "max_daily_temperature_celsius": 15.7,
+                "min_daily_temperature_celsius": 5.9,
+                "precipitation": "moderate",
+                "rainy_days": 180,
+                "monthly_sunshine_hours": 158
+            },
+            "coat_of_arms_image_path": "netherlands/rotterdam_coat_of_arms.jpg"
+        },
+        {
+            "name": "Den Haag",
+            "country": "Niederlande",
+            "population": 545863,
+            "average_age": 39.6,
+            "area": 98.06,
+            "founding_year": "13th century",
+            "population_density": 5557,
+            "districts": 8,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 1,
+                    "west": 1
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 4,
+                    "west": 3
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 52.0705,
+                "longitude": 4.3007,
+                "nearest_city_distance_km": {
+                    "value": 22.2,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Hofvijver"
+                ],
+                "elevation_meters": 0,
+                "max_daily_temperature_celsius": 15.8,
+                "min_daily_temperature_celsius": 6.0,
+                "precipitation": "moderate",
+                "rainy_days": 175,
+                "monthly_sunshine_hours": 160
+            },
+            "coat_of_arms_image_path": "netherlands/den_haag_coat_of_arms.jpg"
+        },
+        {
+            "name": "Utrecht",
+            "country": "Niederlande",
+            "population": 357178,
+            "average_age": 37.9,
+            "area": 99.21,
+            "founding_year": "47 AD",
+            "population_density": 3600,
+            "districts": 10,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 1,
+                    "west": 1
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 3,
+                    "west": 2
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 52.0907,
+                "longitude": 5.1214,
+                "nearest_city_distance_km": {
+                    "value": 21.4,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Oudegracht"
+                ],
+                "elevation_meters": 5,
+                "max_daily_temperature_celsius": 15.9,
+                "min_daily_temperature_celsius": 6.1,
+                "precipitation": "moderate",
+                "rainy_days": 175,
+                "monthly_sunshine_hours": 162
+            },
+            "coat_of_arms_image_path": "netherlands/utrecht_coat_of_arms.jpg"
+        },
+        {
+            "name": "Eindhoven",
+            "country": "Niederlande",
+            "population": 231642,
+            "average_age": 36.5,
+            "area": 88.87,
+            "founding_year": "1232",
+            "population_density": 2605,
+            "districts": 7,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 1,
+                    "west": 1
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 2,
+                    "west": 2
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Eindhoven Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 51.4416,
+                "longitude": 5.4697,
+                "nearest_city_distance_km": {
+                    "value": 32.2,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Dommel"
+                ],
+                "elevation_meters": 18,
+                "max_daily_temperature_celsius": 15.9,
+                "min_daily_temperature_celsius": 6.2,
+                "precipitation": "moderate",
+                "rainy_days": 175,
+                "monthly_sunshine_hours": 164
+            },
+            "coat_of_arms_image_path": "netherlands/eindhoven_coat_of_arms.jpg"
+        },
+        {
+            "name": "Tilburg",
+            "country": "Niederlande",
+            "population": 217259,
+            "average_age": 38.2,
+            "area": 119.15,
+            "founding_year": "13th century",
+            "population_density": 1824,
+            "districts": 7,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 3,
+                    "west": 3
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 51.5606,
+                "longitude": 5.0913,
+                "nearest_city_distance_km": {
+                    "value": 36.1,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Piushaven"
+                ],
+                "elevation_meters": 14,
+                "max_daily_temperature_celsius": 15.8,
+                "min_daily_temperature_celsius": 6.0,
+                "precipitation": "moderate",
+                "rainy_days": 175,
+                "monthly_sunshine_hours": 163
+            },
+            "coat_of_arms_image_path": "netherlands/tilburg_coat_of_arms.jpg"
+        },
+        {
+            "name": "Groningen",
+            "country": "Niederlande",
+            "population": 231038,
+            "average_age": 30.9,
+            "area": 180.21,
+            "founding_year": "3rd century",
+            "population_density": 1282,
+            "districts": 7,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 4,
+                    "west": 4
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Groningen Airport Eelde"
+                ]
+            },
+            "geography": {
+                "latitude": 53.2194,
+                "longitude": 6.5665,
+                "nearest_city_distance_km": {
+                    "value": 29.5,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Hunze"
+                ],
+                "elevation_meters": 4,
+                "max_daily_temperature_celsius": 14.9,
+                "min_daily_temperature_celsius": 5.3,
+                "precipitation": "high",
+                "rainy_days": 196,
+                "monthly_sunshine_hours": 145
+            },
+            "coat_of_arms_image_path": "netherlands/groningen_coat_of_arms.jpg"
+        },
+        {
+            "name": "Skopje",
+            "country": "Nordmazedonien",
+            "population": 507000,
+            "average_age": 36.7,
+            "area": 571.46,
+            "founding_year": "81 AD",
+            "population_density": 887,
+            "districts": 10,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 1,
+                    "west": 1
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 4,
+                    "west": 3
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Skopje Alexander the Great Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 42.0038,
+                "longitude": 21.4524,
+                "nearest_city_distance_km": {
+                    "value": 34.8,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Vardar"
+                ],
+                "elevation_meters": 240,
+                "max_daily_temperature_celsius": 16.3,
+                "min_daily_temperature_celsius": 6.0,
+                "precipitation": "moderate",
+                "rainy_days": 120,
+                "monthly_sunshine_hours": 190
+            },
+            "coat_of_arms_image_path": "north_macedonia/skopje_coat_of_arms.jpg"
+        },
+        {
+            "name": "Bitola",
+            "country": "Nordmazedonien",
+            "population": 74000,
+            "average_age": 38.2,
+            "area": 1176,
+            "founding_year": "4th century BC",
+            "population_density": 63,
+            "districts": 3,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 2,
+                    "west": 2
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 41.0297,
+                "longitude": 21.3292,
+                "nearest_city_distance_km": {
+                    "value": 19.7,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Dragor"
+                ],
+                "elevation_meters": 615,
+                "max_daily_temperature_celsius": 15.1,
+                "min_daily_temperature_celsius": 5.7,
+                "precipitation": "moderate",
+                "rainy_days": 140,
+                "monthly_sunshine_hours": 185
+            },
+            "coat_of_arms_image_path": "north_macedonia/bitola_coat_of_arms.jpg"
+        },
+        {
+            "name": "Kumanovo",
+            "country": "Nordmazedonien",
+            "population": 105000,
+            "average_age": 34.9,
+            "area": 509.25,
+            "founding_year": "16th century",
+            "population_density": 206,
+            "districts": 3,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 2,
+                    "west": 2
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 42.1322,
+                "longitude": 21.7147,
+                "nearest_city_distance_km": {
+                    "value": 29.5,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Vardar"
+                ],
+                "elevation_meters": 350,
+                "max_daily_temperature_celsius": 16.0,
+                "min_daily_temperature_celsius": 6.5,
+                "precipitation": "moderate",
+                "rainy_days": 130,
+                "monthly_sunshine_hours": 192
+            },
+            "coat_of_arms_image_path": "north_macedonia/kumanovo_coat_of_arms.jpg"
+        },
+        {
+            "name": "Prilep",
+            "country": "Nordmazedonien",
+            "population": 66000,
+            "average_age": 36.5,
+            "area": 1587.64,
+            "founding_year": "4th century BC",
+            "population_density": 42,
+            "districts": 3,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 2,
+                    "west": 2
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 41.3458,
+                "longitude": 21.5493,
+                "nearest_city_distance_km": {
+                    "value": 41.2,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Crna"
+                ],
+                "elevation_meters": 660,
+                "max_daily_temperature_celsius": 14.9,
+                "min_daily_temperature_celsius": 6.1,
+                "precipitation": "moderate",
+                "rainy_days": 130,
+                "monthly_sunshine_hours": 180
+            },
+            "coat_of_arms_image_path": "north_macedonia/prilep_coat_of_arms.jpg"
+        },
+        {
+            "name": "Tetovo",
+            "country": "Nordmazedonien",
+            "population": 52000,
+            "average_age": 33.8,
+            "area": 261.77,
+            "founding_year": "4th century BC",
+            "population_density": 199,
+            "districts": 2,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 42.0109,
+                "longitude": 20.9715,
+                "nearest_city_distance_km": {
+                    "value": 26.5,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Pena"
+                ],
+                "elevation_meters": 468,
+                "max_daily_temperature_celsius": 15.8,
+                "min_daily_temperature_celsius": 6.4,
+                "precipitation": "moderate",
+                "rainy_days": 125,
+                "monthly_sunshine_hours": 195
+            },
+            "coat_of_arms_image_path": "north_macedonia/tetovo_coat_of_arms.jpg"
+        }
+	]
+}

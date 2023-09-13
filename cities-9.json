@@ -1,0 +1,1071 @@
+{
+    "cities": [
+	{
+            "name": "Bukarest (București)",
+            "country": "Rumänien",
+            "population": 1883425,
+            "average_age": 38.2,
+            "area": 228,
+            "founding_year": "1459-09-20",
+            "population_density": 8264,
+            "districts": 6,
+            "transportation": {
+                "subway_connections": {
+                    "north": 1,
+                    "south": 2,
+                    "east": 1,
+                    "west": 1
+                },
+                "train_connections": {
+                    "north": 3,
+                    "south": 3,
+                    "east": 2,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 4,
+                    "south": 3,
+                    "east": 3,
+                    "west": 2
+                },
+                "airports": [
+                    "Henri Coandă International Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 44.4268,
+                "longitude": 26.1025,
+                "nearest_city_distance_km": {
+                    "value": 50.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Dâmbovița"
+                ],
+                "elevation_meters": 85,
+                "max_daily_temperature_celsius": 30.8,
+                "min_daily_temperature_celsius": 6.2,
+                "precipitation": "moderate",
+                "rainy_days": 90,
+                "monthly_sunshine_hours": 210
+            },
+            "coat_of_arms_image_path": "romania/bucharest_coat_of_arms.jpg"
+        },
+        {
+            "name": "Cluj-Napoca",
+            "country": "Rumänien",
+            "population": 318027,
+            "average_age": 32.7,
+            "area": 179.5,
+            "founding_year": "1213-09-21",
+            "population_density": 1772,
+            "districts": 9,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 2,
+                    "south": 1,
+                    "east": 2,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 3,
+                    "south": 2,
+                    "east": 2,
+                    "west": 3
+                },
+                "airports": [
+                    "Cluj International Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 46.7712,
+                "longitude": 23.6236,
+                "nearest_city_distance_km": {
+                    "value": 60.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Someșul Mic"
+                ],
+                "elevation_meters": 340,
+                "max_daily_temperature_celsius": 27.5,
+                "min_daily_temperature_celsius": 4.2,
+                "precipitation": "high",
+                "rainy_days": 120,
+                "monthly_sunshine_hours": 190
+            },
+            "coat_of_arms_image_path": "romania/cluj_napoca_coat_of_arms.jpg"
+        },
+        {
+            "name": "Timișoara",
+            "country": "Rumänien",
+            "population": 319279,
+            "average_age": 35.1,
+            "area": 130.5,
+            "founding_year": "1212-12-12",
+            "population_density": 2445,
+            "districts": 4,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "train_connections": {
+                    "north": 2,
+                    "south": 1,
+                    "east": 1,
+                    "west": 2
+                },
+                "highway_connections": {
+                    "north": 2,
+                    "south": 2,
+                    "east": 2,
+                    "west": 1
+                },
+                "airports": [
+                    "Traian Vuia International Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 45.7489,
+                "longitude": 21.2087,
+                "nearest_city_distance_km": {
+                    "value": 50.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Bega"
+                ],
+                "elevation_meters": 90,
+                "max_daily_temperature_celsius": 28.3,
+                "min_daily_temperature_celsius": 5.1,
+                "precipitation": "moderate",
+                "rainy_days": 90,
+                "monthly_sunshine_hours": 210
+            },
+            "coat_of_arms_image_path": "romania/timisoara_coat_of_arms.jpg"
+        },
+        {
+            "name": "Iași",
+            "country": "Rumänien",
+            "population": 290422,
+            "average_age": 32.8,
+            "area": 93.9,
+            "founding_year": "1408-10-14",
+            "population_density": 3093,
+            "districts": 5,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 3,
+                    "south": 1,
+                    "east": 1,
+                    "west": 2
+                },
+                "highway_connections": {
+                    "north": 2,
+                    "south": 2,
+                    "east": 2,
+                    "west": 2
+                },
+                "airports": [
+                    "Iași International Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 47.1585,
+                "longitude": 27.6014,
+                "nearest_city_distance_km": {
+                    "value": 40.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Bahlui"
+                ],
+                "elevation_meters": 50,
+                "max_daily_temperature_celsius": 28.7,
+                "min_daily_temperature_celsius": 2.5,
+                "precipitation": "moderate",
+                "rainy_days": 110,
+                "monthly_sunshine_hours": 200
+            },
+            "coat_of_arms_image_path": "romania/iasi_coat_of_arms.jpg"
+        },
+        {
+            "name": "Constanța",
+            "country": "Rumänien",
+            "population": 283872,
+            "average_age": 37.6,
+            "area": 124.9,
+            "founding_year": "657 BC",
+            "population_density": 2275,
+            "districts": 4,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 2,
+                    "south": 1,
+                    "east": 2,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 2,
+                    "south": 2,
+                    "east": 2,
+                    "west": 2
+                },
+                "airports": [
+                    "Mihail Kogălniceanu International Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 44.1765,
+                "longitude": 28.6532,
+                "nearest_city_distance_km": {
+                    "value": 20.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Dobrogea"
+                ],
+                "elevation_meters": 0,
+                "max_daily_temperature_celsius": 29.5,
+                "min_daily_temperature_celsius": 7.8,
+                "precipitation": "low",
+                "rainy_days": 75,
+                "monthly_sunshine_hours": 230
+            },
+            "coat_of_arms_image_path": "romania/constanta_coat_of_arms.jpg"
+        },
+        {
+            "name": "Craiova",
+            "country": "Rumänien",
+            "population": 269506,
+            "average_age": 38.9,
+            "area": 48.4,
+            "founding_year": "1475-06-01",
+            "population_density": 5565,
+            "districts": 4,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 2,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 2,
+                    "south": 2,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 44.3181,
+                "longitude": 23.8091,
+                "nearest_city_distance_km": {
+                    "value": 30.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Jiu"
+                ],
+                "elevation_meters": 116,
+                "max_daily_temperature_celsius": 29.0,
+                "min_daily_temperature_celsius": 6.8,
+                "precipitation": "moderate",
+                "rainy_days": 90,
+                "monthly_sunshine_hours": 220
+            },
+            "coat_of_arms_image_path": "romania/craiova_coat_of_arms.jpg"
+        },
+        {
+            "name": "Moskau (Moskva)",
+            "country": "Russland",
+            "population": 12678079,
+            "average_age": 35.6,
+            "area": 2561,
+            "founding_year": "1147-04-11",
+            "population_density": 4954,
+            "districts": 12,
+            "transportation": {
+                "subway_connections": {
+                    "north": 1,
+                    "south": 2,
+                    "east": 2,
+                    "west": 2
+                },
+                "train_connections": {
+                    "north": 3,
+                    "south": 4,
+                    "east": 3,
+                    "west": 3
+                },
+                "highway_connections": {
+                    "north": 5,
+                    "south": 4,
+                    "east": 5,
+                    "west": 6
+                },
+                "airports": [
+                    "Sheremetyevo International Airport",
+                    "Domodedovo International Airport",
+                    "Vnukovo International Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 55.7558,
+                "longitude": 37.6173,
+                "nearest_city_distance_km": {
+                    "value": 120.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Moskva"
+                ],
+                "elevation_meters": 156,
+                "max_daily_temperature_celsius": 25.7,
+                "min_daily_temperature_celsius": -10.4,
+                "precipitation": "moderate",
+                "rainy_days": 123,
+                "monthly_sunshine_hours": 168
+            },
+            "coat_of_arms_image_path": "russia/moscow_coat_of_arms.jpg"
+        },
+        {
+            "name": "Sankt Petersburg",
+            "country": "Russland",
+            "population": 5398064,
+            "average_age": 40.2,
+            "area": 1439,
+            "founding_year": "1703-05-27",
+            "population_density": 3755,
+            "districts": 18,
+            "transportation": {
+                "subway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "train_connections": {
+                    "north": 3,
+                    "south": 2,
+                    "east": 2,
+                    "west": 3
+                },
+                "highway_connections": {
+                    "north": 3,
+                    "south": 3,
+                    "east": 2,
+                    "west": 3
+                },
+                "airports": [
+                    "Pulkovo Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 59.9343,
+                "longitude": 30.3351,
+                "nearest_city_distance_km": {
+                    "value": 40.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Neva"
+                ],
+                "elevation_meters": 4,
+                "max_daily_temperature_celsius": 24.1,
+                "min_daily_temperature_celsius": -10.9,
+                "precipitation": "high",
+                "rainy_days": 165,
+                "monthly_sunshine_hours": 157
+            },
+            "coat_of_arms_image_path": "russia/saint_petersburg_coat_of_arms.jpg"
+        },
+        {
+            "name": "Nowosibirsk",
+            "country": "Russland",
+            "population": 1612833,
+            "average_age": 34.8,
+            "area": 502,
+            "founding_year": "1893-08-09",
+            "population_density": 3212,
+            "districts": 10,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "train_connections": {
+                    "north": 2,
+                    "south": 1,
+                    "east": 2,
+                    "west": 2
+                },
+                "highway_connections": {
+                    "north": 2,
+                    "south": 2,
+                    "east": 3,
+                    "west": 3
+                },
+                "airports": [
+                    "Tolmachevo Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 55.0084,
+                "longitude": 82.9357,
+                "nearest_city_distance_km": {
+                    "value": 50.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Ob"
+                ],
+                "elevation_meters": 169,
+                "max_daily_temperature_celsius": 24.9,
+                "min_daily_temperature_celsius": -18.7,
+                "precipitation": "moderate",
+                "rainy_days": 93,
+                "monthly_sunshine_hours": 235
+            },
+            "coat_of_arms_image_path": "russia/novosibirsk_coat_of_arms.jpg"
+        },
+        {
+            "name": "Jekaterinburg",
+            "country": "Russland",
+            "population": 1493749,
+            "average_age": 36.1,
+            "area": 468,
+            "founding_year": "1723-11-18",
+            "population_density": 3189,
+            "districts": 7,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "train_connections": {
+                    "north": 2,
+                    "south": 1,
+                    "east": 2,
+                    "west": 2
+                },
+                "highway_connections": {
+                    "north": 2,
+                    "south": 2,
+                    "east": 2,
+                    "west": 3
+                },
+                "airports": [
+                    "Koltsovo Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 56.8389,
+                "longitude": 60.6057,
+                "nearest_city_distance_km": {
+                    "value": 25.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Iset"
+                ],
+                "elevation_meters": 238,
+                "max_daily_temperature_celsius": 23.7,
+                "min_daily_temperature_celsius": -16.9,
+                "precipitation": "moderate",
+                "rainy_days": 110,
+                "monthly_sunshine_hours": 191
+            },
+            "coat_of_arms_image_path": "russia/ekaterinburg_coat_of_arms.jpg"
+        },
+        {
+            "name": "Kasan",
+            "country": "Russland",
+            "population": 1251967,
+            "average_age": 31.5,
+            "area": 425.3,
+            "founding_year": "1005-09-06",
+            "population_density": 2943,
+            "districts": 8,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "train_connections": {
+                    "north": 2,
+                    "south": 1,
+                    "east": 2,
+                    "west": 2
+                },
+                "highway_connections": {
+                    "north": 2,
+                    "south": 2,
+                    "east": 2,
+                    "west": 2
+                },
+                "airports": [
+                    "Kazan International Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 55.7961,
+                "longitude": 49.1067,
+                "nearest_city_distance_km": {
+                    "value": 30.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Volga"
+                ],
+                "elevation_meters": 116,
+                "max_daily_temperature_celsius": 26.2,
+                "min_daily_temperature_celsius": -12.6,
+                "precipitation": "moderate",
+                "rainy_days": 100,
+                "monthly_sunshine_hours": 180
+            },
+            "coat_of_arms_image_path": "russia/kazan_coat_of_arms.jpg"
+        },
+        {
+            "name": "Nischni Nowgorod",
+            "country": "Russland",
+            "population": 1243160,
+            "average_age": 37.8,
+            "area": 411.9,
+            "founding_year": "1221-08-16",
+            "population_density": 3016,
+            "districts": 8,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "train_connections": {
+                    "north": 2,
+                    "south": 1,
+                    "east": 2,
+                    "west": 2
+                },
+                "highway_connections": {
+                    "north": 2,
+                    "south": 2,
+                    "east": 2,
+                    "west": 2
+                },
+                "airports": [
+                    "Strigino International Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 56.2965,
+                "longitude": 43.9361,
+                "nearest_city_distance_km": {
+                    "value": 25.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Volga"
+                ],
+                "elevation_meters": 80,
+                "max_daily_temperature_celsius": 25.4,
+                "min_daily_temperature_celsius": -13.1,
+                "precipitation": "moderate",
+                "rainy_days": 110,
+                "monthly_sunshine_hours": 186
+            },
+            "coat_of_arms_image_path": "russia/nizhny_novgorod_coat_of_arms.jpg"
+        },
+        {
+            "name": "San Marino",
+            "country": "San Marino",
+            "population": 4493,
+            "average_age": 45.2,
+            "area": 7.09,
+            "founding_year": "301-09-03",
+            "population_density": 634,
+            "districts": 9,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 43.9424,
+                "longitude": 12.4578,
+                "nearest_city_distance_km": {
+                    "value": 10.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Ausa"
+                ],
+                "elevation_meters": 749,
+                "max_daily_temperature_celsius": 21.8,
+                "min_daily_temperature_celsius": 7.5,
+                "precipitation": "moderate",
+                "rainy_days": 100,
+                "monthly_sunshine_hours": 160
+            },
+            "coat_of_arms_image_path": "san_marino/coat_of_arms.jpg"
+        },
+        {
+            "name": "Stockholm",
+            "country": "Schweden",
+            "population": 974073,
+            "average_age": 39.5,
+            "area": 188,
+            "founding_year": "1252-05-01",
+            "population_density": 5171,
+            "districts": 14,
+            "transportation": {
+                "subway_connections": {
+                    "north": 1,
+                    "south": 2,
+                    "east": 2,
+                    "west": 1
+                },
+                "train_connections": {
+                    "north": 3,
+                    "south": 3,
+                    "east": 3,
+                    "west": 3
+                },
+                "highway_connections": {
+                    "north": 4,
+                    "south": 3,
+                    "east": 4,
+                    "west": 5
+                },
+                "airports": [
+                    "Stockholm Arlanda Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 59.3293,
+                "longitude": 18.0686,
+                "nearest_city_distance_km": {
+                    "value": 50.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Norrtälje"
+                ],
+                "elevation_meters": 0,
+                "max_daily_temperature_celsius": 21.8,
+                "min_daily_temperature_celsius": -3.7,
+                "precipitation": "moderate",
+                "rainy_days": 170,
+                "monthly_sunshine_hours": 180
+            },
+            "coat_of_arms_image_path": "sweden/stockholm_coat_of_arms.jpg"
+        },
+        {
+            "name": "Göteborg (Gothenburg)",
+            "country": "Schweden",
+            "population": 572779,
+            "average_age": 38.2,
+            "area": 215,
+            "founding_year": "1621-05-04",
+            "population_density": 2664,
+            "districts": 10,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 2,
+                    "south": 3,
+                    "east": 2,
+                    "west": 2
+                },
+                "highway_connections": {
+                    "north": 3,
+                    "south": 2,
+                    "east": 3,
+                    "west": 3
+                },
+                "airports": [
+                    "Göteborg Landvetter Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 57.7089,
+                "longitude": 11.9746,
+                "nearest_city_distance_km": {
+                    "value": 30.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Göta älv"
+                ],
+                "elevation_meters": 11,
+                "max_daily_temperature_celsius": 20.4,
+                "min_daily_temperature_celsius": 0.5,
+                "precipitation": "high",
+                "rainy_days": 180,
+                "monthly_sunshine_hours": 165
+            },
+            "coat_of_arms_image_path": "sweden/gothenburg_coat_of_arms.jpg"
+        },
+        {
+            "name": "Malmö",
+            "country": "Schweden",
+            "population": 347949,
+            "average_age": 37.8,
+            "area": 77,
+            "founding_year": "1250-02-17",
+            "population_density": 4521,
+            "districts": 5,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "train_connections": {
+                    "north": 2,
+                    "south": 1,
+                    "east": 2,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 2,
+                    "south": 2,
+                    "east": 2,
+                    "west": 2
+                },
+                "airports": [
+                    "Malmö Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 55.6049,
+                "longitude": 13.0038,
+                "nearest_city_distance_km": {
+                    "value": 15.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Södra Förstadskanalen"
+                ],
+                "elevation_meters": 13,
+                "max_daily_temperature_celsius": 19.7,
+                "min_daily_temperature_celsius": 1.2,
+                "precipitation": "moderate",
+                "rainy_days": 150,
+                "monthly_sunshine_hours": 170
+            },
+            "coat_of_arms_image_path": "sweden/malmo_coat_of_arms.jpg"
+        },
+        {
+            "name": "Uppsala",
+            "country": "Schweden",
+            "population": 233839,
+            "average_age": 39.1,
+            "area": 48.9,
+            "founding_year": "1286-08-25",
+            "population_density": 4780,
+            "districts": 6,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "train_connections": {
+                    "north": 3,
+                    "south": 2,
+                    "east": 2,
+                    "west": 3
+                },
+                "highway_connections": {
+                    "north": 2,
+                    "south": 2,
+                    "east": 2,
+                    "west": 2
+                },
+                "airports": [
+                    "Stockholm-Uppsala Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 59.8586,
+                "longitude": 17.6389,
+                "nearest_city_distance_km": {
+                    "value": 30.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Fyrisån"
+                ],
+                "elevation_meters": 15,
+                "max_daily_temperature_celsius": 20.2,
+                "min_daily_temperature_celsius": -0.9,
+                "precipitation": "moderate",
+                "rainy_days": 160,
+                "monthly_sunshine_hours": 175
+            },
+            "coat_of_arms_image_path": "sweden/uppsala_coat_of_arms.jpg"
+        },
+        {
+            "name": "Zürich",
+            "country": "Schweiz",
+            "population": 434008,
+            "average_age": 39.7,
+            "area": 87.88,
+            "founding_year": "1218-03-01",
+            "population_density": 4938,
+            "districts": 12,
+            "transportation": {
+                "subway_connections": {
+                    "north": 1,
+                    "south": 2,
+                    "east": 2,
+                    "west": 1
+                },
+                "train_connections": {
+                    "north": 3,
+                    "south": 3,
+                    "east": 3,
+                    "west": 3
+                },
+                "highway_connections": {
+                    "north": 4,
+                    "south": 3,
+                    "east": 4,
+                    "west": 5
+                },
+                "airports": [
+                    "Zurich Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 47.3769,
+                "longitude": 8.5417,
+                "nearest_city_distance_km": {
+                    "value": 30.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Limmat"
+                ],
+                "elevation_meters": 408,
+                "max_daily_temperature_celsius": 21.2,
+                "min_daily_temperature_celsius": 0.1,
+                "precipitation": "moderate",
+                "rainy_days": 145,
+                "monthly_sunshine_hours": 170
+            },
+            "coat_of_arms_image_path": "switzerland/zurich_coat_of_arms.jpg"
+        },
+        {
+            "name": "Genf (Genève)",
+            "country": "Schweiz",
+            "population": 200548,
+            "average_age": 39.1,
+            "area": 15.93,
+            "founding_year": "69 BC",
+            "population_density": 12579,
+            "districts": 8,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Geneva Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 46.2044,
+                "longitude": 6.1432,
+                "nearest_city_distance_km": {
+                    "value": 20.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Rhône"
+                ],
+                "elevation_meters": 375,
+                "max_daily_temperature_celsius": 20.1,
+                "min_daily_temperature_celsius": 0.9,
+                "precipitation": "high",
+                "rainy_days": 175,
+                "monthly_sunshine_hours": 155
+            },
+            "coat_of_arms_image_path": "switzerland/geneva_coat_of_arms.jpg"
+        },
+        {
+            "name": "Basel",
+            "country": "Schweiz",
+            "population": 200430,
+            "average_age": 42.6,
+            "area": 23.91,
+            "founding_year": "circa 374",
+            "population_density": 8392,
+            "districts": 4,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "EuroAirport Basel-Mulhouse-Freiburg"
+                ]
+            },
+            "geography": {
+                "latitude": 47.5596,
+                "longitude": 7.5886,
+                "nearest_city_distance_km": {
+                    "value": 30.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Rhine"
+                ],
+                "elevation_meters": 260,
+                "max_daily_temperature_celsius": 20.4,
+                "min_daily_temperature_celsius": 0.8,
+                "precipitation": "moderate",
+                "rainy_days": 160,
+                "monthly_sunshine_hours": 160
+            },
+            "coat_of_arms_image_path": "switzerland/basel_coat_of_arms.jpg"
+        },
+        {
+            "name": "Bern",
+            "country": "Schweiz",
+            "population": 133115,
+            "average_age": 40.8,
+            "area": 51.62,
+            "founding_year": "1191-05-03",
+            "population_density": 2580,
+            "districts": 6,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 46.9480,
+                "longitude": 7.4474,
+                "nearest_city_distance_km": {
+                    "value": 20.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Aare"
+                ],
+                "elevation_meters": 542,
+                "max_daily_temperature_celsius": 20.7,
+                "min_daily_temperature_celsius": 0.6,
+                "precipitation": "moderate",
+                "rainy_days": 155,
+                "monthly_sunshine_hours": 160
+            },
+            "coat_of_arms_image_path": "switzerland/bern_coat_of_arms.jpg"
+        }
+	]
+}

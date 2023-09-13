@@ -1,0 +1,1213 @@
+{
+    "cities": [
+          {
+            "name": "Marseille",
+            "country": "Frankreich",
+            "population": 861635,
+            "average_age": 40.5,
+            "area": 240.62,
+            "founding_year": "600 BC",
+            "population_density": 3582,
+            "districts": 16,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 1,
+                    "west": 0
+                },
+                "airports": [
+                    "Marseille Provence Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 43.2965,
+                "longitude": 5.3690,
+                "nearest_city_distance_km": {
+                    "value": 14.3,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Huveaune"
+                ],
+                "elevation_meters": 20,
+                "max_daily_temperature_celsius": 21.2,
+                "min_daily_temperature_celsius": 6.0,
+                "precipitation": "low",
+                "rainy_days": 60,
+                "monthly_sunshine_hours": 270
+            },
+            "coat_of_arms_image_path": "france/marseille_coat_of_arms.jpg"
+        },
+        {
+            "name": "Lyon",
+            "country": "Frankreich",
+            "population": 515695,
+            "average_age": 40.8,
+            "area": 47.87,
+            "founding_year": "43 BC",
+            "population_density": 10772,
+            "districts": 9,
+            "transportation": {
+                "subway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Lyon-Saint Exupéry Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 45.75,
+                "longitude": 4.85,
+                "nearest_city_distance_km": {
+                    "value": 5.4,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Rhône",
+                    "Saône"
+                ],
+                "elevation_meters": 173,
+                "max_daily_temperature_celsius": 19.9,
+                "min_daily_temperature_celsius": 3.0,
+                "precipitation": "moderate",
+                "rainy_days": 118,
+                "monthly_sunshine_hours": 160
+            },
+            "coat_of_arms_image_path": "france/lyon_coat_of_arms.jpg"
+        },
+        {
+            "name": "Toulouse",
+            "country": "Frankreich",
+            "population": 479553,
+            "average_age": 38.2,
+            "area": 118.3,
+            "founding_year": "1st century BC",
+            "population_density": 4049,
+            "districts": 6,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Toulouse-Blagnac Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 43.6045,
+                "longitude": 1.4440,
+                "nearest_city_distance_km": {
+                    "value": 7.1,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Garonne"
+                ],
+                "elevation_meters": 146,
+                "max_daily_temperature_celsius": 20.5,
+                "min_daily_temperature_celsius": 3.0,
+                "precipitation": "moderate",
+                "rainy_days": 105,
+                "monthly_sunshine_hours": 180
+            },
+            "coat_of_arms_image_path": "france/toulouse_coat_of_arms.jpg"
+        },
+        {
+            "name": "Nizza",
+            "country": "Frankreich",
+            "population": 343629,
+            "average_age": 43.1,
+            "area": 71.92,
+            "founding_year": "350 BC",
+            "population_density": 4778,
+            "districts": 8,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 1,
+                    "west": 0
+                },
+                "airports": [
+                    "Nice Côte d'Azur Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 43.7102,
+                "longitude": 7.2620,
+                "nearest_city_distance_km": {
+                    "value": 9.6,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Paillon"
+                ],
+                "elevation_meters": 10,
+                "max_daily_temperature_celsius": 20.9,
+                "min_daily_temperature_celsius": 8.5,
+                "precipitation": "low",
+                "rainy_days": 60,
+                "monthly_sunshine_hours": 270
+            },
+            "coat_of_arms_image_path": "france/nice_coat_of_arms.jpg"
+        },
+        {
+            "name": "Nantes",
+            "country": "Frankreich",
+            "population": 309346,
+            "average_age": 38.7,
+            "area": 65.19,
+            "founding_year": "1st century BC",
+            "population_density": 4743,
+            "districts": 11,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Nantes Atlantique Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 47.2184,
+                "longitude": -1.5536,
+                "nearest_city_distance_km": {
+                    "value": 6.2,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Loire"
+                ],
+                "elevation_meters": 15,
+                "max_daily_temperature_celsius": 19.8,
+                "min_daily_temperature_celsius": 4.5,
+                "precipitation": "moderate",
+                "rainy_days": 109,
+                "monthly_sunshine_hours": 168
+            },
+            "coat_of_arms_image_path": "france/nantes_coat_of_arms.jpg"
+        },
+        {
+            "name": "Straßburg",
+            "country": "Frankreich",
+            "population": 280966,
+            "average_age": 39.2,
+            "area": 78.26,
+            "founding_year": "12 BC",
+            "population_density": 3591,
+            "districts": 15,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Strasbourg Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 48.5734,
+                "longitude": 7.7521,
+                "nearest_city_distance_km": {
+                    "value": 3.3,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Ill"
+                ],
+                "elevation_meters": 140,
+                "max_daily_temperature_celsius": 18.4,
+                "min_daily_temperature_celsius": 3.2,
+                "precipitation": "moderate",
+                "rainy_days": 113,
+                "monthly_sunshine_hours": 161
+            },
+            "coat_of_arms_image_path": "france/strasbourg_coat_of_arms.jpg"
+        },
+        {
+            "name": "Montpellier",
+            "country": "Frankreich",
+            "population": 285121,
+            "average_age": 35.9,
+            "area": 56.88,
+            "founding_year": "985 AD",
+            "population_density": 5011,
+            "districts": 7,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 1,
+                    "west": 0
+                },
+                "airports": [
+                    "Montpellier Méditerranée Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 43.6110,
+                "longitude": 3.8767,
+                "nearest_city_distance_km": {
+                    "value": 5.1,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Lez"
+                ],
+                "elevation_meters": 7,
+                "max_daily_temperature_celsius": 21.2,
+                "min_daily_temperature_celsius": 7.2,
+                "precipitation": "low",
+                "rainy_days": 57,
+                "monthly_sunshine_hours": 270
+            },
+            "coat_of_arms_image_path": "france/montpellier_coat_of_arms.jpg"
+        },
+        {
+            "name": "Athen",
+            "country": "Griechenland",
+            "population": 664046,
+            "average_age": 38.4,
+            "area": 412.0,
+            "founding_year": "1400 BC",
+            "population_density": 1611,
+            "districts": 7,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Eleftherios Venizelos Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 37.9838,
+                "longitude": 23.7275,
+                "nearest_city_distance_km": {
+                    "value": 4.2,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Kifisos"
+                ],
+                "elevation_meters": 70,
+                "max_daily_temperature_celsius": 23.5,
+                "min_daily_temperature_celsius": 10.2,
+                "precipitation": "low",
+                "rainy_days": 45,
+                "monthly_sunshine_hours": 330
+            },
+            "coat_of_arms_image_path": "greece/athens_coat_of_arms.jpg"
+        },
+        {
+            "name": "Thessaloniki",
+            "country": "Griechenland",
+            "population": 322240,
+            "average_age": 36.8,
+            "area": 231.8,
+            "founding_year": "315 BC",
+            "population_density": 1390,
+            "districts": 10,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Thessaloniki Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 40.6401,
+                "longitude": 22.9444,
+                "nearest_city_distance_km": {
+                    "value": 3.6,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Vardar"
+                ],
+                "elevation_meters": 5,
+                "max_daily_temperature_celsius": 23.7,
+                "min_daily_temperature_celsius": 11.1,
+                "precipitation": "moderate",
+                "rainy_days": 75,
+                "monthly_sunshine_hours": 280
+            },
+            "coat_of_arms_image_path": "greece/thessaloniki_coat_of_arms.jpg"
+        },
+        {
+            "name": "Patras",
+            "country": "Griechenland",
+            "population": 170889,
+            "average_age": 39.2,
+            "area": 334.9,
+            "founding_year": "1100 BC",
+            "population_density": 510,
+            "districts": 6,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 0
+                },
+                "airports": [
+                    "Araxos Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 38.2466,
+                "longitude": 21.7346,
+                "nearest_city_distance_km": {
+                    "value": 5.2,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Moutoura"
+                ],
+                "elevation_meters": 7,
+                "max_daily_temperature_celsius": 24.1,
+                "min_daily_temperature_celsius": 10.6,
+                "precipitation": "low",
+                "rainy_days": 49,
+                "monthly_sunshine_hours": 310
+            },
+            "coat_of_arms_image_path": "greece/patras_coat_of_arms.jpg"
+        },
+        {
+            "name": "Piräus",
+            "country": "Griechenland",
+            "population": 163688,
+            "average_age": 40.1,
+            "area": 10.865,
+            "founding_year": "c. 5th century BC",
+            "population_density": 15072,
+            "districts": 6,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 37.9475,
+                "longitude": 23.6479,
+                "nearest_city_distance_km": {
+                    "value": 6.1,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Kifisos"
+                ],
+                "elevation_meters": 5,
+                "max_daily_temperature_celsius": 23.8,
+                "min_daily_temperature_celsius": 11.1,
+                "precipitation": "low",
+                "rainy_days": 38,
+                "monthly_sunshine_hours": 340
+            },
+            "coat_of_arms_image_path": "greece/piraeus_coat_of_arms.jpg"
+        },
+        {
+            "name": "Larisa",
+            "country": "Griechenland",
+            "population": 144651,
+            "average_age": 37.5,
+            "area": 335.6,
+            "founding_year": "4th century BC",
+            "population_density": 431,
+            "districts": 4,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 39.6396,
+                "longitude": 22.4204,
+                "nearest_city_distance_km": {
+                    "value": 4.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Pineios"
+                ],
+                "elevation_meters": 70,
+                "max_daily_temperature_celsius": 23.9,
+                "min_daily_temperature_celsius": 10.2,
+                "precipitation": "moderate",
+                "rainy_days": 65,
+                "monthly_sunshine_hours": 250
+            },
+            "coat_of_arms_image_path": "greece/larisa_coat_of_arms.jpg"
+        },
+        {
+            "name": "Iraklio",
+            "country": "Griechenland",
+            "population": 141307,
+            "average_age": 39.7,
+            "area": 82.12,
+            "founding_year": "c. 824 AD",
+            "population_density": 1720,
+            "districts": 5,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Heraklion Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 35.3387,
+                "longitude": 25.1442,
+                "nearest_city_distance_km": {
+                    "value": 4.6,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Kairatos"
+                ],
+                "elevation_meters": 35,
+                "max_daily_temperature_celsius": 23.8,
+                "min_daily_temperature_celsius": 11.4,
+                "precipitation": "low",
+                "rainy_days": 45,
+                "monthly_sunshine_hours": 295
+            },
+            "coat_of_arms_image_path": "greece/iraklio_coat_of_arms.jpg"
+        },
+        {
+            "name": "Kozani",
+            "country": "Griechenland",
+            "population": 70548,
+            "average_age": 42.1,
+            "area": 426.2,
+            "founding_year": "9th century AD",
+            "population_density": 166,
+            "districts": 3,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 1,
+                    "west": 0
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 40.3010,
+                "longitude": 21.7887,
+                "nearest_city_distance_km": {
+                    "value": 3.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Aliakmonas"
+                ],
+                "elevation_meters": 710,
+                "max_daily_temperature_celsius": 21.5,
+                "min_daily_temperature_celsius": 5.6,
+                "precipitation": "moderate",
+                "rainy_days": 108,
+                "monthly_sunshine_hours": 192
+            },
+            "coat_of_arms_image_path": "greece/kozani_coat_of_arms.jpg"
+        },
+        {
+            "name": "Dublin",
+            "country": "Irland",
+            "population": 554554,
+            "average_age": 34.9,
+            "area": 115.0,
+            "founding_year": "988 AD",
+            "population_density": 4820,
+            "districts": 24,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Dublin Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 53.3498,
+                "longitude": -6.2603,
+                "nearest_city_distance_km": {
+                    "value": 4.5,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "River Liffey"
+                ],
+                "elevation_meters": 20,
+                "max_daily_temperature_celsius": 15.8,
+                "min_daily_temperature_celsius": 7.2,
+                "precipitation": "moderate",
+                "rainy_days": 128,
+                "monthly_sunshine_hours": 120
+            },
+            "coat_of_arms_image_path": "ireland/dublin_coat_of_arms.jpg"
+        },
+        {
+            "name": "Cork",
+            "country": "Irland",
+            "population": 208669,
+            "average_age": 36.2,
+            "area": 37.3,
+            "founding_year": "7th century AD",
+            "population_density": 5600,
+            "districts": 9,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "airports": [
+                    "Cork Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 51.8969,
+                "longitude": -8.4863,
+                "nearest_city_distance_km": {
+                    "value": 2.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "River Lee"
+                ],
+                "elevation_meters": 5,
+                "max_daily_temperature_celsius": 15.3,
+                "min_daily_temperature_celsius": 6.5,
+                "precipitation": "high",
+                "rainy_days": 150,
+                "monthly_sunshine_hours": 90
+            },
+            "coat_of_arms_image_path": "ireland/cork_coat_of_arms.jpg"
+        },
+        {
+            "name": "Limerick",
+            "country": "Irland",
+            "population": 194899,
+            "average_age": 35.7,
+            "area": 54.3,
+            "founding_year": "812 AD",
+            "population_density": 3588,
+            "districts": 4,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "airports": [
+                    "Shannon Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 52.6680,
+                "longitude": -8.6305,
+                "nearest_city_distance_km": {
+                    "value": 2.3,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "River Shannon"
+                ],
+                "elevation_meters": 17,
+                "max_daily_temperature_celsius": 14.8,
+                "min_daily_temperature_celsius": 6.6,
+                "precipitation": "moderate",
+                "rainy_days": 135,
+                "monthly_sunshine_hours": 110
+            },
+            "coat_of_arms_image_path": "ireland/limerick_coat_of_arms.jpg"
+        },
+        {
+            "name": "Galway",
+            "country": "Irland",
+            "population": 79058,
+            "average_age": 30.4,
+            "area": 54.9,
+            "founding_year": "c. 1124 AD",
+            "population_density": 1440,
+            "districts": 5,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "airports": [
+                    "Shannon Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 53.2707,
+                "longitude": -9.0568,
+                "nearest_city_distance_km": {
+                    "value": 4.6,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "River Corrib"
+                ],
+                "elevation_meters": 5,
+                "max_daily_temperature_celsius": 14.7,
+                "min_daily_temperature_celsius": 7.1,
+                "precipitation": "high",
+                "rainy_days": 140,
+                "monthly_sunshine_hours": 115
+            },
+            "coat_of_arms_image_path": "ireland/galway_coat_of_arms.jpg"
+        },
+        {
+            "name": "Waterford",
+            "country": "Irland",
+            "population": 53553,
+            "average_age": 39.8,
+            "area": 44.5,
+            "founding_year": "914 AD",
+            "population_density": 1203,
+            "districts": 4,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 52.2593,
+                "longitude": -7.1101,
+                "nearest_city_distance_km": {
+                    "value": 2.8,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "River Suir"
+                ],
+                "elevation_meters": 0,
+                "max_daily_temperature_celsius": 14.4,
+                "min_daily_temperature_celsius": 6.5,
+                "precipitation": "moderate",
+                "rainy_days": 130,
+                "monthly_sunshine_hours": 105
+            },
+            "coat_of_arms_image_path": "ireland/waterford_coat_of_arms.jpg"
+        },
+        {
+            "name": "Reykjavik",
+            "country": "Island",
+            "population": 128793,
+            "average_age": 36.9,
+            "area": 273.0,
+            "founding_year": "870 AD",
+            "population_density": 472,
+            "districts": 10,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 1,
+                    "east": 1,
+                    "west": 1
+                },
+                "airports": [
+                    "Keflavik International Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 64.1466,
+                "longitude": -21.9426,
+                "nearest_city_distance_km": {
+                    "value": 3.7,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Ellidaar"
+                ],
+                "elevation_meters": 38,
+                "max_daily_temperature_celsius": 10.8,
+                "min_daily_temperature_celsius": 2.5,
+                "precipitation": "high",
+                "rainy_days": 210,
+                "monthly_sunshine_hours": 120
+            },
+            "coat_of_arms_image_path": "iceland/reykjavik_coat_of_arms.jpg"
+        },
+        {
+            "name": "Kopavogur",
+            "country": "Island",
+            "population": 36923,
+            "average_age": 37.2,
+            "area": 80.3,
+            "founding_year": "1948",
+            "population_density": 459,
+            "districts": 5,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 64.1194,
+                "longitude": -21.9084,
+                "nearest_city_distance_km": {
+                    "value": 3.1,
+                    "unit": "kilometers"
+                },
+                "rivers": [],
+                "elevation_meters": 8,
+                "max_daily_temperature_celsius": 10.6,
+                "min_daily_temperature_celsius": 2.5,
+                "precipitation": "high",
+                "rainy_days": 215,
+                "monthly_sunshine_hours": 115
+            },
+            "coat_of_arms_image_path": "iceland/kopavogur_coat_of_arms.jpg"
+        },
+        {
+            "name": "Hafnarfjörður",
+            "country": "Island",
+            "population": 30160,
+            "average_age": 38.4,
+            "area": 143.0,
+            "founding_year": "1908",
+            "population_density": 211,
+            "districts": 7,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 1
+                },
+                "airports": []
+            },
+            "geography": {
+                "latitude": 64.0672,
+                "longitude": -21.9379,
+                "nearest_city_distance_km": {
+                    "value": 8.5,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Búrfellsvatn"
+                ],
+                "elevation_meters": 15,
+                "max_daily_temperature_celsius": 10.6,
+                "min_daily_temperature_celsius": 2.5,
+                "precipitation": "high",
+                "rainy_days": 210,
+                "monthly_sunshine_hours": 120
+            },
+            "coat_of_arms_image_path": "iceland/hafnarfjordur_coat_of_arms.jpg"
+        },
+        {
+            "name": "Akureyri",
+            "country": "Island",
+            "population": 18689,
+            "average_age": 39.1,
+            "area": 149.7,
+            "founding_year": "1786",
+            "population_density": 125,
+            "districts": 7,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 1
+                },
+                "airports": [
+                    "Akureyri Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 65.6844,
+                "longitude": -18.1229,
+                "nearest_city_distance_km": {
+                    "value": 5.2,
+                    "unit": "kilometers"
+                },
+                "rivers": [
+                    "Glerá"
+                ],
+                "elevation_meters": 5,
+                "max_daily_temperature_celsius": 9.7,
+                "min_daily_temperature_celsius": 0.2,
+                "precipitation": "moderate",
+                "rainy_days": 160,
+                "monthly_sunshine_hours": 115
+            },
+            "coat_of_arms_image_path": "iceland/akureyri_coat_of_arms.jpg"
+        },
+        {
+            "name": "Keflavik",
+            "country": "Island",
+            "population": 15500,
+            "average_age": 37.6,
+            "area": 9.1,
+            "founding_year": "16th century",
+            "population_density": 1703,
+            "districts": 1,
+            "transportation": {
+                "subway_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "train_connections": {
+                    "north": 0,
+                    "south": 1,
+                    "east": 0,
+                    "west": 0
+                },
+                "highway_connections": {
+                    "north": 1,
+                    "south": 0,
+                    "east": 0,
+                    "west": 0
+                },
+                "airports": [
+                    "Keflavik International Airport"
+                ]
+            },
+            "geography": {
+                "latitude": 63.9981,
+                "longitude": -22.5619,
+                "nearest_city_distance_km": {
+                    "value": 37.0,
+                    "unit": "kilometers"
+                },
+                "rivers": [],
+                "elevation_meters": 50,
+                "max_daily_temperature_celsius": 10.5,
+                "min_daily_temperature_celsius": 2.6,
+                "precipitation": "moderate",
+                "rainy_days": 200,
+                "monthly_sunshine_hours": 100
+            },
+            "coat_of_arms_image_path": "iceland/keflavik_coat_of_arms.jpg"
+        }
+    ]
+}
