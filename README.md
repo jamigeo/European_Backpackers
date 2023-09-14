@@ -1,8 +1,7 @@
 # The European Backpackers Project
-This Readme.md file is intended to ensure that you get all the necessary information about this project, and the implementation of this architecture. If you notice an error during your visit, feel free to let us know in an issue.
 
 ## Frontend
-Frontend Project at https://github.com/n9br/Project-Backpacker-Frontend.git
+Frontend Project at https://github.com/n9br/map-display-osm-ol
 
 ## Please make sure you have met the following requirements:
 
@@ -86,17 +85,38 @@ Frontend Project at https://github.com/n9br/Project-Backpacker-Frontend.git
 
 * API Gateway (not yet)
 
-* 2 Lambda functions (GET and POST City)
+* retrieve new API Endpoint with Powershell: 
+    $($api | ConvertFrom-Json).Items.ApiEndpoint       
+
+    or more precise:
+    aws apigatewayv2 get-apis --query 'Items[?Name==`api-cities`].ApiEndpoint'
+
+* Lambda functions:
+	GET-cities
+	POST-city
+	import-cities	(von s3)
 
 * DynamoDB Table
     > Name : 'european-cities'
-    > Key : 'Name'
+    > Key : 'name'
 
 
 ### 4. File Structure
 
 - Working Directory: Terraform-EB
 - edit variables.tf
+
+
+
+
+
+
+
+
+
+
+
+
 
 [^1]: Wichtig ist es zu beachten, dass diese Fußnote auch irgendwann einen Sinn bekommt...
 

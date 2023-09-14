@@ -1,5 +1,4 @@
-{
-    "cities": [
+
           {
             "name": "Marseille",
             "country": "Frankreich",
@@ -1208,6 +1207,4 @@
                 "monthly_sunshine_hours": 100
             },
             "coat_of_arms_image_path": "iceland/keflavik_coat_of_arms.jpg"
-        }
-    ]
-}
+        },

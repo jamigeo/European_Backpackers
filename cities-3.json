@@ -1,5 +1,4 @@
-{
-    "cities": [
+
        {
             "name": "Berlin",
             "country": "Germany",
@@ -1410,6 +1409,4 @@
                 "monthly_sunshine_hours": 166
             },
             "coat_of_arms_image_path": "france/paris_coat_of_arms.jpg"
-        }
-    ]
-}
+        },

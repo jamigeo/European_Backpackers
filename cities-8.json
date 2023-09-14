@@ -1,5 +1,4 @@
-{
-    "cities": [
+
 	{
             "name": "Oslo",
             "country": "Norwegen",
@@ -1200,6 +1199,4 @@
                 "monthly_sunshine_hours": 213
             },
             "coat_of_arms_image_path": "portugal/funchal_coat_of_arms.jpg"
-        }
-	]
-}
+        },

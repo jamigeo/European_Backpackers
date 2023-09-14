@@ -1,6 +1,5 @@
-{
-    "cities": [
-        {
+
+      {
             "name": "Tirana",
             "country": "Albania",
             "population": 421286,
@@ -842,7 +841,4 @@
                 "monthly_sunshine_hours": 150
             },
             "coat_of_arms_image_path": "belgium/anderlecht_coat_of_arms.jpg"
-        }
-
-    ]
-}
+        },

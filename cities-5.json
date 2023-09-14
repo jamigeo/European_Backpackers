@@ -1,5 +1,4 @@
-{
-    "cities": [
+
         {
             "name": "Rom",
             "country": "Italien",
@@ -1175,6 +1174,4 @@
                 "monthly_sunshine_hours": 140
             },
             "coat_of_arms_image_path": "liechtenstein/schaan_coat_of_arms.jpg"
-        }
-	]
-}
+        },

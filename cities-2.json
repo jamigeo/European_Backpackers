@@ -1,5 +1,4 @@
-{
-    "cities": [
+
         {
             "name": "Sarajevo",
             "country": "Bosnia and Herzegovina",
@@ -671,6 +670,4 @@
                 "monthly_sunshine_hours": 160
             },
             "coat_of_arms_image_path": "denmark/horsens_coat_of_arms.jpg"
-        }
-	]
-}
+        },

@@ -1,6 +1,4 @@
 {
-    "cities": [
-{
             "name": "Belgrad (Beograd)",
             "country": "Serbien",
             "population": 1233792,
@@ -1620,5 +1618,3 @@
             },
             "coat_of_arms_image_path": "cyprus/nikosia_coat_of_arms.jpg"
         }
-    ]
-}

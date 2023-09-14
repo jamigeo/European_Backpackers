@@ -1,6 +1,6 @@
 
 resource "aws_s3_bucket" "upload-bucket" {
-  bucket = "uploads-3to-dynamo-db"
+  bucket = var.aws_bucket_name
 }
 
 resource "aws_s3_bucket_public_access_block" "upload-bucket" {
@@ -14,7 +14,7 @@ resource "aws_s3_bucket_public_access_block" "upload-bucket" {
 }
 
 locals {
-  file_to_upload = "cities-reduced.json"
+  file_to_upload = "european-cities-list.json"
 }
 
 # Erstelle eine "null_resource", um das Hochladen der Datei zu steuern

@@ -1,5 +1,4 @@
-{
-    "cities": [
+
 			{
             "name": "Monaco-Ville (Monaco-Stadt)",
             "country": "Monaco",
@@ -1032,6 +1031,4 @@
                 "monthly_sunshine_hours": 195
             },
             "coat_of_arms_image_path": "north_macedonia/tetovo_coat_of_arms.jpg"
-        }
-	]
-}
+        },

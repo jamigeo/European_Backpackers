@@ -1,5 +1,4 @@
-{
-    "cities": [
+
 	 {
             "name": "Vilnius",
             "country": "Litauen",
@@ -889,6 +888,4 @@
                 "monthly_sunshine_hours": 161
             },
             "coat_of_arms_image_path": "moldawien/bender_coat_of_arms.jpg"
-        }
-	]
-}
+        },
