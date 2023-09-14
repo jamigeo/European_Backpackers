@@ -40,10 +40,10 @@ resource "aws_dynamodb_table" "european-cities" {
 resource "aws_iam_role" "Lambda-EB-Interaction" {
   name               = "Lambda-EB-Interaction"
   assume_role_policy = data.aws_iam_policy_document.trust_policy.json
-  # managed_policy_arns = ["arn:aws:iam::aws:policy/service-role/AWSLambdaDynamoDBExecutionRole"]
   managed_policy_arns = [
               "arn:aws:iam::aws:policy/AmazonDynamoDBFullAccess",
-              "arn:aws:iam::aws:policy/CloudWatchLogsFullAccess"
+              "arn:aws:iam::aws:policy/CloudWatchLogsFullAccess",
+              "arn:aws:iam::aws:policy/AmazonS3FullAccess"
             ]
 }
 
@@ -52,19 +52,23 @@ resource "aws_lambda_function" "POST-city" {
   filename      = "lambda-zip/post_city.zip"
   function_name = "POST-city"
   role          = "arn:aws:iam::${var.aws_account_id}:role/Lambda-EB-Interaction"
-  # role          = "arn:aws:iam::${var.aws_account_id}:role/service-role/0706-DB-Interaction"
-  # role    = "arn:aws:iam::aws:policy/service-role/AWSLambdaDynamoDBExecutionRole"   # cannot assign generic role
-  # handler = "lambda_function.lambda_handler"
   handler = "post_city.lambda_handler"
   runtime = "python3.10"
 }
-
 
 resource "aws_lambda_function" "GET-cities" {
   filename      = "lambda-zip/get_cities.zip"
   function_name = "GET-cities"
   role          = "arn:aws:iam::${var.aws_account_id}:role/Lambda-EB-Interaction"
   handler = "get_cities.lambda_handler"
+  runtime = "python3.10"
+}
+
+resource "aws_lambda_function" "import-cities" {
+  filename      = "lambda-zip/import_cities.zip"
+  function_name = "import-cities"
+  role          = "arn:aws:iam::${var.aws_account_id}:role/Lambda-EB-Interaction"
+  handler = "import_cities.lambda_handler"
   runtime = "python3.10"
 }
 
