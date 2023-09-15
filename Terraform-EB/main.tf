@@ -54,6 +54,7 @@ resource "aws_lambda_function" "POST-city" {
   role          = "arn:aws:iam::${var.aws_account_id}:role/Lambda-EB-Interaction"
   handler = "post_city.lambda_handler"
   runtime = "python3.10"
+  timeout = "60"
 }
 
 resource "aws_lambda_function" "GET-cities" {
@@ -70,5 +71,7 @@ resource "aws_lambda_function" "import-cities" {
   role          = "arn:aws:iam::${var.aws_account_id}:role/Lambda-EB-Interaction"
   handler = "import_cities.lambda_handler"
   runtime = "python3.10"
+  timeout = "60"
+
 }
 
