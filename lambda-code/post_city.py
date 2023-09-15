@@ -15,7 +15,12 @@ def lambda_handler(event, context):
         
     data = json.loads(json.dumps(data), parse_float=Decimal)
     
-    dbResponse = table.put_item(Item= data)
+    if (isinstance(data, list)):
+        for city in data:
+            dbResponse = table.put_item(Item= city)
+
+    else:    
+        dbResponse = table.put_item(Item= data)
     
     httpStatusCode = dbResponse['ResponseMetadata']['HTTPStatusCode']
     
