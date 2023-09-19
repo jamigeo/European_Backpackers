@@ -2,6 +2,16 @@
 resource "aws_apigatewayv2_api" "API-cities" {
   name          = "api-cities"
   protocol_type = "HTTP"
+  cors_configuration {              
+                allow_headers = ["*"]
+                allow_methods = ["*"]
+                allow_origins = ["*"]
+                # "expose_headers": [
+                #   "*"
+                # ],
+                # "allow_credentials": false,
+                # "max_age": 0
+              }
 }
 
 resource "aws_apigatewayv2_stage" "default" {
